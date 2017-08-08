@@ -1,0 +1,2027 @@
+[
+  {
+    "key": "%JY6ElDB7zGUMmclHwuxB4nkdWY6gHgkqVXm70nyXcxw=.sha256",
+    "value": {
+      "previous": "%ySoEIaBktqu3Wsf0foSBzYEpWs3o58mSwFBoaCpTJmg=.sha256",
+      "author": "@A5FqepWjS76C4Hw9idZUyW0T6QgJOjsbQHlIP0A4yu8=.ed25519",
+      "sequence": 724,
+      "timestamp": 1502154064784,
+      "hash": "sha256",
+      "content": {
+        "type": "vote",
+        "channel": "feminism",
+        "vote": {
+          "link": "%sDEEAuMIx4Ms4zcFo1Gpcb/fPuEvJ490cPgfEHKdFSw=.sha256",
+          "value": 1,
+          "expression": "dig"
+        }
+      },
+      "signature": "wU+pAt5Xuj8ikpli2SuTbzpoX7e9hTMAGnr117w6QzqAMfulh4PtWv1vl+mMHVaXQVuPbGOrQ7kCh8VBGJBfCA==.sig.ed25519"
+    },
+    "timestamp": 1502154117510
+  },
+  {
+    "key": "%QaQ4/va/OFVLfJU1pAUxXPSR0VPWxBgAe99KKvOut8o=.sha256",
+    "value": {
+      "previous": "%dXbJitCktgFUe27xkKr5dVhxOp4Y196plAwuFSNOx4M=.sha256",
+      "author": "@uf3kajfhBC2Sd3OysKB5LnBLJ5pwgBhBpXnGEGzgG6A=.ed25519",
+      "sequence": 143,
+      "timestamp": 1502153832951,
+      "hash": "sha256",
+      "content": {
+        "type": "post",
+        "root": "%dXbJitCktgFUe27xkKr5dVhxOp4Y196plAwuFSNOx4M=.sha256",
+        "branch": "%3YFpxWmOxcO6ScWv3t+v4ty0R36PCWIkUlA7UUHgjZA=.sha256",
+        "channel": "politics",
+        "recps": null,
+        "text": "[@Dominic](@EMovhfIrFk4NihAKnRNhrfRaqIhBv1Wj8pTxJNgvCCY=.ed25519) I'm not suggesting that there shouldn't be any kind of efforts done to level the playing field on various topics such as employment, but rather, that those who advocate for discriminatory practices to do so (i don't consider, nor would I think any sane person consider, removing gendered names from a CV for instance, as being discriminatory).\n\nMy problem is strictly with the discriminatory activities some folks advocate to level the playing field. That is to say, ruling folks out for positions or opportunities based solely on their race, gender, etc. \n\n[@dinosaur](@6ilZq3kN0F+dXFHAPjAwMm87JEb/VdB+LC9eIMW3sa0=.ed25519) I do agree that there are systemic biases that lead to unequal opportunity and distribution of wealth irrespective of other factors. I also agree that we, collectively need to do something to address such imbalances. That said, aims to strive for 50/50 equality generally tend to lead down to discriminatory paths when folks run out of other ideas, which turns more people against doing what they could otherwise be doing to help with this imbalance and serves to further hurt the situation than help it.\n\nRe: You're background, I can relate to some of what you have mentioned, but others I'm a complete and total polar opposite. I come from a broken home, parents twice divorced, was moved around in child custody battles, raised in poverty. I could never afford to go to university, though I did manage to be accepted to one, though couldn't afford to go later on in life. I've worked in startups my entire professional life which to some may be a privilege, but it's not all rainbows, sunshine and money trees. I also wasn't a confident person until I told myself I was just going to fake it. That's what I attribute to actually becoming confident myself. I also identify as male, and I'm in a position to hire people. In fact, of the last 3 people who have joined my team, I've had 1 white male, 1 asian male, and 1 white female. I can't claim that no bias went into any of those hirings on anybody involve's count, but consciously what did was 1) attitude of the people we eventually hired, 2) culture fit, 3) ability to talk about their work history in an authoritative manner. I don't try and stump people with bar-style techno trivia, but I do try and use other signals to help.\n\nAnyway, claiming no moral high ground, I know I'm not without my own personal biases, including my absolute hatred of justifying discrimination (denial of opportunity).",
+        "mentions": [
+          {
+            "link": "@EMovhfIrFk4NihAKnRNhrfRaqIhBv1Wj8pTxJNgvCCY=.ed25519",
+            "name": "Dominic"
+          },
+          {
+            "link": "@6ilZq3kN0F+dXFHAPjAwMm87JEb/VdB+LC9eIMW3sa0=.ed25519",
+            "name": "dinosaur"
+          }
+        ]
+      },
+      "signature": "RFXTK18eRBL4WJO/Ch3FtBq9eap/HI75x5WOPYVE2OnlTxvdT59cCD4SAdsWN3Z6vmxWiIZy1ertUDWkm2VWBw==.sig.ed25519"
+    },
+    "timestamp": 1502153869396
+  },
+  {
+    "key": "%3YFpxWmOxcO6ScWv3t+v4ty0R36PCWIkUlA7UUHgjZA=.sha256",
+    "value": {
+      "previous": "%SGvIa+79v6PMiYnJe7lcvPdF13r7KtqEf3/MPdA3zes=.sha256",
+      "author": "@6ilZq3kN0F+dXFHAPjAwMm87JEb/VdB+LC9eIMW3sa0=.ed25519",
+      "sequence": 4682,
+      "timestamp": 1502153726345,
+      "hash": "sha256",
+      "content": {
+        "type": "post",
+        "root": "%dXbJitCktgFUe27xkKr5dVhxOp4Y196plAwuFSNOx4M=.sha256",
+        "branch": "%SGvIa+79v6PMiYnJe7lcvPdF13r7KtqEf3/MPdA3zes=.sha256",
+        "channel": "politics",
+        "recps": null,
+        "text": "also, with regards to the use of the word \"equality\" to mean pure egalitarian redistribution, when most people mean \"equity\" to mean redistribution addressing the systemic biases at play, here's another comic!\n\n[Illustrating Equality vs Equity](http://interactioninstitute.org/illustrating-equality-vs-equity/) by [Angus Maguire](madewithangus.com)\n\n![IISC_EqualityEquity.png](&rb4+ku8sAKnze7PAr4RkcdE/9PJ4Wh3sNmlybcmp3lQ=.sha256)\n\n",
+        "mentions": [
+          {
+            "link": "&rb4+ku8sAKnze7PAr4RkcdE/9PJ4Wh3sNmlybcmp3lQ=.sha256",
+            "name": "IISC_EqualityEquity.png",
+            "type": "image/png",
+            "size": 391101
+          }
+        ]
+      },
+      "signature": "LXubkmZhKylx3Urb87DJ/KJ0kNNq4t7L89mdfvrDvmmyIYKETo+OgfkhyGBt6vyYgLmq6wn7aCmbKMLc70YMBA==.sig.ed25519"
+    },
+    "timestamp": 1502153742771
+  },
+  {
+    "key": "%SGvIa+79v6PMiYnJe7lcvPdF13r7KtqEf3/MPdA3zes=.sha256",
+    "value": {
+      "previous": "%WvgJDKAU2c/K61YxTe5jecqF1Fm2bqbSJdgVLRnKltE=.sha256",
+      "author": "@6ilZq3kN0F+dXFHAPjAwMm87JEb/VdB+LC9eIMW3sa0=.ed25519",
+      "sequence": 4681,
+      "timestamp": 1502153228771,
+      "hash": "sha256",
+      "content": {
+        "type": "post",
+        "root": "%dXbJitCktgFUe27xkKr5dVhxOp4Y196plAwuFSNOx4M=.sha256",
+        "branch": "%WvgJDKAU2c/K61YxTe5jecqF1Fm2bqbSJdgVLRnKltE=.sha256",
+        "channel": "politics",
+        "recps": null,
+        "text": "relevant comic: http://thewireless.co.nz/articles/the-pencilsword-on-a-plate\n\n![on-a-plate-1-.gif](&Au1NQqCIuoG/b2rNIYY15MQLJkePVYnZ2RNxX9s3Wgo=.sha256)\n![on-a-plate-2.gif](&NNxSTfjQWdkwbdCfZNxG/9uCy5uW6nw0iavLNaA7FYI=.sha256)\n![on-a-plate-3.gif](&E3W7wUrdTQrHm6T7pZ+3dkvaQttchzJ4DDWdIuCUpXU=.sha256)\n![on-a-plate-4.gif](&SMpJUI79gqWrj418GEF8U5uHBuW5MWNdAr6MUOG/kM8=.sha256)\n",
+        "mentions": [
+          {
+            "link": "&Au1NQqCIuoG/b2rNIYY15MQLJkePVYnZ2RNxX9s3Wgo=.sha256",
+            "name": "on-a-plate-1-.gif",
+            "type": "image/gif",
+            "size": 206914
+          },
+          {
+            "link": "&NNxSTfjQWdkwbdCfZNxG/9uCy5uW6nw0iavLNaA7FYI=.sha256",
+            "name": "on-a-plate-2.gif",
+            "type": "image/gif",
+            "size": 327866
+          },
+          {
+            "link": "&E3W7wUrdTQrHm6T7pZ+3dkvaQttchzJ4DDWdIuCUpXU=.sha256",
+            "name": "on-a-plate-3.gif",
+            "type": "image/gif",
+            "size": 287071
+          },
+          {
+            "link": "&SMpJUI79gqWrj418GEF8U5uHBuW5MWNdAr6MUOG/kM8=.sha256",
+            "name": "on-a-plate-4.gif",
+            "type": "image/gif",
+            "size": 295286
+          }
+        ]
+      },
+      "signature": "r5jHg/C+zJg3OI6353gUAp38RXnEdII1t+IzUBPtg4tHwPtWhceDnU0GESsWiinMaCv5+G66sqQmSmtdrrXfDA==.sig.ed25519"
+    },
+    "timestamp": 1502153258241
+  },
+  {
+    "key": "%WvgJDKAU2c/K61YxTe5jecqF1Fm2bqbSJdgVLRnKltE=.sha256",
+    "value": {
+      "previous": "%K+XiR6qySujMAof/aUpcpLITStalV7idoxtZXnprQwA=.sha256",
+      "author": "@6ilZq3kN0F+dXFHAPjAwMm87JEb/VdB+LC9eIMW3sa0=.ed25519",
+      "sequence": 4680,
+      "timestamp": 1502153006731,
+      "hash": "sha256",
+      "content": {
+        "type": "post",
+        "root": "%dXbJitCktgFUe27xkKr5dVhxOp4Y196plAwuFSNOx4M=.sha256",
+        "branch": "%ySoEIaBktqu3Wsf0foSBzYEpWs3o58mSwFBoaCpTJmg=.sha256",
+        "channel": "politics",
+        "recps": null,
+        "text": "hey [@jer](@uf3kajfhBC2Sd3OysKB5LnBLJ5pwgBhBpXnGEGzgG6A=.ed25519), if you don't agree on that solution, do you agree on the problem at hand? namely that there are systemic biases that leads to unequal opportunity (different from unequal outcome, which is much different).\n\nas an example, i'm someone who comes from a **very** privileged background:\n\n- my childhood was stable and nurturing in a friendly neighborhood, while my parents worked most of the time, they earned a good living and were available to raise me together\n- growing up i never had to worry about earning money or be a caretaker for the rest of my family, which means it's easier for me to think in abundance because i've never been forced into scarcity\n- my parents paid my way through most of life, even including university, which means i have never been in debt\n- i was encouraged and supported to pursue any aspiration i wanted, including playing with computers, playing sports, doing extra-curricular activities, etc, which led me to have a more confident, curious, and aspirational attitude\n- many systems in our current default society have biases that favors my personality: confident, curious, aspirational, etc\n- i was given job opportunities unavailable to most, like an internship where my dad worked out of high school which led to more job opportunities during university and beyond\n- i have a white name and face that is relatable for many other privileged people\n- i identify with the male gender assigned to me at birth, which again is relatable for other privileged people\n\ni could go on, but you get the idea. for many other people, they come from a less privileged background, which means they have less opportunity for success, even if they put in more effort and are more skilled.\n\nif we agree that systemic biases lead to unequal opportunity, then the question is how to we address this problem?\n\nwhat do you think we should do [@jer](@uf3kajfhBC2Sd3OysKB5LnBLJ5pwgBhBpXnGEGzgG6A=.ed25519)?",
+        "mentions": [
+          {
+            "link": "@uf3kajfhBC2Sd3OysKB5LnBLJ5pwgBhBpXnGEGzgG6A=.ed25519",
+            "name": "jer"
+          },
+          {
+            "link": "@uf3kajfhBC2Sd3OysKB5LnBLJ5pwgBhBpXnGEGzgG6A=.ed25519",
+            "name": "jer"
+          }
+        ]
+      },
+      "signature": "GKKsb/1Dv+Zeqwd8MAJRjR5hx+FelNSDjAzyXdDwGnHAY1uUoIwFE1EL3/SuZQeTLGu7S9qhgW6ceQUFGlrACg==.sig.ed25519"
+    },
+    "timestamp": 1502153003236
+  },
+  {
+    "key": "%0OlLXGgRyzBdeBiGTboVzJZomL8VYedxR/tHGJXg/Nw=.sha256",
+    "value": {
+      "previous": "%oqcpJsasjuE1DKXZyTBwoaPLnQy3fY6Km4xq91JkSro=.sha256",
+      "author": "@TXKFQehlyoSn8UJAIVP/k2BjFINC591MlBC2e2d24mA=.ed25519",
+      "sequence": 1951,
+      "timestamp": 1502152891100,
+      "hash": "sha256",
+      "content": {
+        "type": "post",
+        "root": "%wyt0Qre0vExwdjjDRvCFEVxHvdaHDTLlVa346KWx4M0=.sha256",
+        "branch": "%2vcnLxv7oNT6QlfO3ngLqLWxPWBrkZ+Zz7k4TQavZlk=.sha256",
+        "channel": "games",
+        "recps": null,
+        "text": "MEMEMEMMEME",
+        "mentions": []
+      },
+      "signature": "0tpH6dIXgh75A5Wj1e4iBkqz33PlhtZyB5+5vaSpy6bEVlMmOyRp4Lu9pTfyBwwQ4RiNLitEdUgmPDXitb7fDQ==.sig.ed25519"
+    },
+    "timestamp": 1502152893843
+  },
+  {
+    "key": "%2vcnLxv7oNT6QlfO3ngLqLWxPWBrkZ+Zz7k4TQavZlk=.sha256",
+    "value": {
+      "previous": "%o47FbFuJdDrRDRM78egs4EgB5+zd5/W1zPTaGxVcPGU=.sha256",
+      "author": "@EMovhfIrFk4NihAKnRNhrfRaqIhBv1Wj8pTxJNgvCCY=.ed25519",
+      "sequence": 9661,
+      "timestamp": 1502152512533,
+      "hash": "sha256",
+      "content": {
+        "type": "post",
+        "root": "%wyt0Qre0vExwdjjDRvCFEVxHvdaHDTLlVa346KWx4M0=.sha256",
+        "branch": "%Ko9WTvy1XNIejtC1rYFu7x7I31JtWczJzA01JAfRAEU=.sha256",
+        "channel": "games",
+        "text": "oh, and [@zach!](@ZqH7Mctu/7DNInxuwl12ECjfrAKUX2tBLq1rOldNhg0=.ed25519) that is 7 players. If voting is an element, an uneven number of players is a good thing.",
+        "mentions": [
+          {
+            "link": "@ZqH7Mctu/7DNInxuwl12ECjfrAKUX2tBLq1rOldNhg0=.ed25519",
+            "name": "zach!"
+          }
+        ]
+      },
+      "signature": "Rk2P4mVGNrRRWwmLk4l4tpmI9bqxqHU5Sa1wLIG3tZONZpZ4ES836lXwBpk2+j6rW+Uqr0nvj29PtrzBmosrDA==.sig.ed25519"
+    },
+    "timestamp": 1502152512581
+  },
+  {
+    "key": "%7o8j+1TcWpivodEB9C+K5s+knmXtz2SA8m51xNV1zsA=.sha256",
+    "value": {
+      "previous": "%dsWpWMzlUV19jvU2qOiB6Kdv7gnutfTyEjAMBUta2tE=.sha256",
+      "author": "@L+nPFTMUHWXuchOwuzT6Z8Ea8wD/Rtd7leVRxGaknVk=.ed25519",
+      "sequence": 853,
+      "timestamp": 1502151805310,
+      "hash": "sha256",
+      "content": {
+        "type": "contact",
+        "contact": "@I6RJWljp5JhH82hZt+wXIm2Wo4CgiQ4w4hC6PHU4iGU=.ed25519",
+        "following": true,
+        "pub": true
+      },
+      "signature": "XnD1H2A/uIjKDjCeJuQbPJHKYzFy9gcHl3pcr8KOUezy0rNc9M02yFkAp/aIg/WM/HSkBWxUIDjq+gaw/7EIBQ==.sig.ed25519"
+    },
+    "timestamp": 1502151804269
+  },
+  {
+    "key": "%K+XiR6qySujMAof/aUpcpLITStalV7idoxtZXnprQwA=.sha256",
+    "value": {
+      "previous": "%+KSI5rMTNEM3/HnIyzUKSumuy6SJr3yJf7PMX74tW7M=.sha256",
+      "author": "@6ilZq3kN0F+dXFHAPjAwMm87JEb/VdB+LC9eIMW3sa0=.ed25519",
+      "sequence": 4679,
+      "timestamp": 1502151606471,
+      "hash": "sha256",
+      "content": {
+        "type": "vote",
+        "channel": "games",
+        "vote": {
+          "link": "%4zcyNtIW0TixMDI3Ulf4gZ9ZIgdtXSw5wOJhuI2dSXA=.sha256",
+          "value": 1,
+          "expression": "Like"
+        }
+      },
+      "signature": "lIm6B+51vVvIGhsxZb0cYjKaYpEsQ+MrnTdW93vtZLaZo7a4jEtc6B01x83J/hu3Jgev22ELFRp9VaEGyXSJDg==.sig.ed25519"
+    },
+    "timestamp": 1502151627351
+  },
+  {
+    "key": "%o47FbFuJdDrRDRM78egs4EgB5+zd5/W1zPTaGxVcPGU=.sha256",
+    "value": {
+      "previous": "%Ko9WTvy1XNIejtC1rYFu7x7I31JtWczJzA01JAfRAEU=.sha256",
+      "author": "@EMovhfIrFk4NihAKnRNhrfRaqIhBv1Wj8pTxJNgvCCY=.ed25519",
+      "sequence": 9660,
+      "timestamp": 1502151312842,
+      "hash": "sha256",
+      "content": {
+        "type": "post",
+        "root": "%QlhnvYJfigcMi+SpWi1nRp5dFJszqV1t9BIUTFwDJ9c=.sha256",
+        "branch": "%E/qWogkG9yY5L63hoDF+rZWsEXm/CnJPEJbDiuF91jE=.sha256",
+        "channel": null,
+        "text": "it's every thursday!",
+        "mentions": []
+      },
+      "signature": "oooBHsL8dRx9MLSFaTKEblOg5tTIdbzrGKO5sja4yi810VUgYS5Ocab2yhZEKdXMZIbCl2kijET6jz9q+6A0Aw==.sig.ed25519"
+    },
+    "timestamp": 1502151312889
+  },
+  {
+    "key": "%Ko9WTvy1XNIejtC1rYFu7x7I31JtWczJzA01JAfRAEU=.sha256",
+    "value": {
+      "previous": "%b+Cjm6kPB4w53aABXqko1Ap8VKQB+I4ofJO83byaJ+A=.sha256",
+      "author": "@EMovhfIrFk4NihAKnRNhrfRaqIhBv1Wj8pTxJNgvCCY=.ed25519",
+      "sequence": 9659,
+      "timestamp": 1502151204668,
+      "hash": "sha256",
+      "content": {
+        "type": "post",
+        "root": "%wyt0Qre0vExwdjjDRvCFEVxHvdaHDTLlVa346KWx4M0=.sha256",
+        "branch": [
+          "%4zcyNtIW0TixMDI3Ulf4gZ9ZIgdtXSw5wOJhuI2dSXA=.sha256",
+          "%s9XQuL5RUaKykFrTXLbI5vQMtUnVPxEwFZZ5O9CBbAk=.sha256"
+        ],
+        "channel": "games",
+        "text": "okay, ammend the above list to include\n\n* [@dinosaur](@6ilZq3kN0F+dXFHAPjAwMm87JEb/VdB+LC9eIMW3sa0=.ed25519) \n* [@nanomonkey](@+D0ku/LReK6kqd3PSrcVCfbLYbDtTmS4Bd21rqhpYNA=.ed25519)\n\nThat is now six players!",
+        "mentions": [
+          {
+            "link": "@6ilZq3kN0F+dXFHAPjAwMm87JEb/VdB+LC9eIMW3sa0=.ed25519",
+            "name": "dinosaur"
+          },
+          {
+            "link": "@+D0ku/LReK6kqd3PSrcVCfbLYbDtTmS4Bd21rqhpYNA=.ed25519",
+            "name": "nanomonkey"
+          }
+        ]
+      },
+      "signature": "J6a4OPzdYNGJHDkLdtNsTioW5DBylOv8Yc9KpUfuq+FKVjgbDSKXPkCp389mE4/r5Ndlk4/2uv6zduz26bXNCw==.sig.ed25519"
+    },
+    "timestamp": 1502151204714
+  },
+  {
+    "key": "%KLEhtdfbNzpffQfOBmuFKyC2dez9Fp2JZ/3Yw6h50vE=.sha256",
+    "value": {
+      "previous": "%Yc8dN4n4lSrVI8wfW6TV1Du83HGqCWMMy9fbuhW0+Sk=.sha256",
+      "author": "@x/jBvWXH5fqaDsdAx1N/f6ATxWJCMhTm+sAKwlNDZ2M=.ed25519",
+      "sequence": 10,
+      "timestamp": 1502151134512,
+      "hash": "sha256",
+      "content": {
+        "type": "vote",
+        "channel": "hypercapitalism",
+        "vote": {
+          "link": "%e/0iAFVdE7aPheg2xDdYwMEVzA1b+lGMBiWxsLfFo6g=.sha256",
+          "value": 1,
+          "expression": "dig"
+        }
+      },
+      "signature": "QBuC6fK9Brm4T7ZzIDp8S+z9zNRu3tjN38q0fTI3xULVyDygGyhtMSMXkXukgA6M5U3mKOpQ+QmkqCg1euPKCQ==.sig.ed25519"
+    },
+    "timestamp": 1502151130446
+  },
+  {
+    "key": "%E/qWogkG9yY5L63hoDF+rZWsEXm/CnJPEJbDiuF91jE=.sha256",
+    "value": {
+      "previous": "%QlhnvYJfigcMi+SpWi1nRp5dFJszqV1t9BIUTFwDJ9c=.sha256",
+      "author": "@dcRfPQjPwmrUFbOG2kEoKz8m/9e+VIwYQHmBxMGNbsc=.ed25519",
+      "sequence": 140,
+      "timestamp": 1502148706189,
+      "hash": "sha256",
+      "content": {
+        "type": "post",
+        "root": "%QlhnvYJfigcMi+SpWi1nRp5dFJszqV1t9BIUTFwDJ9c=.sha256",
+        "branch": "%QlhnvYJfigcMi+SpWi1nRp5dFJszqV1t9BIUTFwDJ9c=.sha256",
+        "channel": null,
+        "recps": null,
+        "text": "Hadn't opened patchwork in awhile. Sorry I missed this. Hopefully catch the next one. Got any plans for when it will be?",
+        "mentions": []
+      },
+      "signature": "szAnkgPD+uiPuvfqNhzWUB7SVyPgOX/DslhkruvwNNrwvsPr6E1BOzlmSqkdPx2B1TS9nY6OF8taaLy7OUSmDg==.sig.ed25519"
+    },
+    "timestamp": 1502151026741
+  },
+  {
+    "key": "%QlhnvYJfigcMi+SpWi1nRp5dFJszqV1t9BIUTFwDJ9c=.sha256",
+    "value": {
+      "previous": "%+iRC99YLVhweU1VW2AgSChgpKikx3nkUrFkFa7R7PME=.sha256",
+      "author": "@dcRfPQjPwmrUFbOG2kEoKz8m/9e+VIwYQHmBxMGNbsc=.ed25519",
+      "sequence": 139,
+      "timestamp": 1502148654047,
+      "hash": "sha256",
+      "content": {
+        "type": "about",
+        "about": "%W1OAnh5/Xbv5Foky5RrKCtJUszdy01yabv/QL7QZDgA=.sha256",
+        "attendee": {
+          "link": "@dcRfPQjPwmrUFbOG2kEoKz8m/9e+VIwYQHmBxMGNbsc=.ed25519",
+          "remove": true
+        }
+      },
+      "signature": "VgNyp3i8iB32DvlspXtAcUqQ6fjHSrNa2OJozRX8NZNkHwE+8UIRPqDNxeH0Uihvakj3n3KHc/fruCL4PeoJBg==.sig.ed25519"
+    },
+    "timestamp": 1502151026731
+  },
+  {
+    "key": "%+KSI5rMTNEM3/HnIyzUKSumuy6SJr3yJf7PMX74tW7M=.sha256",
+    "value": {
+      "previous": "%JjZqtTmyku+T5u70iajEjbNbMeuAJscjC7R6Ydlud8E=.sha256",
+      "author": "@6ilZq3kN0F+dXFHAPjAwMm87JEb/VdB+LC9eIMW3sa0=.ed25519",
+      "sequence": 4678,
+      "timestamp": 1502149237433,
+      "hash": "sha256",
+      "content": {
+        "type": "vote",
+        "channel": "hiking",
+        "vote": {
+          "link": "%+0p6QmlV61DLKP8D9YEjon9ly1e63Avlkl09SdDhhP4=.sha256",
+          "value": 1,
+          "expression": "Like"
+        }
+      },
+      "signature": "o9n2l4Zc/h9wJBGlKKqwLABg3BBE12r02NM2GoDgGw2GAeoL0dhxTcrMNzxupY13LCRE8ZOMIHyKwzCpst6NDQ==.sig.ed25519"
+    },
+    "timestamp": 1502151026640
+  },
+  {
+    "key": "%JjZqtTmyku+T5u70iajEjbNbMeuAJscjC7R6Ydlud8E=.sha256",
+    "value": {
+      "previous": "%GHsFe0hBqG2i/2LyybLOyHXW1rzfB8gDFW4WkAQ3uE8=.sha256",
+      "author": "@6ilZq3kN0F+dXFHAPjAwMm87JEb/VdB+LC9eIMW3sa0=.ed25519",
+      "sequence": 4677,
+      "timestamp": 1502149194911,
+      "hash": "sha256",
+      "content": {
+        "type": "about",
+        "about": "@7HHVZNWiNtCOquFNhNYS/DbHI9x3hFWrfxGP9FlJzHY=.ed25519",
+        "name": "james"
+      },
+      "signature": "LAl9DpuhN9N6CWgHhB91I28nby+kdLcM18fjWDc2euimOh2r+Ef/pzVRmfE3+3jctdmCXsXJ/aQl6fyHegwWCQ==.sig.ed25519"
+    },
+    "timestamp": 1502151026628
+  },
+  {
+    "key": "%GHsFe0hBqG2i/2LyybLOyHXW1rzfB8gDFW4WkAQ3uE8=.sha256",
+    "value": {
+      "previous": "%wicHrfJxvCqxvfwo1iXtsaPK90PFBIgOBFn8rN5Ayuk=.sha256",
+      "author": "@6ilZq3kN0F+dXFHAPjAwMm87JEb/VdB+LC9eIMW3sa0=.ed25519",
+      "sequence": 4676,
+      "timestamp": 1502149168429,
+      "hash": "sha256",
+      "content": {
+        "type": "vote",
+        "channel": "new-people",
+        "vote": {
+          "link": "%XCGo7tppsvK96eaN+fzbyOxDCfLeX/SG9qd0Oqc10NU=.sha256",
+          "value": 1,
+          "expression": "Like"
+        }
+      },
+      "signature": "Lvfa8nQzuvfJYVMDk3YRTiNGHZq4ypMzdc85XyFr1gwsgBNbQvZE28vD2kayqSVYIXzTxfdTAmAWNCGz1HYYAg==.sig.ed25519"
+    },
+    "timestamp": 1502151026503
+  },
+  {
+    "key": "%ySoEIaBktqu3Wsf0foSBzYEpWs3o58mSwFBoaCpTJmg=.sha256",
+    "value": {
+      "previous": "%P1bJZJAol7d0+lq1yqCTM/jOe1AngtjE18nuHMCz1OU=.sha256",
+      "author": "@A5FqepWjS76C4Hw9idZUyW0T6QgJOjsbQHlIP0A4yu8=.ed25519",
+      "sequence": 723,
+      "timestamp": 1502148828330,
+      "hash": "sha256",
+      "content": {
+        "type": "post",
+        "text": "I think it's less about the local error and more about the human situation... it's not just \"inequality and discrimination are bad, what do we do\" in an abstract sense.\n\nAlso why most people don't get mad about \"troll\" censorship on twitter... it's not a big issue in human terms.",
+        "root": "%dXbJitCktgFUe27xkKr5dVhxOp4Y196plAwuFSNOx4M=.sha256",
+        "branch": "%9p1+LqMRlZkAh19KWo75IwvSJlkK5y7C/bkVLxJbkog=.sha256",
+        "channel": "politics"
+      },
+      "signature": "oOpS9YYkdB+VRSTzbeVFnuYtkIDQzxlX8gPSJfAAo8jb63sGkBQFTW650f8Nw3FOlBBeAe+B19flMx+qSca+Bg==.sig.ed25519"
+    },
+    "timestamp": 1502151026458
+  },
+  {
+    "key": "%wicHrfJxvCqxvfwo1iXtsaPK90PFBIgOBFn8rN5Ayuk=.sha256",
+    "value": {
+      "previous": "%IyTwRjJiptUVF7ekYN8IGeB0VwSeAQ9Tt95bCndiXuc=.sha256",
+      "author": "@6ilZq3kN0F+dXFHAPjAwMm87JEb/VdB+LC9eIMW3sa0=.ed25519",
+      "sequence": 4675,
+      "timestamp": 1502149166742,
+      "hash": "sha256",
+      "content": {
+        "type": "vote",
+        "channel": "new-people",
+        "vote": {
+          "link": "%/wt/HEKGxbZjhJxuW1VVvDh2ReFPPrMvjSE2XxGVymw=.sha256",
+          "value": 1,
+          "expression": "Like"
+        }
+      },
+      "signature": "Dxvb7tedhjSy7oLkUwRkEe1cfo1XDWwGhHTOG/NquIxqFezRiTXxP6s2wrUKZ18v2InNjO2lPdwpT3BK3BVWDA==.sig.ed25519"
+    },
+    "timestamp": 1502151026420
+  },
+  {
+    "key": "%T3ouQ/Ogd291qlWk9OzkJJlVhnXeY3PzG4RwUjU7YE8=.sha256",
+    "value": {
+      "previous": "%rbFenMDMBBob2O8rDmrsabFXsIGZsqVxFMUSxp/rNV0=.sha256",
+      "author": "@iOyfRmje5LFAErH7M3faTLNMQUTXCnjECbLtniVJ478=.ed25519",
+      "sequence": 454,
+      "timestamp": 1502148680293,
+      "hash": "sha256",
+      "content": {
+        "type": "vote",
+        "vote": {
+          "link": "%ssxwowH9Kv8nZ1ZFcDM/ZIILagg6Bhbo1shvTXDNXjU=.sha256",
+          "value": 1,
+          "expression": "dig"
+        }
+      },
+      "signature": "DMtFa4qYlyQPrwZ7rGTywX3dMOGThbs5faHSsq09NiXL0cTBFbHHRU04WoCRrt40bBmLgSo8HJM4oYZK6GShBA==.sig.ed25519"
+    },
+    "timestamp": 1502151026387
+  },
+  {
+    "key": "%P1bJZJAol7d0+lq1yqCTM/jOe1AngtjE18nuHMCz1OU=.sha256",
+    "value": {
+      "previous": "%vMQD/k4CfoTqL5i/UvIk9zHA02S31zQmsBJ6ta6nxH8=.sha256",
+      "author": "@A5FqepWjS76C4Hw9idZUyW0T6QgJOjsbQHlIP0A4yu8=.ed25519",
+      "sequence": 722,
+      "timestamp": 1502148666437,
+      "hash": "sha256",
+      "content": {
+        "type": "vote",
+        "channel": "politics",
+        "vote": {
+          "link": "%fa0C7OYb5khsi+496DIZT8qobd/B1iJtDgDUfvasaSY=.sha256",
+          "value": 1,
+          "expression": "dig"
+        }
+      },
+      "signature": "TpBQ4n53u6xPsxVX+td0x2uTYa4mILBwvPfBBTvuCp1mX+tQX77FZsrgjSbeEsPkWAXLs3sn1FMeD4sX3G+fBA==.sig.ed25519"
+    },
+    "timestamp": 1502151026362
+  },
+  {
+    "key": "%IyTwRjJiptUVF7ekYN8IGeB0VwSeAQ9Tt95bCndiXuc=.sha256",
+    "value": {
+      "previous": "%oWOThnP+ll8bHZGBF5U0lZ6o3s0HKp2rAWTG61O2Ijk=.sha256",
+      "author": "@6ilZq3kN0F+dXFHAPjAwMm87JEb/VdB+LC9eIMW3sa0=.ed25519",
+      "sequence": 4674,
+      "timestamp": 1502149143125,
+      "hash": "sha256",
+      "content": {
+        "type": "vote",
+        "channel": "p2p",
+        "vote": {
+          "link": "%8TyyrchMMOuRg7GikI37msI6zoeUCwUzH07aU+590iA=.sha256",
+          "value": 1,
+          "expression": "Like"
+        }
+      },
+      "signature": "1Sso6NvGStLlZ2maVlw0r/tNae7Wm6kvTPl9k2eHZKFz0cG3t15DfId/87eq+QezzLog2vrFdpI5uDLUqAo2BA==.sig.ed25519"
+    },
+    "timestamp": 1502151026334
+  },
+  {
+    "key": "%rbFenMDMBBob2O8rDmrsabFXsIGZsqVxFMUSxp/rNV0=.sha256",
+    "value": {
+      "previous": "%WeoynQMnGFK5a6SZdS7zr/7xFYPkK3XG+SKuhg5vwqs=.sha256",
+      "author": "@iOyfRmje5LFAErH7M3faTLNMQUTXCnjECbLtniVJ478=.ed25519",
+      "sequence": 453,
+      "timestamp": 1502148547322,
+      "hash": "sha256",
+      "content": {
+        "type": "vote",
+        "channel": "hypercapitalism",
+        "vote": {
+          "link": "%e/0iAFVdE7aPheg2xDdYwMEVzA1b+lGMBiWxsLfFo6g=.sha256",
+          "value": 1,
+          "expression": "dig"
+        }
+      },
+      "signature": "XGo10YWDgKxOMOu0MsUR5+LWFA1YO5MQ1VwQ3rni47hEA/t4BZnPD4drjb1EQp9gpLP4KRo127zRm9PNRI/zBw==.sig.ed25519"
+    },
+    "timestamp": 1502151026233
+  },
+  {
+    "key": "%vMQD/k4CfoTqL5i/UvIk9zHA02S31zQmsBJ6ta6nxH8=.sha256",
+    "value": {
+      "previous": "%9Y3mc4ieHqZ478AShRCH4PrxjK26X5504fMVhnVS7OU=.sha256",
+      "author": "@A5FqepWjS76C4Hw9idZUyW0T6QgJOjsbQHlIP0A4yu8=.ed25519",
+      "sequence": 721,
+      "timestamp": 1502148651063,
+      "hash": "sha256",
+      "content": {
+        "type": "vote",
+        "channel": "politics",
+        "vote": {
+          "link": "%9p1+LqMRlZkAh19KWo75IwvSJlkK5y7C/bkVLxJbkog=.sha256",
+          "value": 1,
+          "expression": "dig"
+        }
+      },
+      "signature": "eeRamQsF7Br3zrA80KO48C7a5U3ikDyg+gL3wNOdiNaeI8RYV2nmdTTvvNItUflqla3dSePxNEBq8dWYHxeWBg==.sig.ed25519"
+    },
+    "timestamp": 1502151026222
+  },
+  {
+    "key": "%4zcyNtIW0TixMDI3Ulf4gZ9ZIgdtXSw5wOJhuI2dSXA=.sha256",
+    "value": {
+      "previous": "%ffvnxb2ykUShQLq9DJVAtugAX8gAv+B8hIyJArsWVLM=.sha256",
+      "author": "@+D0ku/LReK6kqd3PSrcVCfbLYbDtTmS4Bd21rqhpYNA=.ed25519",
+      "sequence": 640,
+      "timestamp": 1502149668495,
+      "hash": "sha256",
+      "content": {
+        "type": "post",
+        "root": "%wyt0Qre0vExwdjjDRvCFEVxHvdaHDTLlVa346KWx4M0=.sha256",
+        "branch": "%oWOThnP+ll8bHZGBF5U0lZ6o3s0HKp2rAWTG61O2Ijk=.sha256",
+        "channel": "games",
+        "recps": null,
+        "text": "I'm in too!  I think that scuttlebutt would also be appropriate for playing [1000 blank white cards](https://en.wikipedia.org/wiki/1000_Blank_White_Cards).  Just post pictures of your card to #thousand-blank-white-cards channel.",
+        "mentions": [
+          {
+            "link": "#thousand-blank-white-cards"
+          }
+        ]
+      },
+      "signature": "/5s1D8YEzCTBPwxqeFJOcBZmLURRFdfoKIwpVP5G2H98e8lfArL7lETG+iG0vailvHxAhqeJ3gttNs6xEIWFCg==.sig.ed25519"
+    },
+    "timestamp": 1502151026188
+  },
+  {
+    "key": "%s9XQuL5RUaKykFrTXLbI5vQMtUnVPxEwFZZ5O9CBbAk=.sha256",
+    "value": {
+      "previous": "%qSmBT2oRoktsMBZjNV9hwf6hTwnxF5jrJ9+Z6twzFwQ=.sha256",
+      "author": "@ZqH7Mctu/7DNInxuwl12ECjfrAKUX2tBLq1rOldNhg0=.ed25519",
+      "sequence": 467,
+      "timestamp": 1502148946144,
+      "hash": "sha256",
+      "content": {
+        "type": "post",
+        "root": "%wyt0Qre0vExwdjjDRvCFEVxHvdaHDTLlVa346KWx4M0=.sha256",
+        "branch": "%anpt1R/I3s+3KtDiRfed2cff2RJtYEoy9sVs8uxNdvY=.sha256",
+        "channel": "games",
+        "recps": null,
+        "text": "I would love to play this game!  It reminds me of a Friedemann Friese game I adore called [3 Commandments](https://boardgamegeek.com/boardgame/38359/3-commandments).  In 3 Commandments, there's a game master who picks the rules and win conditions at random from a deck of cards, and keeps them secret.  The players then have to make a move, not knowing any of the rules, and the game master tells them how many points they scored.  There's an incredible meta-game of superstition that emerges as players will try to copy everything the previous player did to get as many points as them, but they don't know which of the random moves were the ones that actually provided points.  It recreates the experience of walking into a bar and seeing a group of friends deep into a game you've never seen, and so it seems like pure gibberish even though they are taking it sooo seriously. ",
+        "mentions": []
+      },
+      "signature": "k+hL6GBwRnKC7vsdjPYUqR3fufZElrKqVQStdKlO4PzUTarwYDNslxC6UQHrl5Po+lRhz0YVjkslzyuP3GjvCw==.sig.ed25519"
+    },
+    "timestamp": 1502151026146
+  },
+  {
+    "key": "%oWOThnP+ll8bHZGBF5U0lZ6o3s0HKp2rAWTG61O2Ijk=.sha256",
+    "value": {
+      "previous": "%jHMcmLP/knKq1kVwIZFoP4QEHpeS/sh5w256ILSRgAw=.sha256",
+      "author": "@6ilZq3kN0F+dXFHAPjAwMm87JEb/VdB+LC9eIMW3sa0=.ed25519",
+      "sequence": 4673,
+      "timestamp": 1502149022522,
+      "hash": "sha256",
+      "content": {
+        "type": "post",
+        "root": "%wyt0Qre0vExwdjjDRvCFEVxHvdaHDTLlVa346KWx4M0=.sha256",
+        "branch": "%FWDcbanHIHA2aiy9A7Y6O6zPRV8lIzpZYBhin8KSs90=.sha256",
+        "channel": "games",
+        "recps": null,
+        "text": "to be more explicit, i want to play! :blush: ",
+        "mentions": []
+      },
+      "signature": "BkFMCIa8/ychZw0ugaXpgJhSH0sLZypL0TDCfpSE7nQIWXY6rjIuF8l8jkW1ASJHZi96kyka3F3cwdkoe+BvDQ==.sig.ed25519"
+    },
+    "timestamp": 1502151025973
+  },
+  {
+    "key": "%xYvlb2GvsoakT68PAdGHJjtfTXMwUP36DHwzbHmqFWs=.sha256",
+    "value": {
+      "previous": "%oLrz/kpc0S2S0P2GFQVGOpNzyKRJj8cnpdw75I7UNRI=.sha256",
+      "author": "@4OR/xSKbQ0WWY7QTr7szYizISldc6MqqVScqKMKfdMQ=.ed25519",
+      "sequence": 118,
+      "timestamp": 1502147465222,
+      "hash": "sha256",
+      "content": {
+        "type": "vote",
+        "channel": "cooking-channel",
+        "vote": {
+          "link": "%KJ4LLS3G81o+sAw368bxPi21SmtLkDZ3qVYlzXzzIdc=.sha256",
+          "value": 1,
+          "expression": "Like"
+        }
+      },
+      "signature": "l0QEz7NzKONLk9T4NO9lY1s8xcrGCO+zblcISzoVTClLs1QhoJUl1jcWYbGFlVvyh8gKZBSr/CnoMCaYgVQIBw==.sig.ed25519"
+    },
+    "timestamp": 1502147994815
+  },
+  {
+    "key": "%oLrz/kpc0S2S0P2GFQVGOpNzyKRJj8cnpdw75I7UNRI=.sha256",
+    "value": {
+      "previous": "%FywUL2zfzn6MHcZrj0e/55sC1lzKNaBuSf4xWR8vvSQ=.sha256",
+      "author": "@4OR/xSKbQ0WWY7QTr7szYizISldc6MqqVScqKMKfdMQ=.ed25519",
+      "sequence": 117,
+      "timestamp": 1502147458519,
+      "hash": "sha256",
+      "content": {
+        "type": "vote",
+        "channel": "cooking-channel",
+        "vote": {
+          "link": "%A2HJAktr94fzhYhFHqIPzKB37bAhn5W4jr0yIZ2j/Nk=.sha256",
+          "value": 1,
+          "expression": "Like"
+        }
+      },
+      "signature": "GtL40HVMdZJJXjt0ti+0q3mtbCm7i8IdIsNsdXsk3qbXA5P/3NahZx6Sqah8NRUPFsVV/DPkrE9M3d6Gh18PDQ==.sig.ed25519"
+    },
+    "timestamp": 1502147994796
+  },
+  {
+    "key": "%WF8UGFMaiMIz5yg9th8/UO+kWMNoLi55XzynzS78zQc=.sha256",
+    "value": {
+      "previous": "%ddztzUwQgWkpd/73R0yOPlCv1coBXvuKzzwowXuimmc=.sha256",
+      "author": "@5BVog6oEnTaBAeCDCkx6bIU/DZrEOMIORa12DSSEBmg=.ed25519",
+      "sequence": 348,
+      "timestamp": 1502145085186,
+      "hash": "sha256",
+      "content": "ckOwkG4izcBONxPd4EocVUdFtsSpAMn3z8waFBmzMJjp+DH14Ro+d3pOucNX8Cc2Rm8aWEEDZF+hMjN2xNME05NLnd7FEMYUHRE/OY3DzXOsaGATNe8l8bmDtUYC+3mab+dFFZXJq1V2NBK/PEddDaOk2n2Rq/cG8n/7HRZ/GjzRyYplCwLIBf6ZJNKnHg5BRk4ITzJ8a+wVkPZd5hENQ5NObIZ+fOwesQOhvuYlmf38FiO9Y5R/LnIaRq8BwvKWgZ1vxoJtb3XvgNHuwe9Afjnf4GUXkJi/iuZRcGjX4+zVyH9Mbf/sFHtFH2aJ22vdufp7pTFQv+QASTr5pfnBlVliJCPCXkAwEMp4yj8/1+9+EXFTDIEvMyFBsc3gWBhDsxE0yxC9mDM50aaFjPykndcerRsS5b/v0YMayqsODknJS2Lg8BcHg1p6doU3ZbWU7gjkAATSCYSrAa4kWfQrBiMXjKiAAxk9fJotpBKpJZICyHn3/XhqxXsISZ75RY04+vyFgiV/8IFvndVRni3FOCMzPysfmbM6Dn4tyXrjANKIkcNEb73XoPBXjSuoI7BuTvraA+fpLOd8Zs6udfSuW9J/vQym8D1TUWYV5h9vBGoxIdWc5eQvAObQqqvSWTPj7MlBzYaS/0MxkHIXINkAQkamx7kBezrbAZFd+MxIbf5C79z1bQNDrjCQ3WDUpCPgq1hWjk6WLvUBkwksA6GVVd78fCs=.box",
+      "signature": "juQkCfU08GHh4jO8Bdvi3w+bT5nmLeg8o2QVsPLzc/yOBYXxZ8bL3kqDQEFAQkbZWrG1aVFn88z43o4oLovmDQ==.sig.ed25519"
+    },
+    "timestamp": 1502147994766
+  },
+  {
+    "key": "%WeoynQMnGFK5a6SZdS7zr/7xFYPkK3XG+SKuhg5vwqs=.sha256",
+    "value": {
+      "previous": "%Bs4K3ElT+ump0HdzrwPNmkLuOOOkmrzGjVxOUKjkiu8=.sha256",
+      "author": "@iOyfRmje5LFAErH7M3faTLNMQUTXCnjECbLtniVJ478=.ed25519",
+      "sequence": 452,
+      "timestamp": 1502146961534,
+      "hash": "sha256",
+      "content": {
+        "type": "post",
+        "text": "Cutting back on meat in industrialized countries would let 9 tenths of farmland go back to the wild (my understanding is that meat production uses 10 times the cropland of equivalent plant products) - and improve health in the bargain.  (Temperate zone peoples need less than 5% of calories from animal products.  Tropical zones less, arctic zones more.  As animal product consumption increases from 5% to 40% of calories for temperate zone peoples, risk of both cancer and heart disease quadruples.)  ",
+        "root": "%lqgJ1j1VRrUSXyKPkTSx+1bl+r7RsCN2WRxCPyaVwO0=.sha256",
+        "branch": "%NRovuk5amDp/+FRBhzPnqr1sVhTidQKMeHMxzPlrcNQ=.sha256",
+        "channel": "growingfood"
+      },
+      "signature": "4GY9R9FTQf8OtKS8pGaVhTqZGPn/pIS5quRSC8Qg4Dtdu5W+rXlC0m7fHRYw52i32zBOCeZFySJaHAVm/Fs3Bw==.sig.ed25519"
+    },
+    "timestamp": 1502147994744
+  },
+  {
+    "key": "%FywUL2zfzn6MHcZrj0e/55sC1lzKNaBuSf4xWR8vvSQ=.sha256",
+    "value": {
+      "previous": "%vW82B0+trBRJf9YoL3TYIjurrYnt1emOOCITDVUzYmk=.sha256",
+      "author": "@4OR/xSKbQ0WWY7QTr7szYizISldc6MqqVScqKMKfdMQ=.ed25519",
+      "sequence": 116,
+      "timestamp": 1502147447550,
+      "hash": "sha256",
+      "content": {
+        "type": "vote",
+        "channel": "cooking-channel",
+        "vote": {
+          "link": "%3Bhda4RgikELCFPHhd6QPm+2AlRPRob32cStcj/AKAo=.sha256",
+          "value": 1,
+          "expression": "Like"
+        }
+      },
+      "signature": "Q023/jiSk71ioDt/Ug40bPUlEcvk0d3juVs7jcbjwaslMIMxtwqLqgcvuPKfh5fggk3M/KJP6iVNX0gOqddZCg==.sig.ed25519"
+    },
+    "timestamp": 1502147994731
+  },
+  {
+    "key": "%ddztzUwQgWkpd/73R0yOPlCv1coBXvuKzzwowXuimmc=.sha256",
+    "value": {
+      "previous": "%629nDienflIwsni9G8BynVXGU+g+XMKToGXUkDNV9c4=.sha256",
+      "author": "@5BVog6oEnTaBAeCDCkx6bIU/DZrEOMIORa12DSSEBmg=.ed25519",
+      "sequence": 347,
+      "timestamp": 1502144671925,
+      "hash": "sha256",
+      "content": {
+        "type": "post",
+        "text": "[@dangerousbeans](@TXKFQehlyoSn8UJAIVP/k2BjFINC591MlBC2e2d24mA=.ed25519) test public message :fish: ",
+        "mentions": [
+          {
+            "link": "@TXKFQehlyoSn8UJAIVP/k2BjFINC591MlBC2e2d24mA=.ed25519",
+            "name": "dangerousbeans"
+          }
+        ]
+      },
+      "signature": "o0YeKxF2s8vkefoOHU8Q6CL3jzpGrG8scBNS30A+/eW77D9zH/nxgYKK9Ii09Vl8UALBybSsbnCGNQwVxo8mBg==.sig.ed25519"
+    },
+    "timestamp": 1502147994715
+  },
+  {
+    "key": "%oqcpJsasjuE1DKXZyTBwoaPLnQy3fY6Km4xq91JkSro=.sha256",
+    "value": {
+      "previous": "%rup0dJ+GGjlvfyWSCvmDAvUltZJaRHdc3FS5/0FqWkQ=.sha256",
+      "author": "@TXKFQehlyoSn8UJAIVP/k2BjFINC591MlBC2e2d24mA=.ed25519",
+      "sequence": 1950,
+      "timestamp": 1502147302437,
+      "hash": "sha256",
+      "content": {
+        "type": "vote",
+        "channel": "growingfood",
+        "vote": {
+          "link": "%WeoynQMnGFK5a6SZdS7zr/7xFYPkK3XG+SKuhg5vwqs=.sha256",
+          "value": 1,
+          "expression": "Like"
+        }
+      },
+      "signature": "1nKfRPTNIlKCfDp7CEsbMSXYGae/TtkIlmw7Xolex15y7DweKZu93I41VNFEu0pH3NxRUyLlXzkQus0jdNJpDA==.sig.ed25519"
+    },
+    "timestamp": 1502147994609
+  },
+  {
+    "key": "%b+Cjm6kPB4w53aABXqko1Ap8VKQB+I4ofJO83byaJ+A=.sha256",
+    "value": {
+      "previous": "%K5K8JDFWs85o9d3/64wjY+BycJ25G2LH+V8mNK6XbXg=.sha256",
+      "author": "@EMovhfIrFk4NihAKnRNhrfRaqIhBv1Wj8pTxJNgvCCY=.ed25519",
+      "sequence": 9658,
+      "timestamp": 1502146528380,
+      "hash": "sha256",
+      "content": {
+        "type": "vote",
+        "vote": {
+          "link": "%/wt/HEKGxbZjhJxuW1VVvDh2ReFPPrMvjSE2XxGVymw=.sha256",
+          "value": 1,
+          "expression": "Dig"
+        }
+      },
+      "signature": "VQvQN/uwMBOghJzcbwNIc74RZSFHw+lqqlG7oAbvZD5fB4/mirPYI+1UF0Jd9DWvJ2IGX6RPDq/sWqwjAPB1Dw==.sig.ed25519"
+    },
+    "timestamp": 1502146528423
+  },
+  {
+    "key": "%K5K8JDFWs85o9d3/64wjY+BycJ25G2LH+V8mNK6XbXg=.sha256",
+    "value": {
+      "previous": "%4VKPWcFD4kC7fBQHHRMxD5TSIChHN8RaLpakc1W0S0Y=.sha256",
+      "author": "@EMovhfIrFk4NihAKnRNhrfRaqIhBv1Wj8pTxJNgvCCY=.ed25519",
+      "sequence": 9657,
+      "timestamp": 1502146495966,
+      "hash": "sha256",
+      "content": "106ERBfkfVYDaA17RLlPmM9PG2GoZS50MB3Jj/zCRO2Ck5O2vlfJLVx6eyCCsHW8l6bPdixeTWSBrp4IiIXtAS4x8z2eQH575hc8xyVV1mcUtNt9XEkNlhQSsnwvLnNmRmXp0el4xJuE/LsY6t64JsrOVACKs+q9oo+dhf4b3IoaiVNmyOmuykakowxHIzlaExnpkYbct5XFXslhYcgycJZzp3w/d+NjmjDz35ZIJELYqLicdPdVwLnVhte3PdRFLdULeqELfDeTwOehHKHS4+OVjabtUXeOyvrLgiGAiW1yuDkfpejdFOwwO3PTDYlBVGrqFQCd5A+6+MNOz3GQx5BC/P/Ai/VbimSJnCDVo9N6jnAnRcgtUxRYizQYkDeAKzKGi+xitELUS81ufs9xkMeQQvz/wIv1W4pkiZwg1aPTeo5wJ0XILVMUWIs0GJA3gCsyhovsYrRC1EvNbn4H23XldzMFa3X2z43P6jjhWtdKw7QPH4T7uCVuzuyuHngJsbLY+rycnfdE67Mnk+j3/Srgga+x4MVGT8BWTUt2hOitxVx14lXozg16TtpMPCfAGVBVqf37d+YOQHykTZbG78NkWQPtvFSwg/T6iE7YxKaaj29SLonWq40RYkLi2BuwtcnBwTNwPf9SdQXiZtDnBrZjNgjAfTr77dOrniEipmJy1WMafwMpgJILFdRPb5VdaQla6Log3e4diZlLgaz6GP7lz00UE1xHVjr+NoU/6hw5OgNQUrWRFQWuVGe7l4X7d8MAA2PhRCTSMa4RtiYBAlFmqGE8VDdG3WpVPzGqcSCenuN0deTvisIza8HQ5sPmlAjrlaCRqDXjSa3qBgpFS5i+RIojPKLJAnAUZGitPKE6WRYu1uhA2Uozd9Je/yG+THVUEM1IfHDr/RRc8xNdoKdPOh1AR8OxtqGVte4/VMZCqd0baRFIFY5cmOsKsZnJwzG2DKMaeJ1RUWVsT9C1LwUObzjo2Tjec1wik/YP+Z6yhyyHgDcjwdtrcj2PIbwDHg0gIAaDJ2ifAPTfL7LXhS0Fh120PPx/U51bHCHivvo9lFARjg6RB+FL7J8WHAGF+Sd76tuK3bNQdWKDQRUVHCeGTDVSg7bBvC4uTluTzZ7hknw/+rCZsIdqM5Ja/GHWI24zQ6IhjKIJFDluXrKgi2l4QysTWiuwyA7tXXipqMs6/ZrGieBHI3N3wWYU/B/ZBH2cS4LyT7iAg1EhiXIVBimKPN3TgQPb9qouvcas4li+gtwkLrVSDJwWaXqIKDs+XJSbIVdTYItT6kczChBxkUpNqktyRDfIvEDzt8AEmXei4BBGeyI6Sg95mU42mdDNKYa9KeQUPpvRFUFtw+/n5l/kIwKKHiyYrY7g8imyZBs8MdXeTVTWLsfutWCJ6LJF/Jn7kptmIm6Lla+2jfnEwJpM0uQcDs1+5bXG8SdQlErturHdOsAK3ftC0+sQ+rQLDv4lxxxn3StVLRViafUEO1vkFRzBcLwunFlZraDUvcLeNERWCA4v6711ZG6ia+t298AVgyTLfYnI72Yhu1VzYk4DjjRqbigy0i3b7uV08qCH8rfnDEjYeStNWKfIVDUdw5hYwg==.box",
+      "signature": "3FgXdcmIuDsneVQRR7Jc969eTRZ+O/lFu4JFy9kSoREzNKo+ir6CujSNZX9E+czeKy+NEO5tQGZ0mThfXxNiBA==.sig.ed25519"
+    },
+    "timestamp": 1502146496015
+  },
+  {
+    "key": "%Bs4K3ElT+ump0HdzrwPNmkLuOOOkmrzGjVxOUKjkiu8=.sha256",
+    "value": {
+      "previous": "%xD2BfDqi9ZzITC1mDHUzPUkMsJdtC7UFq/Cl/tdYIww=.sha256",
+      "author": "@iOyfRmje5LFAErH7M3faTLNMQUTXCnjECbLtniVJ478=.ed25519",
+      "sequence": 451,
+      "timestamp": 1502146255592,
+      "hash": "sha256",
+      "content": {
+        "type": "vote",
+        "vote": {
+          "link": "%BT2ktaf+peaI+9uGvhzHxELg/mZBHRPlTehbCGJFo98=.sha256",
+          "value": 1,
+          "expression": "dig"
+        }
+      },
+      "signature": "aceEZh7Yp4enUZPJwPltalDIN6KKuvR87aAL6k2xHuZ4n6xlDROO/pBWs4bJQ8PS3yW6urNB5iMJNmtX1xdfAw==.sig.ed25519"
+    },
+    "timestamp": 1502146319700
+  },
+  {
+    "key": "%629nDienflIwsni9G8BynVXGU+g+XMKToGXUkDNV9c4=.sha256",
+    "value": {
+      "previous": "%KLcI1SjDEh0lck3jCJmxxNxYtnnKvU2p2uocqpYKOSA=.sha256",
+      "author": "@5BVog6oEnTaBAeCDCkx6bIU/DZrEOMIORa12DSSEBmg=.ed25519",
+      "sequence": 346,
+      "timestamp": 1502144536482,
+      "hash": "sha256",
+      "content": "7c4hLjFchMKju5fcyhFVPG/As1yOPgPM5/6lFkcNsXi59kdX5tD1gWYV9JVR4QUhKDS4djWZp2QazJikE9LqaKewPjJ+B3j47BO65sHnMj2vmJVUHeCWZZTFY8ABH0M361pdgljk1NSBbCzGOC/nAmnsInp99BZVNZUwx6TqfUzIJoRJfDRGf4MIyhhTUP2OwQAsYv/fnSll844pMTsBuh8K9Wf/EsNcOxg3d0dSVRGEhEPn68OmK+vFLhBJ9ywL/6D4TujIT38IHY3oLBQuVOO9A3kk7cBeePQ/K9WQm5Df+6chN+w1cwerziQtYs6TwsFNv0Rcki1uN05/28fB3KK6B2CL7/lnMuXQjO3N+eF56Av6Uwt77fy0Myoilt3QH4ZHt+h2qzRNGYCS8+T0yugPf2jUMBHEgTX92RhyHG4xPPql6QNWZ442IoIc+HrCqWjwzWvi3baDrGljVzRgCpN0RKxWOaGSDz3UeLDs79C2KXs4c8VKtsOCEy8etlYvlQYHFO2vV0iDy8SYeHvpAW07zgmRP3rZDK1o5buVxe2M3r15nI6UIt8A2rOxLDlEIW/vXzpx4dLdOj3+1bbWrEw7Yt//16ncnzTEU7RuIi1EsjpnENY/RareruGT9Xo0TNbviBd6lRsKgXXXF8mkbjHJsO5G7wFklKcBnDbJELX2Loe1X12Nd1QgL/laL4olZj0aV0fsdi8I+UmvdKEE+g==.box",
+      "signature": "4JlVtEVAv8JFDCFVraseUV1RmVyR9K2ZwCHbsNm3r2RakrFk3L6fXaM+JoLv9QXTBwaaln734D0dK14dXL3dAA==.sig.ed25519"
+    },
+    "timestamp": 1502145615256
+  },
+  {
+    "key": "%4VKPWcFD4kC7fBQHHRMxD5TSIChHN8RaLpakc1W0S0Y=.sha256",
+    "value": {
+      "previous": "%9p1+LqMRlZkAh19KWo75IwvSJlkK5y7C/bkVLxJbkog=.sha256",
+      "author": "@EMovhfIrFk4NihAKnRNhrfRaqIhBv1Wj8pTxJNgvCCY=.ed25519",
+      "sequence": 9656,
+      "timestamp": 1502145487369,
+      "hash": "sha256",
+      "content": "q91lX0TmGzhjpWJ9GYJnpZcbbh9NzNshA65n0da5ezr7+963r5O3f3gldWF4Mx+7f8F7GJp2kGejKMpk7s9Ga9WJiVJLXA26b9b6HZQj+tE8seE5DjK1YuEKRn0GZSLiqmiKqA4NcScGeMtTPRvbYBlOdbcmKtM04i5F7WBma8cG+FuTmIffJRuxfZf93XPZy9ZpWbqYSjYhDvgEmtM+zQ2a7uCEArUZxjErgAqpiZqL2iYqK9aVcic0XdzvqZu93VjgU4DFl9wcLWsV9KdhNvrYpfQI0HFxtX8jfIarFKYRdv8L4ckQDpwDCtdmuuGAbNcvx6J8LRpb2Zquy1uzCObzm7xdPqFg1+HQdte8N7+4BeP34VuC455aXuhDaNHfnAItORVGfGk8v5lEoJEIWvZTbKkJRMO/8NWP8V2E4hTR/wbRJGxBTM+V2sp9eB+GPxVM6CxBDb4fREFL851p2xj4TdnHDeMB33cx4KVAbCO3/nTMzSxDoDaOgPLYv9TaSaUujhHB0WGqnySwC3vh01pmLZGW0D+BQVqdZlBC+7n24GQDAbxtY3Tsc8iiQe/i84Wew0b2c1JqisT+JI+5A86qhxPe3QoNNSs2xNrJGBUGFMNMZ47ZOWw/5QC0+xL21nBQfnRP2hwcT9NM/w8egIAtUk6wYuDWNKYUXhWeO/KtH34ovRPyK5By+XlVty7ZJxT/WNDrwFD0CMgCga6xixgbgx79C0QiDCdi+k7RTp6oRHjBkTJkmXRIo1XwkYQzcOzOjD2YqAaI94GBSZeQB1JIuK4qn5KRAbGZl3OHv+wUwLRhIvwAlkj4BQo2LDuti5ZbW1qJ1pX7iFHqTgho1C6Fgy90pCkkzCCnTdL9soUBCtGiLpc955Bde4Vm1xPRMFwiYWD018GPQTO/M//A8tqsv7WnSOh3lDIWM2ZorOflFtHAAKb1Iu8bcPrZWTYc8z5qjk485k6vqcavqg83iZ2O7WEuCx5XlAowM2mhcwEdOhBWSDYyc1rHhYg/JZvzWi9yhrycYsDhHjBwrZsj1j7ksVhHYiPK2DDRNH1xPDb0TEfK4fxORngopDbxQYv+nNmrnkle1Xk3TewW9Vx3u8QK9N4rRV6gkq4//1c3He/ubfr4rYusQngpxxBNdRaX6Qq8y0kp3h7ZVzKuAi0+5oFS9PeNL7yn5H8PhJPllexL6P5baaUf1PBk487VNp2GAfJD5RsuYUCHSiShhh5F/cE8xBqH+0F2zKaFMAR0tZroHUfcWqWwyqoH8snw0KRS46CvuSWUCHk3YH/0Rwl+by+3EEfFqDZgT0UOPTmhPmet9nlKuNpxiWheREKBYbEC2H+tajtWkfeM6TuvJQlZMCra0cEmJQ/5tyLaf1b/Gy4r7LRAvHIJIu+n0abtSTF1Aze6jVJ9v2/ySPgTOsknRSHXRwu8xEFoNDM8z3Tg7KiwCtgcJ8Bs+8bnpyiydOjWyE1b0ngk69lMwfvQWACd89qcwj3eTJPq3FAsox11EmDBOBPN13cPNtnpY2Xte5CjQfYEjWJ96fXgLU0BJMJHEciPKAj+goEF7QfMaJrEBYdKGUz82Yx7r8yLaSALzouIqixekb0biQMZIAvJXA6LyPast5csWeUaAa7zGQ8gTG0H7mWF4vFRwdwtOkjf0RIBEl1BHLabSwwqgTusRmMBo7Aoug==.box",
+      "signature": "2biC2Fhfp16Vy9lm5MQtELRdAefwFbb+HQV5PFJG4AXDPn2CD5iBs6n9C6NIMIQR+hXk+2hOOmKBsSW6zhMtDw==.sig.ed25519"
+    },
+    "timestamp": 1502145487418
+  },
+  {
+    "key": "%rcVJFPwmJAu7QjeiUfd2mi1lNe5z3yD57rJN1DJa6zE=.sha256",
+    "value": {
+      "previous": "%fa0C7OYb5khsi+496DIZT8qobd/B1iJtDgDUfvasaSY=.sha256",
+      "author": "@9nTgtYmvW4HID6ayt6Icwc8WZxdifx5SlSKKIX/X/1g=.ed25519",
+      "sequence": 1028,
+      "timestamp": 1502145269547,
+      "hash": "sha256",
+      "content": "LFhnCRP4bw1k4hom6Fd8Kh9w5BBxX+EaRdq+upPgctxjUIba/CHHUScYmPuNmKJJ8fAkqzdKXU78NaukygHr9MRANr684+6dE2m6H77nek+UzlIZXRWcemVgsIdCFvUIhI76ml6+cC4E54Dim9f8kN/so7YCDYPxHR47zif6cj1C5FEwDr3KR9ENA0MnG49bk+uL3U7+jyLrbrZaDMKWrO7axvupX9y1jL8rRF8RlgpDYyfxDQfoFF51oKCEtZoeQXMd2LBpudkapbkgm6mcHqNH/yM7uxltq+Wy8iDkvVzcHKNKtbPXXzzKOf4Jh/WzEssBdzm++1AsG/IiQfQkuegLv81KeuxhHQhMj5sic+cVUMs1wv/ghSC4kyUtAkYliJsPz0xq+shh3dfpBkH0JLnoC7/NSnrsYR0ITI+bInPnFVDLNcL/4IUguJMlLQJGJYibD89MavrIYd3X6QZJyQeBzfKPjVAUjs20PYlknpu4yuwxZEarA9oe+JS/ObjrE515pOeXBHBSdNUf6zwVmJMt9Jvz8BZhfedqVoNj+tyf1apkvmKtMyPCmm/XPE7lt9r6zcwiUYpKbxsrVbkZF3TegRvxHKoqtmU+0l782NIa8OFi9rjqQPcgGj4eMaik6TtiZaS4YkMzGkwvViEXrbIpEo2syHxytk+70toPfzFwyMkY6RvgA5ZrLws0pL2RJ+MzGhkhl6toDZ8hUZT3QzkHQ3nRxYF1AQrCgvlNfawj6HiCfJRezjjhWmLt5MA8MET7I/wKcjgiBbD89DQfey3VplMc6b8bqxk5cYVVPYXxrFp0gID/4NU1PHomLoaaercB2WxvwrslXqNzzRH0iUhP+gS+PWx1TEhsuddo6HhxOHGu8Bly9g+Pyi+Hfa7KTjea0YNgNvlrid6gQEf4Kgaxj6+qYX0Qy/2MVMzIk+kNBiPF5cvpYIdJMrHoeIdktfEoMjMDXf0NccZdErS4O8wNC5LiBVo0FliaQJgamD/ndcByEqfQvk1qTB+R/ebYxOBkQnBpc0ycTp/ILzsvp88VREtT29Jdv0S2VG1nnAjJWDL4uNdl7gY6R9s7PyX0iAJXKOZG5K5uH0e0tmv6xrxV9ouO9HUygVemdmLFPYs0C/Bxmp4U3OOdoRWVg5H5W086QyWk1QxeyMUqXBF1hwIQWAPkD+R1j9X1a+8LqeitueVRYh65neemYmMGTbrsrXEYIw6K5YP8r6WnzMexeNwlUc8Efn20oTC6Vixvwlr/5yeWCurf8kuIxYBVrpRN/20UTkzFB1dUV7j29bQs8TInF6azbOQ9IoEjsb/nMLhJ10Wk8e1AOR8t/TOXPGKfjH7Ol0+bzuH4bwLeneu579I/cPYWAw9KzQkasLZlntYG8t9lOkz/1vQowYwE8lkcEehS7ARCJre2LuBvw2+KHW4DlJfApZh/938/6Adi5tmw3iD8R6RNjOhBfpbMRy99iLB0o0ElZaSwu+gmgTB8AWF3enm7uzdrxPBsEoAnfjcaMV2eIMmoOf0QzTKARjYIS/eIOaRte+aPsALpn5bopiY4uwWDqMiXaoq4fOgTcQWr3JCmbuAijOkRxX+GMt9D5TRclQuLpCNuXKtt/Xvil1SvPlXzgsBbXMHlMFsZmJPBA0KRbHekY5Y+KQ5AAy2lLQ==.box",
+      "signature": "AflcTj2dGVgTowKapy2JVsrNrZJ95Omej/20QjLvhX9m9nqFfAa/bvI9HKAAj64V7VnXDLWRqhhmvr80uqDUDw==.sig.ed25519"
+    },
+    "timestamp": 1502145313744
+  },
+  {
+    "key": "%uGnAxbQU6DKOxkCdkr642vDf+Z1Hhb7D1dQrjN/vqNk=.sha256",
+    "value": {
+      "previous": "%OrVbnUn5eT2JpV1uR8wdMDrwSW+DQZMXI4BqlBJSJGI=.sha256",
+      "author": "@f/6sQ6d2CMxRUhLpspgGIulDxDCwYD7DzFzPNr7u5AU=.ed25519",
+      "sequence": 6905,
+      "timestamp": 1502144916005,
+      "hash": "sha256",
+      "content": {
+        "type": "post",
+        "text": "our clients don't allow html in the text. however, you can use markdown: %PjT6UGO7rsm9EdB7fKfLzZ9/4rl9/2+s077bD4OLfEo=.sha256, %AVGHL9o0iC29FjSQ6dLtqNXhGqdNJcAKASfvyn/qY0E=.sha256",
+        "mentions": [
+          {
+            "link": "%PjT6UGO7rsm9EdB7fKfLzZ9/4rl9/2+s077bD4OLfEo=.sha256"
+          },
+          {
+            "link": "%AVGHL9o0iC29FjSQ6dLtqNXhGqdNJcAKASfvyn/qY0E=.sha256"
+          }
+        ],
+        "root": "%0WQSPMefiR6iccntfd4s4xzzJ59mAtkXagTzmmW2cK0=.sha256",
+        "branch": "%0WQSPMefiR6iccntfd4s4xzzJ59mAtkXagTzmmW2cK0=.sha256"
+      },
+      "signature": "Wg9eIDVIiuvLH09ljLLU4ZevHcHDkA3tg5XwWowoVT0ClWlOXLBZxhPvLAHc3QfZLms9gshCe8rSQdPtxNOaCw==.sig.ed25519"
+    },
+    "timestamp": 1502144929695
+  },
+  {
+    "key": "%rDiwEIQ0N/7noD4eVd5Qq294iqUDcTBPxtUmU86TO88=.sha256",
+    "value": {
+      "previous": "%E7Sek9P1zYLN+dG2sd5BUyAEiVyWUgyDegySzaelFvU=.sha256",
+      "author": "@hTXM9yV6EZ6nXcT3QopcwhSWrC008EnaGhoo/UNzX3g=.ed25519",
+      "sequence": 90,
+      "timestamp": 1502144784901,
+      "hash": "sha256",
+      "content": {
+        "type": "vote",
+        "vote": {
+          "link": "%ssxwowH9Kv8nZ1ZFcDM/ZIILagg6Bhbo1shvTXDNXjU=.sha256",
+          "value": 1,
+          "expression": "Like"
+        }
+      },
+      "signature": "GWyUsRkHZDN0FXxRXeHCXXq1e1fqCFt6/xJFnZblTr1VfKXp5VbE226KTcf3dB3+F0tqXHimz1nrGTJ68R67Dg==.sig.ed25519"
+    },
+    "timestamp": 1502144812914
+  },
+  {
+    "key": "%OrVbnUn5eT2JpV1uR8wdMDrwSW+DQZMXI4BqlBJSJGI=.sha256",
+    "value": {
+      "previous": "%Z/1FxvGzw2+9ORqWkpMv9rp6i6xxWxdZnv9y+cSIE0I=.sha256",
+      "author": "@f/6sQ6d2CMxRUhLpspgGIulDxDCwYD7DzFzPNr7u5AU=.ed25519",
+      "sequence": 6904,
+      "timestamp": 1502144784586,
+      "hash": "sha256",
+      "content": {
+        "type": "vote",
+        "vote": {
+          "link": "%U9WQ84noF7QFt9FpSypQyP02vqv8M+i0j/WevDGRTiQ=.sha256",
+          "value": 1,
+          "expression": "dig"
+        }
+      },
+      "signature": "Ktjgchkreas25h15pl1xa5BkkT2NkRFOTmSjZUWq4vBwiRYOE8DF2lUGv6tHMGBqHtHAds62IFLvud4BQXhdAg==.sig.ed25519"
+    },
+    "timestamp": 1502144782617
+  },
+  {
+    "key": "%Z/1FxvGzw2+9ORqWkpMv9rp6i6xxWxdZnv9y+cSIE0I=.sha256",
+    "value": {
+      "previous": "%0f6mexyF9V/JBjU2WFeXLImTM/FxdTbb7V5GtFjyLl0=.sha256",
+      "author": "@f/6sQ6d2CMxRUhLpspgGIulDxDCwYD7DzFzPNr7u5AU=.ed25519",
+      "sequence": 6903,
+      "timestamp": 1502144642375,
+      "hash": "sha256",
+      "content": "eGtzOuB/OzP788h71TBweRcWXm3evlfPDYeqcl429L2CF01iC5bF7BLrrdWw7HLmPZymrkE4n0l0JaPTA4bRQ7FldLaA0MWojbAdXDoYcBfBdeYV00j3OJfIG5X8++92lXYzhG0HEe3jfxc+VCG83r1LrQZZx4IyTvDloaa0lwx0Bi+QICSJaP2QzdHBdp5sLSe3O8dQL4in91hcAnWpOycfe0LQnPSVkIH186jTBv7lwTuh4nHxDUWHTo6dZlXI+LvH2ZnSpdGTcPuZQUAifXRzRtFWC6aNIYlekMqbKd9wWcT8VOj2N0R8Lq0dsZaVqbudxnYiAJc93nk34ptK6Q36NFoLN+515p9Rnvf2CUe7H2UFqnYN2WPmzssCXWEQ62h1iA1835y5FyzdneKbSukN+jRaCzfudeafUZ739glHux9lBap2Ddlj5s7LAl1hEOtodYgNfN+cuRcs3Z0DQbCLnlSH5fpwRz8ML05reSegS7ZrEAfG72GhDklAHBoSTi20fFzqqDclYFZcgCXl/7HzqFIQ2sHyZ6qIldIFfRkxBRkNQFE/iku4ugrGGdDS3kHJGkmysQkwoJcP4N9isl9E2/4LQBLW4XYoIrVxa/X2ZgsUY1YVD7+H9pHcfbDOxeuvaSP+5fB66qIylTZVNb/wpCmsNCJqTC06RJzsF/OvrTHKD55yZ73Qo2Cyuyb12Tf3/Eh17BNJWb+xPWaKrumtjd4vYwCJmw5qbIdFEcc+7VT7aZojLrz95cAiQPe+9a7Sp8NnWuSqTm5fjPLVvkgG7DEDp8dI3U4ePWYDmbJAoaFeucUIp722kkHhZy61JrgQDVhaO5eXbaYLrIGXip+Gb9UvYMBJpxJijvnHspuORUTocO2j58bzMS9I/TfcSaeYg9NNdfIIcyg/D44rx5ucvQg8maDmtcBuJjuTbHHgZz4IcvF2M9d0H51r1Z+qXiJydE/3S54mFsL0AXEkjgRphjU3VTPiC9jvZBophme7iu/qcWABAuG2TjYE/FJbnh6OrD1+/Tdcb1YZ51BfGRZMMVk4DvpkY52mhTFPkB1I3N4L68JNo7qipYhC9q8VFFaCBcNpcrMbPEU=.box",
+      "signature": "NbskbyYZblFTljVRICIS7V0cnG/a/Dx/HRen8uf9rNx/T81E85sx+9gB5vS2V3OihcUycKEq4neT9VAGAQSaDw==.sig.ed25519"
+    },
+    "timestamp": 1502144651590
+  },
+  {
+    "key": "%0WQSPMefiR6iccntfd4s4xzzJ59mAtkXagTzmmW2cK0=.sha256",
+    "value": {
+      "previous": "%U9WQ84noF7QFt9FpSypQyP02vqv8M+i0j/WevDGRTiQ=.sha256",
+      "author": "@7HHVZNWiNtCOquFNhNYS/DbHI9x3hFWrfxGP9FlJzHY=.ed25519",
+      "sequence": 69,
+      "timestamp": 1502144548419,
+      "hash": "sha256",
+      "content": {
+        "type": "post",
+        "text": "how do get html codes working in my post i wonder",
+        "mentions": []
+      },
+      "signature": "8vr7Sg5FOgZ+8ezHlPw9DMx2tjgnC1jUp6fXJTF0XCmd8Ic0vP3HuTbuuyV7158H29rqH2PQCFwJcDv+br6QBw==.sig.ed25519"
+    },
+    "timestamp": 1502144541291
+  },
+  {
+    "key": "%U9WQ84noF7QFt9FpSypQyP02vqv8M+i0j/WevDGRTiQ=.sha256",
+    "value": {
+      "previous": "%peb63H0xWNeXNYAKRj+rp4tZl6ALTBWTgqKeyHUr1KQ=.sha256",
+      "author": "@7HHVZNWiNtCOquFNhNYS/DbHI9x3hFWrfxGP9FlJzHY=.ed25519",
+      "sequence": 68,
+      "timestamp": 1502144496027,
+      "hash": "sha256",
+      "content": {
+        "type": "post",
+        "text": "\n<h1>I have an Idea</h1>\n\ni wonder if its possible to create some sort of  p2p email system built on top of #ipfs i know its possible to make a chat program using ipfs in fact its been done be for its called <a href=\"https://github.com/orbitdb/orbit\" target=\"_blank>Orbit</a> but i would love to see a email app or some sort of message board one day \n",
+        "mentions": [
+          {
+            "link": "#ipfs"
+          }
+        ]
+      },
+      "signature": "EuAccd4KLkPDPbcMkNSMFaPu+aOJJszf1PmWNpRnWeGcWxrkNFt1JEvh6Fo4KQEC8gOh+6vojCD+5kSSihCgBQ==.sig.ed25519"
+    },
+    "timestamp": 1502144515602
+  },
+  {
+    "key": "%50VsyF+54rttPL52i89yeoos/mdrwfEw+1c3Ig0NSyw=.sha256",
+    "value": {
+      "previous": "%PoxLRGeFSDUHdAhxihF/m4YxKzMhRHHWJqzliNjNFpg=.sha256",
+      "author": "@QlCTpvY7p9ty2yOFrv1WU1AE88aoQc4Y7wYal7PFc+w=.ed25519",
+      "sequence": 1026,
+      "timestamp": 1502144428983,
+      "hash": "sha256",
+      "content": {
+        "type": "vote",
+        "channel": "p2p",
+        "vote": {
+          "link": "%8TyyrchMMOuRg7GikI37msI6zoeUCwUzH07aU+590iA=.sha256",
+          "value": 1,
+          "expression": "Like"
+        }
+      },
+      "signature": "C7dHVy4x+tta5A4bZkoTvHVxixYy92UJaMqVAggzJoZfBu5lzgu5ouVS1OXidookp1Un3QHFIiuNzkdYeeyDAg==.sig.ed25519"
+    },
+    "timestamp": 1502144435639
+  },
+  {
+    "key": "%12RbmP1J9FFk07lDaM6x0k8MAdMkrXDX0UVYZSunQyM=.sha256",
+    "value": {
+      "previous": "%4rJahsTc7fU+UzoepYHb3TiWh/QIlEszXoWv1izJqXg=.sha256",
+      "author": "@6CAxOI3f+LUOVrbAl0IemqiS7ATpQvr9Mdw9LC4+Uv0=.ed25519",
+      "sequence": 1161,
+      "timestamp": 1502143981220,
+      "hash": "sha256",
+      "content": {
+        "type": "post",
+        "root": "%anpt1R/I3s+3KtDiRfed2cff2RJtYEoy9sVs8uxNdvY=.sha256",
+        "branch": "%anpt1R/I3s+3KtDiRfed2cff2RJtYEoy9sVs8uxNdvY=.sha256",
+        "channel": "games",
+        "text": "Not to compare you with kids :smirk: Just one of those things that most people loose somewhere along the way. "
+      },
+      "signature": "TzIvi8z/CjH5v9vK+VHpsLd1F9kX8Bfqx1W4upCwe02Tdsw0LuwWnWIiERf6/aDFtStKgHdFxi85ekF7H93MBw==.sig.ed25519"
+    },
+    "timestamp": 1502144001408
+  },
+  {
+    "key": "%peb63H0xWNeXNYAKRj+rp4tZl6ALTBWTgqKeyHUr1KQ=.sha256",
+    "value": {
+      "previous": "%B6MIf7x248rKBjdWd/w4f/3yr/XIFqMQcVjnxT/s4Mk=.sha256",
+      "author": "@7HHVZNWiNtCOquFNhNYS/DbHI9x3hFWrfxGP9FlJzHY=.ed25519",
+      "sequence": 67,
+      "timestamp": 1502143843316,
+      "hash": "sha256",
+      "content": {
+        "type": "channel",
+        "channel": "faq",
+        "subscribed": true
+      },
+      "signature": "2xjG1akF8fslPAXI+WUC4kxma1+6+dbPtkImn5lcLFmNLsC5YvSxF3K4mTtql1zkj07sr/1SX06WdNiEO4jHDw==.sig.ed25519"
+    },
+    "timestamp": 1502143839978
+  },
+  {
+    "key": "%B6MIf7x248rKBjdWd/w4f/3yr/XIFqMQcVjnxT/s4Mk=.sha256",
+    "value": {
+      "previous": "%PgdX7Lwfz118DZkmL9DJHgG/vnU6YMo9J2USCKN/tdE=.sha256",
+      "author": "@7HHVZNWiNtCOquFNhNYS/DbHI9x3hFWrfxGP9FlJzHY=.ed25519",
+      "sequence": 66,
+      "timestamp": 1502143707835,
+      "hash": "sha256",
+      "content": {
+        "type": "contact",
+        "contact": "@EMovhfIrFk4NihAKnRNhrfRaqIhBv1Wj8pTxJNgvCCY=.ed25519",
+        "following": true
+      },
+      "signature": "HZcF73tqiam6kHwQ0jSXWMC/kvMW6uO+SC6p9VlCRdB2tvndtSZBVqtlTBHESv24i48E3mEy4X1flgBDI1i4BQ==.sig.ed25519"
+    },
+    "timestamp": 1502143716432
+  },
+  {
+    "key": "%PgdX7Lwfz118DZkmL9DJHgG/vnU6YMo9J2USCKN/tdE=.sha256",
+    "value": {
+      "previous": "%QEHqa3G6R0ZTLXn2f1jo6xuANWl8yAhY3h16ui8+vp4=.sha256",
+      "author": "@7HHVZNWiNtCOquFNhNYS/DbHI9x3hFWrfxGP9FlJzHY=.ed25519",
+      "sequence": 65,
+      "timestamp": 1502143668636,
+      "hash": "sha256",
+      "content": {
+        "type": "post",
+        "root": "%rUCyohL359T7AJRxNBK4IixJVnTvqOobgsWjUl0h1nI=.sha256",
+        "branch": "%X7AUfUj2zaYA3RPuNynfSPP4bIbzOScF8nud1h5HvwI=.sha256",
+        "channel": "mesh-networking",
+        "recps": null,
+        "text": "himm i could possibly use some thing like tox or ring how ever there no longer actively developing on tox speak of witch   ",
+        "mentions": []
+      },
+      "signature": "hALR6kW5l6ucqwujXOZLorcGvTggmniocMAW6OULknYDT153Q+SS0D/q+SlroqD9WedwWwcsan2fMhp73vmIAA==.sig.ed25519"
+    },
+    "timestamp": 1502143672523
+  },
+  {
+    "key": "%9p1+LqMRlZkAh19KWo75IwvSJlkK5y7C/bkVLxJbkog=.sha256",
+    "value": {
+      "previous": "%8TyyrchMMOuRg7GikI37msI6zoeUCwUzH07aU+590iA=.sha256",
+      "author": "@EMovhfIrFk4NihAKnRNhrfRaqIhBv1Wj8pTxJNgvCCY=.ed25519",
+      "sequence": 9655,
+      "timestamp": 1502143451039,
+      "hash": "sha256",
+      "content": {
+        "type": "post",
+        "root": "%dXbJitCktgFUe27xkKr5dVhxOp4Y196plAwuFSNOx4M=.sha256",
+        "branch": "%fa0C7OYb5khsi+496DIZT8qobd/B1iJtDgDUfvasaSY=.sha256",
+        "channel": "politics",
+        "text": "[@jer](@uf3kajfhBC2Sd3OysKB5LnBLJ5pwgBhBpXnGEGzgG6A=.ed25519) on the other hand you might like this:\n\nhttps://www.princeton.edu/news/2000/11/28/blind-orchestra-auditions-better-women-study-finds\n\nThey compared orchestras auditioning musicans in full view with behind a screen, and found that they selected more women if they didn't know the gender. Sounds like there was a gender bias? lots of other evidence for that bias, remove gendered names from the CVs and more female applicants are selected, etc.\n\nQuotas are an other way of correcting for a bias.\n\nThough, if you wanted to do this really well, you'd have to be frequently recalabrating your bias adjustments.\n\nMaybe quotas are not as good as the above though, because people are more biased against the people who \"just got through on quota\"",
+        "mentions": [
+          {
+            "link": "@uf3kajfhBC2Sd3OysKB5LnBLJ5pwgBhBpXnGEGzgG6A=.ed25519",
+            "name": "jer"
+          }
+        ]
+      },
+      "signature": "/AqnTOZRD4tT3Ga2KF91ckjWrczeVyP0zjNcFjUqnDb8yO6dobcP7E3pHOsQZ+B7efFV3QD3qO12ud+m2Pp/BA==.sig.ed25519"
+    },
+    "timestamp": 1502143451084
+  },
+  {
+    "key": "%4rJahsTc7fU+UzoepYHb3TiWh/QIlEszXoWv1izJqXg=.sha256",
+    "value": {
+      "previous": "%2ABW/VfaadSnHaAfnkxQWIKygy/tm6R3msWHy+XICeA=.sha256",
+      "author": "@6CAxOI3f+LUOVrbAl0IemqiS7ATpQvr9Mdw9LC4+Uv0=.ed25519",
+      "sequence": 1160,
+      "timestamp": 1502143197318,
+      "hash": "sha256",
+      "content": {
+        "type": "vote",
+        "channel": null,
+        "vote": {
+          "link": "%uxp0dRk18zGDZHBEaU1GE1qWwVoWuGTyU0eS3aM+SGA=.sha256",
+          "value": 1,
+          "expression": "Like"
+        }
+      },
+      "signature": "T/ToGvo4lK5xnYwq4eRkNTNcpHIkluDkFl8/naR65nxRhetsQVoTSQxVnD2CMN/PEpDrMsJnkQayAwQhjb/oDQ==.sig.ed25519"
+    },
+    "timestamp": 1502143340613
+  },
+  {
+    "key": "%2ABW/VfaadSnHaAfnkxQWIKygy/tm6R3msWHy+XICeA=.sha256",
+    "value": {
+      "previous": "%wRkBvjs6O4pHJR17E05DRxyQiX+XV6fv5Il0TWVILms=.sha256",
+      "author": "@6CAxOI3f+LUOVrbAl0IemqiS7ATpQvr9Mdw9LC4+Uv0=.ed25519",
+      "sequence": 1159,
+      "timestamp": 1502143171126,
+      "hash": "sha256",
+      "content": {
+        "type": "vote",
+        "channel": "p2p",
+        "vote": {
+          "link": "%8TyyrchMMOuRg7GikI37msI6zoeUCwUzH07aU+590iA=.sha256",
+          "value": 1,
+          "expression": "Like"
+        }
+      },
+      "signature": "eGzbwaX5VyPgEQ3eWcfSuaTe2FXLE+6ihQvGugg5bM9W1lmTI3zjNCbcWxTGXWnBgWk/RdGcsIFj0ke4LGGdCA==.sig.ed25519"
+    },
+    "timestamp": 1502143339382
+  },
+  {
+    "key": "%wRkBvjs6O4pHJR17E05DRxyQiX+XV6fv5Il0TWVILms=.sha256",
+    "value": {
+      "previous": "%anpt1R/I3s+3KtDiRfed2cff2RJtYEoy9sVs8uxNdvY=.sha256",
+      "author": "@6CAxOI3f+LUOVrbAl0IemqiS7ATpQvr9Mdw9LC4+Uv0=.ed25519",
+      "sequence": 1158,
+      "timestamp": 1502143088948,
+      "hash": "sha256",
+      "content": {
+        "type": "vote",
+        "channel": "games",
+        "vote": {
+          "link": "%CF4A2zjkXjX+wcdvXu25lD0yZS+t57JUOtmfHgLdDT8=.sha256",
+          "value": 1,
+          "expression": "Like"
+        }
+      },
+      "signature": "kBHzu9dzJMEsx7Jj6P4aaad3xdL/Nu4TjnNBztKFMsfKHwrC8OPCCeNFbXLQXIJrdJwiHslzCt/GdJQ1CvOJAA==.sig.ed25519"
+    },
+    "timestamp": 1502143336849
+  },
+  {
+    "key": "%anpt1R/I3s+3KtDiRfed2cff2RJtYEoy9sVs8uxNdvY=.sha256",
+    "value": {
+      "previous": "%ys2qBlZnxOXZJEGhW13vLFfzrk84y6293ixvzRRWsc0=.sha256",
+      "author": "@6CAxOI3f+LUOVrbAl0IemqiS7ATpQvr9Mdw9LC4+Uv0=.ed25519",
+      "sequence": 1157,
+      "timestamp": 1502143070958,
+      "hash": "sha256",
+      "content": {
+        "type": "post",
+        "root": "%wyt0Qre0vExwdjjDRvCFEVxHvdaHDTLlVa346KWx4M0=.sha256",
+        "branch": "%FWDcbanHIHA2aiy9A7Y6O6zPRV8lIzpZYBhin8KSs90=.sha256",
+        "channel": "games",
+        "text": "My son likes to play a simple card game called war where the biggest card always wins. If he thinks he is losing he likes to change to rules so that we switch decks or the cards mean something else. I'll have to try a version where rule changing is a natural part of the game like this, its a very interesting way of exploring mechanics in games."
+      },
+      "signature": "jHfFuZ2T5qWsJv0ZxGY+6lgBsNOF3Ts84YVZbFoHjEfy5Pm46ZvgdN/kahBbGfIZ1BF2+7UsMPtTaySAYvveDw==.sig.ed25519"
+    },
+    "timestamp": 1502143320736
+  },
+  {
+    "key": "%ys2qBlZnxOXZJEGhW13vLFfzrk84y6293ixvzRRWsc0=.sha256",
+    "value": {
+      "previous": "%LDfT5dddoP9wRP542x0czeqthrU12DbdsJGhkgUQaUQ=.sha256",
+      "author": "@6CAxOI3f+LUOVrbAl0IemqiS7ATpQvr9Mdw9LC4+Uv0=.ed25519",
+      "sequence": 1156,
+      "timestamp": 1502142832778,
+      "hash": "sha256",
+      "content": {
+        "type": "vote",
+        "channel": "games",
+        "vote": {
+          "link": "%wyt0Qre0vExwdjjDRvCFEVxHvdaHDTLlVa346KWx4M0=.sha256",
+          "value": 1,
+          "expression": "Like"
+        }
+      },
+      "signature": "vnWoF5jQD8Gh08IZMFfLyOKMxqBoPYHaLLl2zzScp+NK6XwRnXAWcCV7mOE3x6cLa9Y1+pethzEpDdLAUDBaCA==.sig.ed25519"
+    },
+    "timestamp": 1502142831973
+  },
+  {
+    "key": "%RWHKUTS1H3GR3N7RbVk2iQ7Vo4kJJ2IRlVEk+TH8NvM=.sha256",
+    "value": {
+      "previous": "%UxGS0n2geeLl6ehqYnaoEmXfXayHSO3vkAI0FxWrnWI=.sha256",
+      "author": "@SxgxpzmMGLecGQnf0F/HT8pP74D1it6knuKFrjtMGzA=.ed25519",
+      "sequence": 112,
+      "timestamp": 1502142557971,
+      "hash": "sha256",
+      "content": {
+        "type": "channel",
+        "channel": "games",
+        "subscribed": true
+      },
+      "signature": "W6Nfe3b4TP9BXfc9rLhxcgH/aLsTcJDKjfhquDx4ULrH4xc0tlmmoQvuuavH18EXGRXe2i+xiLkshnOZdtMhCA==.sig.ed25519"
+    },
+    "timestamp": 1502142560555
+  },
+  {
+    "key": "%8TyyrchMMOuRg7GikI37msI6zoeUCwUzH07aU+590iA=.sha256",
+    "value": {
+      "previous": "%FWDcbanHIHA2aiy9A7Y6O6zPRV8lIzpZYBhin8KSs90=.sha256",
+      "author": "@EMovhfIrFk4NihAKnRNhrfRaqIhBv1Wj8pTxJNgvCCY=.ed25519",
+      "sequence": 9654,
+      "timestamp": 1502142524868,
+      "hash": "sha256",
+      "content": {
+        "type": "post",
+        "root": "%WO0KIe02tchTC7ULWo3Bbc5vlnNHjWITTYqNOv7G31g=.sha256",
+        "branch": [
+          "%O3keVFh7zkkjQjB9ZGZR4xhsPhXlH/RYxMMHCBW0Xw0=.sha256",
+          "%hSK/XwvCB0vQGO+5SER99xM/IcrpfXu+nX3GNxXUeL4=.sha256"
+        ],
+        "channel": "p2p",
+        "text": "[@andrestaltz](@QlCTpvY7p9ty2yOFrv1WU1AE88aoQc4Y7wYal7PFc+w=.ed25519) `rsync` was written by another antipodian (an australian) because `scp` was too painful to use over Australian latency! So it's a relative of ssb in a certain way.",
+        "mentions": [
+          {
+            "link": "@QlCTpvY7p9ty2yOFrv1WU1AE88aoQc4Y7wYal7PFc+w=.ed25519",
+            "name": "andrestaltz"
+          }
+        ]
+      },
+      "signature": "YvmURh6iRxJNH3moGauakQZ+r5Xva/80MvFhreR9RHzLIRKAU1n+hnDwvMVeqS9IoRQq/yKi9ILlD0Ayy8dtAg==.sig.ed25519"
+    },
+    "timestamp": 1502142524918
+  },
+  {
+    "key": "%FWDcbanHIHA2aiy9A7Y6O6zPRV8lIzpZYBhin8KSs90=.sha256",
+    "value": {
+      "previous": "%HyMevAMSvV2ELX54+ifBabwUoJgJIBeN5Kv7oCGsA84=.sha256",
+      "author": "@EMovhfIrFk4NihAKnRNhrfRaqIhBv1Wj8pTxJNgvCCY=.ed25519",
+      "sequence": 9653,
+      "timestamp": 1502142368158,
+      "hash": "sha256",
+      "content": {
+        "type": "post",
+        "root": "%wyt0Qre0vExwdjjDRvCFEVxHvdaHDTLlVa346KWx4M0=.sha256",
+        "branch": "%IF4MQu6BA7crzUAWZHBK6ScG2/+0znhSLLJhaZ7PLI4=.sha256",
+        "channel": "games",
+        "text": "so, people who explicitly said they are keen:\n1. [@mixmix](@ye+QM09iPcDJD6YvQYjoQc7sLF/IFhmNbEqgdzQo3lQ=.ed25519)\n2. [@ktorn](@z8aJVHJTc6MM8FwaNE2GIS3AYYt2HYFNWQUO8/iydNw=.ed25519) \n3. [@soggypretzels](@3PGWnoMIY5ebs6sJjkwc7DKjxrgcrOeIUC2YegkMtIY=.ed25519)\n4. [@dominic](@EMovhfIrFk4NihAKnRNhrfRaqIhBv1Wj8pTxJNgvCCY=.ed25519) \n\nAll are welcome of course. I propose that begin the game without the dice or the win condition, because we can easily do voting by posting :+1:  in the thread. The objective of the game can still be to _win_ by gaining 100 points, there is just no way to get points when we start playing.",
+        "mentions": [
+          {
+            "link": "@ye+QM09iPcDJD6YvQYjoQc7sLF/IFhmNbEqgdzQo3lQ=.ed25519",
+            "name": "mixmix"
+          },
+          {
+            "link": "@z8aJVHJTc6MM8FwaNE2GIS3AYYt2HYFNWQUO8/iydNw=.ed25519",
+            "name": "ktorn"
+          },
+          {
+            "link": "@3PGWnoMIY5ebs6sJjkwc7DKjxrgcrOeIUC2YegkMtIY=.ed25519",
+            "name": "soggypretzels"
+          },
+          {
+            "link": "@EMovhfIrFk4NihAKnRNhrfRaqIhBv1Wj8pTxJNgvCCY=.ed25519",
+            "name": "dominic"
+          }
+        ]
+      },
+      "signature": "JQSa5yyufZ+4Uv+4HnlBZdnMwk+LhN9mvcWbBijovZRnCnbJmpgMEwCAloQ4lr6sqYDKIEqV8QxyUNBARgpYBA==.sig.ed25519"
+    },
+    "timestamp": 1502142368204
+  },
+  {
+    "key": "%LDfT5dddoP9wRP542x0czeqthrU12DbdsJGhkgUQaUQ=.sha256",
+    "value": {
+      "previous": "%njCE5Ct4uKspeB3MmH2QA7PRtMDuddRtDoaZ8Mi0C1s=.sha256",
+      "author": "@6CAxOI3f+LUOVrbAl0IemqiS7ATpQvr9Mdw9LC4+Uv0=.ed25519",
+      "sequence": 1155,
+      "timestamp": 1502142185681,
+      "hash": "sha256",
+      "content": {
+        "type": "vote",
+        "channel": "patchwork",
+        "vote": {
+          "link": "%SVkxIMCRFwvUWoyZ3mO7eBNy+Kat0ftlu01qDkMkfK8=.sha256",
+          "value": 1,
+          "expression": "Like"
+        }
+      },
+      "signature": "QZBNq5uEwY5aMZJdVWxsr+ftdrbammZvEgR5lbO9A5/3Hk8FwF3UyUQ+njM1wsSADcG3nRrj2KkrVy+KtKx9DA==.sig.ed25519"
+    },
+    "timestamp": 1502142328107
+  },
+  {
+    "key": "%njCE5Ct4uKspeB3MmH2QA7PRtMDuddRtDoaZ8Mi0C1s=.sha256",
+    "value": {
+      "previous": "%NpbJUQVQu6QFg78BUHOaH6jeYpXzCQNGRuL1i7OvNBk=.sha256",
+      "author": "@6CAxOI3f+LUOVrbAl0IemqiS7ATpQvr9Mdw9LC4+Uv0=.ed25519",
+      "sequence": 1154,
+      "timestamp": 1502142159647,
+      "hash": "sha256",
+      "content": {
+        "type": "post",
+        "root": "%1qDNhoVLnXfVNLCjanaZPBYBcrf3TsYyRi/BtpolGmU=.sha256",
+        "branch": "%uxp0dRk18zGDZHBEaU1GE1qWwVoWuGTyU0eS3aM+SGA=.sha256",
+        "recps": null,
+        "text": "This would look stunning if carved in wood I think"
+      },
+      "signature": "DoWvS2AfnuI91X0/O6UmZ8TJuJB+Ekhl2CEts01CeyizvhlIg9+7vTCUU5z0ifbCbr1Dh/E1BzLtSQqVoHZ4AA==.sig.ed25519"
+    },
+    "timestamp": 1502142325825
+  },
+  {
+    "key": "%NpbJUQVQu6QFg78BUHOaH6jeYpXzCQNGRuL1i7OvNBk=.sha256",
+    "value": {
+      "previous": "%AbmH1S4JtKaeT+7njOd0PtZTUTrE2w/BAi1mS+sVA5A=.sha256",
+      "author": "@6CAxOI3f+LUOVrbAl0IemqiS7ATpQvr9Mdw9LC4+Uv0=.ed25519",
+      "sequence": 1153,
+      "timestamp": 1502142097551,
+      "hash": "sha256",
+      "content": {
+        "type": "vote",
+        "channel": null,
+        "vote": {
+          "link": "%1qDNhoVLnXfVNLCjanaZPBYBcrf3TsYyRi/BtpolGmU=.sha256",
+          "value": 1,
+          "expression": "Like"
+        }
+      },
+      "signature": "ct8HBhhv3/0f+H8Y0NnocyemcjfZ//5tb1RF0aBpo481fwPZG9ctNVa1GosYllLeMxnZv0ae5B8NvAfZRMYZAw==.sig.ed25519"
+    },
+    "timestamp": 1502142325270
+  },
+  {
+    "key": "%AbmH1S4JtKaeT+7njOd0PtZTUTrE2w/BAi1mS+sVA5A=.sha256",
+    "value": {
+      "previous": "%/8NPk2xPi6KzV98DBKMRl4AXXxrscaBCL7UUoxvKmeE=.sha256",
+      "author": "@6CAxOI3f+LUOVrbAl0IemqiS7ATpQvr9Mdw9LC4+Uv0=.ed25519",
+      "sequence": 1152,
+      "timestamp": 1502142041849,
+      "hash": "sha256",
+      "content": {
+        "type": "vote",
+        "channel": null,
+        "vote": {
+          "link": "%1qDNhoVLnXfVNLCjanaZPBYBcrf3TsYyRi/BtpolGmU=.sha256",
+          "value": 1,
+          "expression": "Like"
+        }
+      },
+      "signature": "fPYk9x7NTQhoq27/QFuixsTuxcU1OWuvqmFgu/Qit/gkizsPK/JLVB+kL6slk7kWH68TINdfQaCZq1RCaOjnCA==.sig.ed25519"
+    },
+    "timestamp": 1502142325083
+  },
+  {
+    "key": "%78DPhdZyu0ofWfBOQFSr/a1+BF2niKEt/we3ZwpJVbc=.sha256",
+    "value": {
+      "previous": null,
+      "author": "@adKlBFzNOw/jDQiSbmFQbGynshTdgWjpJXMUhToGl3A=.ed25519",
+      "sequence": 1,
+      "timestamp": 1502142145526,
+      "hash": "sha256",
+      "content": {
+        "type": "contact",
+        "contact": "@J2VKbbf69rK38vXIRLOCwaZdEm+0vzv/LMeaxmJks3k=.ed25519",
+        "following": true
+      },
+      "signature": "7t8TPOKa1TlEoKfFBzpXjB5gufg/DUJt0TU8IzmWEi0vMW24XNQCsuresmIiO+0bi92FLGuzQaRS0/dIDO0bBQ==.sig.ed25519"
+    },
+    "timestamp": 1502142287228
+  },
+  {
+    "key": "%l3MAlsYE4YVgRHf4VN8fF97w1TJl9FXfLBQXncLC7F4=.sha256",
+    "value": {
+      "previous": "%/SL5uf3T9de8uYTowJo50alzymIW2rfY1zSzg/cWCY0=.sha256",
+      "author": "@J2VKbbf69rK38vXIRLOCwaZdEm+0vzv/LMeaxmJks3k=.ed25519",
+      "sequence": 346,
+      "timestamp": 1502142139653,
+      "hash": "sha256",
+      "content": {
+        "type": "contact",
+        "contact": "@adKlBFzNOw/jDQiSbmFQbGynshTdgWjpJXMUhToGl3A=.ed25519",
+        "following": true,
+        "pub": true
+      },
+      "signature": "X+p49Ms+CGtzlLHF3/GvKOgKUlnIyl5jpy//a5aBVOFhbkSF8irBX+TQUDt98JTk+fBpy5whYpv5MQVDb1FrBQ==.sig.ed25519"
+    },
+    "timestamp": 1502142274850
+  },
+  {
+    "key": "%QEHqa3G6R0ZTLXn2f1jo6xuANWl8yAhY3h16ui8+vp4=.sha256",
+    "value": {
+      "previous": "%r+ikRtc6VKvTAfXMdbYsbgLBH0ZEjrLZzoApqB3pnaQ=.sha256",
+      "author": "@7HHVZNWiNtCOquFNhNYS/DbHI9x3hFWrfxGP9FlJzHY=.ed25519",
+      "sequence": 64,
+      "timestamp": 1502141689383,
+      "hash": "sha256",
+      "content": {
+        "type": "contact",
+        "contact": "@6ilZq3kN0F+dXFHAPjAwMm87JEb/VdB+LC9eIMW3sa0=.ed25519",
+        "following": true
+      },
+      "signature": "Apx1+I5G4qEdd/RUguENtEXEo1ckjdnqgfgGT9ZJ/SsRybZK7rehxbvkZNkNhkx9NFta+i7AZ1My8eyrkAlhBw==.sig.ed25519"
+    },
+    "timestamp": 1502141693651
+  },
+  {
+    "key": "%HyMevAMSvV2ELX54+ifBabwUoJgJIBeN5Kv7oCGsA84=.sha256",
+    "value": {
+      "previous": "%sqARoDnohZvQhwlNszi470EHorazeOhI0uVgF0kXxCQ=.sha256",
+      "author": "@EMovhfIrFk4NihAKnRNhrfRaqIhBv1Wj8pTxJNgvCCY=.ed25519",
+      "sequence": 9652,
+      "timestamp": 1502141654328,
+      "hash": "sha256",
+      "content": {
+        "type": "vote",
+        "vote": {
+          "link": "%/wt/HEKGxbZjhJxuW1VVvDh2ReFPPrMvjSE2XxGVymw=.sha256",
+          "value": 1,
+          "expression": "Dig"
+        }
+      },
+      "signature": "tS0wQJJ8Ha0m5TN8YPGIC1EMERmgHHfxbejGBpTJGmcw2Hb/4MkzDp7FssBYjNScQlEsKA/WUEefan4SJk8iCQ==.sig.ed25519"
+    },
+    "timestamp": 1502141654374
+  },
+  {
+    "key": "%r+ikRtc6VKvTAfXMdbYsbgLBH0ZEjrLZzoApqB3pnaQ=.sha256",
+    "value": {
+      "previous": "%3JCI8XLklUOcbRA3hWHRlUw0lD78+UzmeUN3vr3lp5A=.sha256",
+      "author": "@7HHVZNWiNtCOquFNhNYS/DbHI9x3hFWrfxGP9FlJzHY=.ed25519",
+      "sequence": 63,
+      "timestamp": 1502141577284,
+      "hash": "sha256",
+      "content": {
+        "type": "channel",
+        "channel": "networks",
+        "subscribed": true
+      },
+      "signature": "rdUMEIJV6hGRKVh7R4/vyudJYA3ZVx0ZhjzEhe/+hjy+DjJ4F2WMD4BU1Cy2JsA3mXq9f8tEwPpSS+3UDCzxDg==.sig.ed25519"
+    },
+    "timestamp": 1502141593801
+  },
+  {
+    "key": "%3JCI8XLklUOcbRA3hWHRlUw0lD78+UzmeUN3vr3lp5A=.sha256",
+    "value": {
+      "previous": "%XCGo7tppsvK96eaN+fzbyOxDCfLeX/SG9qd0Oqc10NU=.sha256",
+      "author": "@7HHVZNWiNtCOquFNhNYS/DbHI9x3hFWrfxGP9FlJzHY=.ed25519",
+      "sequence": 62,
+      "timestamp": 1502141523264,
+      "hash": "sha256",
+      "content": {
+        "type": "contact",
+        "contact": "@xYSW6eVu8gTS/nTSXZiH97dgKZ+wp7NkomR6WKK/PBI=.ed25519",
+        "following": true
+      },
+      "signature": "IA1C+Esd1iq7Q0K5fIJ7rM9ZHT6OBpEIWcrZzewwY3tKuq9BX0CfJzdPFibcafIKvT1p/js/KjJZp86QyKYHAg==.sig.ed25519"
+    },
+    "timestamp": 1502141526248
+  },
+  {
+    "key": "%sqARoDnohZvQhwlNszi470EHorazeOhI0uVgF0kXxCQ=.sha256",
+    "value": {
+      "previous": "%8U4jPLDzKZiBGx5ehn/AN6WukXgr1Fm0sRWIdoeCcw8=.sha256",
+      "author": "@EMovhfIrFk4NihAKnRNhrfRaqIhBv1Wj8pTxJNgvCCY=.ed25519",
+      "sequence": 9651,
+      "timestamp": 1502141432913,
+      "hash": "sha256",
+      "content": {
+        "type": "vote",
+        "vote": {
+          "link": "%4E86qhDIKPmn69c361cqwPU7no39a2x3xY1tLr7UyNY=.sha256",
+          "value": 1,
+          "expression": "Dig"
+        }
+      },
+      "signature": "gEwRpMt61IjflAlDdJVej77vH0bUD1SFG8eBGRlA3dfWCgLM0bOlxDlUBbC4Ubf6M8Tpcx9zEc7hb/Mn0dVFCg==.sig.ed25519"
+    },
+    "timestamp": 1502141432965
+  },
+  {
+    "key": "%po7h//fcdmqoHXhlyBB4mSEdJr3W2y88n/mDp4AZM3Y=.sha256",
+    "value": {
+      "previous": "%pfAuO2aqARHrRnVZCtHlUEVXQyEelff2q8ap3c0oaWQ=.sha256",
+      "author": "@8Qee0I/DwI5DHSCi3p5fsl6FyLGArrnDz3ox9qZr5Qc=.ed25519",
+      "sequence": 4355,
+      "timestamp": 1502141317470,
+      "hash": "sha256",
+      "content": {
+        "type": "vote",
+        "vote": {
+          "link": "%XCGo7tppsvK96eaN+fzbyOxDCfLeX/SG9qd0Oqc10NU=.sha256",
+          "value": 1,
+          "expression": "Dig"
+        }
+      },
+      "signature": "0TVhytqPbVhE/+KFP4jdE65rxh63FLszc5Ce9kyzm18hwFAtUDhVCldc8H9Mj1hpQVBiQI7PgfQvQSxBE1f+DA==.sig.ed25519"
+    },
+    "timestamp": 1502141325784
+  },
+  {
+    "key": "%XCGo7tppsvK96eaN+fzbyOxDCfLeX/SG9qd0Oqc10NU=.sha256",
+    "value": {
+      "previous": "%/wt/HEKGxbZjhJxuW1VVvDh2ReFPPrMvjSE2XxGVymw=.sha256",
+      "author": "@7HHVZNWiNtCOquFNhNYS/DbHI9x3hFWrfxGP9FlJzHY=.ed25519",
+      "sequence": 61,
+      "timestamp": 1502141167779,
+      "hash": "sha256",
+      "content": {
+        "type": "post",
+        "root": "%gAWv96urvhs6n/t4yxfhTzyere4m8+7SIIYE80/rIF4=.sha256",
+        "branch": "%wShbGL2hJuzbdhnWuNPxo01wVnPsqrlXPV3v/cUjlBE=.sha256",
+        "channel": "new-people",
+        "recps": null,
+        "text": "and my real name is james",
+        "mentions": []
+      },
+      "signature": "MBySx4ni4gm+4FlqZk3kV7ROrNQdAxABp7TwC3JuBVo/A9BXUMpAIxeg1Msuv7Jj1keuAjBYANoCV9aL8VsZCA==.sig.ed25519"
+    },
+    "timestamp": 1502141164597
+  },
+  {
+    "key": "%NOcPVwL4RK5t7xM6T/H4XwYX33C560uKDOvmRb99BQo=.sha256",
+    "value": {
+      "previous": "%kvwdT5ZypofF0yw7t2LumtgyrhQqtfuvaI69oGd3H5Q=.sha256",
+      "author": "@tPsLqFD721qvWkZqNTvXFnUAmiLDq1FtdzjQP7xuRl8=.ed25519",
+      "sequence": 10,
+      "timestamp": 1502131447381,
+      "hash": "sha256",
+      "content": {
+        "type": "contact",
+        "contact": "@9nTgtYmvW4HID6ayt6Icwc8WZxdifx5SlSKKIX/X/1g=.ed25519",
+        "following": true
+      },
+      "signature": "MHcLMH5h8+RkWYIkt+myOqlo0pW4QcTozrqRHfPlszr9mG91Dezk3QVqgrqFWe12yZ6vTNKaHiWEVIjWkM8cCg==.sig.ed25519"
+    },
+    "timestamp": 1502140870629
+  },
+  {
+    "key": "%kvwdT5ZypofF0yw7t2LumtgyrhQqtfuvaI69oGd3H5Q=.sha256",
+    "value": {
+      "previous": "%rjKoICmlWqCU/EsZkd1GelM/u9U6RrcgGlMjitHK9Bc=.sha256",
+      "author": "@tPsLqFD721qvWkZqNTvXFnUAmiLDq1FtdzjQP7xuRl8=.ed25519",
+      "sequence": 9,
+      "timestamp": 1502126717788,
+      "hash": "sha256",
+      "content": {
+        "type": "contact",
+        "contact": "@hxGxqPrplLjRG2vtjQL87abX4QKqeLgCwQpS730nNwE=.ed25519",
+        "following": true
+      },
+      "signature": "GjWsKX3iIXLokLmV7REcdHQzGOIh13NmIbmdMxchAS1ar0l/6iRV6u36WBB6NmTIJdiXkkzHdawn3JTdVG7LBA==.sig.ed25519"
+    },
+    "timestamp": 1502140870594
+  },
+  {
+    "key": "%Yc8dN4n4lSrVI8wfW6TV1Du83HGqCWMMy9fbuhW0+Sk=.sha256",
+    "value": {
+      "previous": "%wCIcFkre3OFwHv1DM2Xh4lZKzs8SDcZFC6hKwuQZwtU=.sha256",
+      "author": "@x/jBvWXH5fqaDsdAx1N/f6ATxWJCMhTm+sAKwlNDZ2M=.ed25519",
+      "sequence": 9,
+      "timestamp": 1502139249875,
+      "hash": "sha256",
+      "content": {
+        "type": "channel",
+        "channel": "patchfoo",
+        "subscribed": "true"
+      },
+      "signature": "FIfd1CxuOVjQ6mOOi+NlGXje5bMpxCl7nDa1XvgyHUX5kFI/byKmGV5KUcp7COMpfROcIUEygSmS1pqPC3uUCQ==.sig.ed25519"
+    },
+    "timestamp": 1502140870583
+  },
+  {
+    "key": "%rjKoICmlWqCU/EsZkd1GelM/u9U6RrcgGlMjitHK9Bc=.sha256",
+    "value": {
+      "previous": "%HJy5PFOVscBijtupGb7OR7p4f3g/s1HPam4IumBO1e8=.sha256",
+      "author": "@tPsLqFD721qvWkZqNTvXFnUAmiLDq1FtdzjQP7xuRl8=.ed25519",
+      "sequence": 8,
+      "timestamp": 1502126178234,
+      "hash": "sha256",
+      "content": {
+        "type": "contact",
+        "contact": "@QlCTpvY7p9ty2yOFrv1WU1AE88aoQc4Y7wYal7PFc+w=.ed25519",
+        "following": true
+      },
+      "signature": "D8uxWlHq4dBoJAa6NsF0riIH/argt5ALU8zRrJRf74SSyadKhNV93i0wjxBYGkTLFrpogPshEKtTky56TT3uAQ==.sig.ed25519"
+    },
+    "timestamp": 1502140870529
+  },
+  {
+    "key": "%wCIcFkre3OFwHv1DM2Xh4lZKzs8SDcZFC6hKwuQZwtU=.sha256",
+    "value": {
+      "previous": "%qOIgH3APqON893NanZoAJkGMdQCs6hGx6ECJ94JG0Rc=.sha256",
+      "author": "@x/jBvWXH5fqaDsdAx1N/f6ATxWJCMhTm+sAKwlNDZ2M=.ed25519",
+      "sequence": 8,
+      "timestamp": 1502128493518,
+      "hash": "sha256",
+      "content": {
+        "type": "channel",
+        "channel": "patchwork",
+        "subscribed": true
+      },
+      "signature": "rGI8a4M1i1ITkq3kjBVtXy9NXw//ws7BATNUTKzUD4LCqcEylOOSj20KM8hMptAdgzFbi6Ici5PdF4fbifmSAA==.sig.ed25519"
+    },
+    "timestamp": 1502140870515
+  },
+  {
+    "key": "%HJy5PFOVscBijtupGb7OR7p4f3g/s1HPam4IumBO1e8=.sha256",
+    "value": {
+      "previous": "%VtQrWD2UxsLD5W5owbBtj4+ElfV2VkUiU4UNQPihQPc=.sha256",
+      "author": "@tPsLqFD721qvWkZqNTvXFnUAmiLDq1FtdzjQP7xuRl8=.ed25519",
+      "sequence": 7,
+      "timestamp": 1502125387773,
+      "hash": "sha256",
+      "content": {
+        "type": "about",
+        "about": "@tPsLqFD721qvWkZqNTvXFnUAmiLDq1FtdzjQP7xuRl8=.ed25519",
+        "image": "&4fjqS2c5Lzr/YTJUGWs4FPQG3JQpxbj0KeI/keYbbOc=.sha256"
+      },
+      "signature": "6nADx1m1Uv9XB8JN9W4ZpoXw2BlBjJKOVngCE+7+bLE8Ra2Uc54bP0gnJWazWobQdIBUNULmY15d6LmfSo2XCw==.sig.ed25519"
+    },
+    "timestamp": 1502140870462
+  },
+  {
+    "key": "%qOIgH3APqON893NanZoAJkGMdQCs6hGx6ECJ94JG0Rc=.sha256",
+    "value": {
+      "previous": "%CBddg9xOKLgGUO+p1sMyt0kUh+D5YFts7Lh/gUVKHCI=.sha256",
+      "author": "@x/jBvWXH5fqaDsdAx1N/f6ATxWJCMhTm+sAKwlNDZ2M=.ed25519",
+      "sequence": 7,
+      "timestamp": 1502126849676,
+      "hash": "sha256",
+      "content": {
+        "type": "channel",
+        "channel": "rust",
+        "subscribed": true
+      },
+      "signature": "UwwYvlKXE9dyYprHGjJBjFXQQ/gJa9FhoC1DO40HlHhq8LuYrvWf9UzjxLKKqicun5wM21p4B0IBs56170JIBw==.sig.ed25519"
+    },
+    "timestamp": 1502140870390
+  },
+  {
+    "key": "%VtQrWD2UxsLD5W5owbBtj4+ElfV2VkUiU4UNQPihQPc=.sha256",
+    "value": {
+      "previous": "%Vyy72RHTZl3wJPjxS8VfZIrjDbjVsnH6OckzLtIEboI=.sha256",
+      "author": "@tPsLqFD721qvWkZqNTvXFnUAmiLDq1FtdzjQP7xuRl8=.ed25519",
+      "sequence": 6,
+      "timestamp": 1502125331253,
+      "hash": "sha256",
+      "content": {
+        "type": "post",
+        "root": "%vt6olvLlS2R4kvyoH0iwvsQEvHWmF0sOPUB+kdoJtVc=.sha256",
+        "branch": "%/ziVjg6DWL5u6xDE2W5SNFTUmrBZOCOkImvZXECEYEo=.sha256",
+        "channel": "home-ownership",
+        "recps": null,
+        "text": "I make kefir from organic but store-bought homogenized milk. If you were me, would you switch to non-homogenized store-bought milk, or to raw milk, for making kefir?",
+        "mentions": []
+      },
+      "signature": "Hkq+q4D/doq9qpmSDKOvJz0jeeDACpvK6tSB1HUuKro7DRlOdS8FiS/dmx5TUK/vrZkhVnQBguaJj13GMtF5DQ==.sig.ed25519"
+    },
+    "timestamp": 1502140870368
+  },
+  {
+    "key": "%CBddg9xOKLgGUO+p1sMyt0kUh+D5YFts7Lh/gUVKHCI=.sha256",
+    "value": {
+      "previous": "%IchozvpKCd2aswUtwuiBxdpY3h1+lqSIfMTD0klHNiU=.sha256",
+      "author": "@x/jBvWXH5fqaDsdAx1N/f6ATxWJCMhTm+sAKwlNDZ2M=.ed25519",
+      "sequence": 6,
+      "timestamp": 1502126417897,
+      "hash": "sha256",
+      "content": {
+        "type": "about",
+        "image": {
+          "link": "&E4WisTrIE9aMxMUp4dj5ltvwX0Lv9GCH57W+XgUiMsc=.sha256"
+        },
+        "about": "@x/jBvWXH5fqaDsdAx1N/f6ATxWJCMhTm+sAKwlNDZ2M=.ed25519"
+      },
+      "signature": "xQUGWc5aw4NeresSdks/sXuITDPscxrTnqzkPgtQz9y+LBBG5bcCDdP3P1MQLy6ydDW6N3ggMatwH0vWqPD9Aw==.sig.ed25519"
+    },
+    "timestamp": 1502140870350
+  },
+  {
+    "key": "%Vyy72RHTZl3wJPjxS8VfZIrjDbjVsnH6OckzLtIEboI=.sha256",
+    "value": {
+      "previous": "%JfStJG4B2YPrF8vI66xu+3LYe4rdcnJZbd0cxl9d6iI=.sha256",
+      "author": "@tPsLqFD721qvWkZqNTvXFnUAmiLDq1FtdzjQP7xuRl8=.ed25519",
+      "sequence": 5,
+      "timestamp": 1502115712455,
+      "hash": "sha256",
+      "content": {
+        "type": "contact",
+        "contact": "@EMovhfIrFk4NihAKnRNhrfRaqIhBv1Wj8pTxJNgvCCY=.ed25519",
+        "following": true
+      },
+      "signature": "lN45Cuwf9+ceggSSmfyU/DGGOryVcL0Oucp6dfaLd40XrmuiHNhbsvgKSFFE30Tj9hxFdGnCmejgmqMPOqytAQ==.sig.ed25519"
+    },
+    "timestamp": 1502140870207
+  },
+  {
+    "key": "%IchozvpKCd2aswUtwuiBxdpY3h1+lqSIfMTD0klHNiU=.sha256",
+    "value": {
+      "previous": "%X1Qrq860bLemcs4rSmx8jLMvIIhr1cIPs8J5jFfjxaI=.sha256",
+      "author": "@x/jBvWXH5fqaDsdAx1N/f6ATxWJCMhTm+sAKwlNDZ2M=.ed25519",
+      "sequence": 5,
+      "timestamp": 1502126075352,
+      "hash": "sha256",
+      "content": {
+        "type": "about",
+        "about": "@x/jBvWXH5fqaDsdAx1N/f6ATxWJCMhTm+sAKwlNDZ2M=.ed25519",
+        "image": "&zn3EMR3Ym+HpRMqY8mn74y7REZBD7Vbolq2X1IKdxXk=.sha256",
+        "name": "D"
+      },
+      "signature": "4Uhy1aL0w0fqKiakKDrFxiOswL0KDghPuygBMQd/ASTrXTz3IiKmrax61fSIr2Dvw5pMpdrs6sOdQkmkatAADQ==.sig.ed25519"
+    },
+    "timestamp": 1502140870190
+  },
+  {
+    "key": "%JfStJG4B2YPrF8vI66xu+3LYe4rdcnJZbd0cxl9d6iI=.sha256",
+    "value": {
+      "previous": "%Je9DdMZFQT0iT3z/E3A8UnTnDKlwzkopteq+iBA5eE4=.sha256",
+      "author": "@tPsLqFD721qvWkZqNTvXFnUAmiLDq1FtdzjQP7xuRl8=.ed25519",
+      "sequence": 4,
+      "timestamp": 1502115565611,
+      "hash": "sha256",
+      "content": {
+        "type": "contact",
+        "contact": "@vt8uK0++cpFioCCBeB3p3jdx4RIdQYJOL/imN1Hv0Wk=.ed25519",
+        "following": true
+      },
+      "signature": "KPIVZHJkKDX1g29z4JGa845GIkl1PKs6yYPLLlnrt79goc0+MxWI9uCqkthtFFootnh4K+WMv68y88ajtrUDBg==.sig.ed25519"
+    },
+    "timestamp": 1502140870136
+  },
+  {
+    "key": "%X1Qrq860bLemcs4rSmx8jLMvIIhr1cIPs8J5jFfjxaI=.sha256",
+    "value": {
+      "previous": "%B5NW7AdETjRC0vX9oh0DX4K35fa6Dm/J61v4+Ww3YwE=.sha256",
+      "author": "@x/jBvWXH5fqaDsdAx1N/f6ATxWJCMhTm+sAKwlNDZ2M=.ed25519",
+      "sequence": 4,
+      "timestamp": 1502122299697,
+      "hash": "sha256",
+      "content": {
+        "type": "contact",
+        "contact": "@oqkBi0czedWJNPmc36jcJZ40tKNL3zT91K1P9rviipA=.ed25519",
+        "following": true,
+        "autofollow": true
+      },
+      "signature": "6B05FNXeRUvA81TzCS4w+Ne/hoI+nAEjFXs0hfB08oilDhJAS9Aj+NLalLvVYvs4S+ff5F02sQXN6sTHLOCpDA==.sig.ed25519"
+    },
+    "timestamp": 1502140870091
+  },
+  {
+    "key": "%Je9DdMZFQT0iT3z/E3A8UnTnDKlwzkopteq+iBA5eE4=.sha256",
+    "value": {
+      "previous": "%m50UeT37ZN5uMEmfZOk2COtibLh4wfo6WpaPad1iUoY=.sha256",
+      "author": "@tPsLqFD721qvWkZqNTvXFnUAmiLDq1FtdzjQP7xuRl8=.ed25519",
+      "sequence": 3,
+      "timestamp": 1502115372798,
+      "hash": "sha256",
+      "content": {
+        "type": "contact",
+        "contact": "@L+nPFTMUHWXuchOwuzT6Z8Ea8wD/Rtd7leVRxGaknVk=.ed25519",
+        "following": true,
+        "autofollow": true
+      },
+      "signature": "sV7LQhOwn67cfq3UH7OxSOOMO8PaYDvhXg8b7SyE77B2F/YFRZYoWhK4AgSmZ8Hxed8d/SB5yz5aa3uxvfbYDw==.sig.ed25519"
+    },
+    "timestamp": 1502140870055
+  },
+  {
+    "key": "%B5NW7AdETjRC0vX9oh0DX4K35fa6Dm/J61v4+Ww3YwE=.sha256",
+    "value": {
+      "previous": "%ps2ketTbemEZLRL2Sdv2olBf7yoEMDOQUd3PBBeddo8=.sha256",
+      "author": "@x/jBvWXH5fqaDsdAx1N/f6ATxWJCMhTm+sAKwlNDZ2M=.ed25519",
+      "sequence": 3,
+      "timestamp": 1502122299435,
+      "hash": "sha256",
+      "content": {
+        "type": "pub",
+        "address": {
+          "host": "ssb-pub.solvingmaz.es",
+          "port": 8008,
+          "key": "@oqkBi0czedWJNPmc36jcJZ40tKNL3zT91K1P9rviipA=.ed25519"
+        }
+      },
+      "signature": "kX+MjB2hr05cu9tkqJVKaOFTYB5oi5evqKGrH7Vp6jw9j48/g2wtfzqAxJCX9W2qQHsnv1wD5IDAZQbc34YuBw==.sig.ed25519"
+    },
+    "timestamp": 1502140870048
+  },
+  {
+    "key": "%m50UeT37ZN5uMEmfZOk2COtibLh4wfo6WpaPad1iUoY=.sha256",
+    "value": {
+      "previous": "%YWFXQXt/S4yWz6LQpBTFi/FcQlc4jRlKqp51IXKeuPI=.sha256",
+      "author": "@tPsLqFD721qvWkZqNTvXFnUAmiLDq1FtdzjQP7xuRl8=.ed25519",
+      "sequence": 2,
+      "timestamp": 1502115372783,
+      "hash": "sha256",
+      "content": {
+        "type": "pub",
+        "address": {
+          "host": "ssb.rootsystems.nz",
+          "port": 8008,
+          "key": "@L+nPFTMUHWXuchOwuzT6Z8Ea8wD/Rtd7leVRxGaknVk=.ed25519"
+        }
+      },
+      "signature": "6LoTrYJdBvhHWOJzOLHIUrCoza7OWjUsQcrKY22Ufo5mjlsIw1pb40ZhRrp4BlOr/9xXcNTmfA1sH/xReRGDAQ==.sig.ed25519"
+    },
+    "timestamp": 1502140870041
+  },
+  {
+    "key": "%ps2ketTbemEZLRL2Sdv2olBf7yoEMDOQUd3PBBeddo8=.sha256",
+    "value": {
+      "previous": "%lTFtSijzNMZ5FibTUZ8WufwoVW1fKoxcPrKQEXEgX9Y=.sha256",
+      "author": "@x/jBvWXH5fqaDsdAx1N/f6ATxWJCMhTm+sAKwlNDZ2M=.ed25519",
+      "sequence": 2,
+      "timestamp": 1502113409017,
+      "hash": "sha256",
+      "content": {
+        "type": "pub",
+        "address": {
+          "host": "ssb.hypersignal.xyz",
+          "port": 8008,
+          "key": "@XRg7pXoQqsWDDk4dmgvSWHUqzwS6BmqMo4IdbMKPjWA=.ed25519"
+        }
+      },
+      "signature": "t127brb/4H767fa8vDt7W3ETleN5BlcYEM85NF1ZEt+Z6a2IW17uYLBL0LcVerHPT8dhevHy6mi+sa3VnZdbDg==.sig.ed25519"
+    },
+    "timestamp": 1502140869961
+  },
+  {
+    "key": "%YWFXQXt/S4yWz6LQpBTFi/FcQlc4jRlKqp51IXKeuPI=.sha256",
+    "value": {
+      "previous": null,
+      "author": "@tPsLqFD721qvWkZqNTvXFnUAmiLDq1FtdzjQP7xuRl8=.ed25519",
+      "sequence": 1,
+      "timestamp": 1502115298615,
+      "hash": "sha256",
+      "content": {
+        "type": "about",
+        "about": "@tPsLqFD721qvWkZqNTvXFnUAmiLDq1FtdzjQP7xuRl8=.ed25519",
+        "name": "Ahmed Fasih"
+      },
+      "signature": "j66AXFP4E2jFaL8+H5tkE5l8br8P+SX2xu//6/Z4d+iiBNrDLc/Za3OvUhU7r3pvTSDnJVVhevYkfuTbrR8gDA==.sig.ed25519"
+    },
+    "timestamp": 1502140869950
+  },
+  {
+    "key": "%lTFtSijzNMZ5FibTUZ8WufwoVW1fKoxcPrKQEXEgX9Y=.sha256",
+    "value": {
+      "previous": null,
+      "author": "@x/jBvWXH5fqaDsdAx1N/f6ATxWJCMhTm+sAKwlNDZ2M=.ed25519",
+      "sequence": 1,
+      "timestamp": 1502113408964,
+      "hash": "sha256",
+      "content": {
+        "type": "contact",
+        "following": true,
+        "autofollow": true,
+        "contact": "@XRg7pXoQqsWDDk4dmgvSWHUqzwS6BmqMo4IdbMKPjWA=.ed25519"
+      },
+      "signature": "kfoIY/00FV+4B99ZPD+sl82//AstWFgNe0T5T2Gz1c5C5Y8PLHZ/9MZ4WqLWk6c5EEXklOBzCd09lHwthkSlBA==.sig.ed25519"
+    },
+    "timestamp": 1502140869910
+  },
+  {
+    "key": "%o322g830nNWtrIZhpIH/FvGAg8XDwIDFVC2G9jnvS+M=.sha256",
+    "value": {
+      "previous": null,
+      "author": "@ZjvbaK/vF+6e6EGZ7X32xuXX51SOmE1zU9oS6YDgbTA=.ed25519",
+      "sequence": 1,
+      "timestamp": 1502139184430,
+      "hash": "sha256",
+      "content": {
+        "type": "contact",
+        "contact": "@0gUdg/lz6UPavonq8KDmVUPyPxGrMhCFdBGy5h0SoG4=.ed25519",
+        "following": true
+      },
+      "signature": "En8ArOe8EQ+B35BFSoqJgwnIB5pmk5y5w222Y14lyPjBQkaN+yX8y9RplcITkqjl1082Dl3NMmAtYALiuJQlBQ==.sig.ed25519"
+    },
+    "timestamp": 1502140869867
+  },
+  {
+    "key": "%fAuxOs+6snPEIUYGUGSyx/9wZafobUk8IsDvQYVGNjA=.sha256",
+    "value": {
+      "previous": "%7YIqh+Ta+N//NcQcrxWQG3VjPfl706SIiZXo/hDnt5Y=.sha256",
+      "author": "@YXkE3TikkY4GFMX3lzXUllRkNTbj5E+604AkaO1xbz8=.ed25519",
+      "sequence": 1914,
+      "timestamp": 1502117105419,
+      "hash": "sha256",
+      "content": {
+        "type": "vote",
+        "channel": "p2p",
+        "vote": {
+          "link": "%hSK/XwvCB0vQGO+5SER99xM/IcrpfXu+nX3GNxXUeL4=.sha256",
+          "value": 1,
+          "expression": "Dig"
+        }
+      },
+      "signature": "iK3te2Yy6eESUE+/+3yx11chXJUmnCJGLtFDxlvz7+g4oWb1nJaHNypYMl4xdvK8tBWFgrF5NhZT6nu1nchyBg==.sig.ed25519"
+    },
+    "timestamp": 1502140869861
+  },
+  {
+    "key": "%0f6mexyF9V/JBjU2WFeXLImTM/FxdTbb7V5GtFjyLl0=.sha256",
+    "value": {
+      "previous": "%lRuDyM7eLDx/6Ru6SSRf7nlg36/zJyp4CbTfISABArk=.sha256",
+      "author": "@f/6sQ6d2CMxRUhLpspgGIulDxDCwYD7DzFzPNr7u5AU=.ed25519",
+      "sequence": 6902,
+      "timestamp": 1502137999167,
+      "hash": "sha256",
+      "content": "dYLC0qwQXGkFNN9IjF8o0UFT8skNHrYbon2NWXgxQcumLRKNElpuYLhSGF8XVQO/4fdcqV33K2y72JfF/O7HKgUq0FgrosQUvsFAvv9dP8Btzxy33Eueeqv2XR1rEGJfYIyRjFS9zw8Ia8yjV0kPfrLBiT6W3uKVKkoNSiWt1A/PYzWZltIukq8RRBW8JTPK7CMbqQMWQp252b2mATJ+EmmYLcR8FNuX7qIvYH9PgLipsuO9/pv/4J/lugfCRJEqzeBt07IjWoUYaKQude2x50HsjuuNTXFoSraI0DjiSf8bnUE1ezt7hgmn6fucwC90ySHXbXuvC/WL9nUVl8X/RSfF1dX7mCRzYG6r2MZNXquaKxeKmLqUnEF3PD5wcw+saXdn74nLdPeUhhAisi7M0/KaJiE/a1CWDWR/Zro7EP9s60BchMoDGyvtpA1rioo1okZZsDOXwBGgWya5l7VjIqN+mWYFL+osnDiAzroJDtn+7CV9EhtmcHD66lq4EgkMdtiaNlgX8T7zd8b1LgUoIAtpy1HRIcylK7YdYGvD8S5DYBdD5OfyOmn9FOiPWs4gPRbTHh3exZKZWLdAFG9xbOWN0jrFQnp6L63wNTmA9wMfSz8GwfVXu3tmVq5mrJ8xI4tfjEO4V//bmMspbBSO9ZZN0BdUnhfUubJAZzCHlhRsN0xwiP8QyhYP860Bd0QWS2VSetEu4YbhF3aT9P/zbKQNM4wKXh9/K7eFnym37V9fkdzKRj8wxz1VkQW8eQ3aAr+i2aVTmUE8p6ojxL4ZpABBogNU2QVHbvS9LxTCPUiVG7+kgqQJBCx6D6Uq74tm0U9I3oVlw4MW2IlqJz6GuAHg60jZbgqn27iMbt8iMiJBGwEFLnbhWu4HJtQs6YiwvLniH5buMHogES0R+u6cioblbBKXmn+MI0lWYhzcgiLKoMffEwnyC2tz/keauuyWbMmQp2Nt9sP6zbsKkQfczg/Wl4nhcWC2d9ch/dyjjAaWQOC2Jg+o38uz0OaMIk2FzrGB.box",
+      "signature": "XyMrp06PXbccq2bOLVWqcU9/QFKoVddWAEHw/HHLc8Xv8EJcxmnN5feZ9C7Co9ZSk6QA6EUIb3PlV4KlvXeXDQ==.sig.ed25519"
+    },
+    "timestamp": 1502140869846
+  },
+  {
+    "key": "%7YIqh+Ta+N//NcQcrxWQG3VjPfl706SIiZXo/hDnt5Y=.sha256",
+    "value": {
+      "previous": "%nnz1hnwf0WQNURG0L8BHpG+7t2pMEotLStl6KCb/mt8=.sha256",
+      "author": "@YXkE3TikkY4GFMX3lzXUllRkNTbj5E+604AkaO1xbz8=.ed25519",
+      "sequence": 1913,
+      "timestamp": 1502116473670,
+      "hash": "sha256",
+      "content": {
+        "type": "post",
+        "root": "%TQKZiOp0+fAA8FTHmo8G/uINZmvdEUSxnb4wwqVXogk=.sha256",
+        "branch": "%TQKZiOp0+fAA8FTHmo8G/uINZmvdEUSxnb4wwqVXogk=.sha256",
+        "channel": "berlin",
+        "text": "I can not talk about Berlin, but the route that was used by a lot of refugees in the big summer of migration (2015, right? I think it was 2015) was blocked by an agreement with Turkish prime minister Erdoğan (pushed by Merkel), where EU paid Turkey 6Mio EUR to keep refugees out of the EU. Since then refugees from Middle East just don't arrive in the EU anymore.\nThe ones that still come have a much harder path ahead of them. They flee by rubber boat from the Turkis coast to reach a Greek island. I don't know how many make it and how many die, but I the situation in Greek camps is terrible.\n\nThere are also refugees from North africa, they often leave from Libya using either large rubber or wooden boats. They are told to just go north for a few miles and they will find an Italian island - which is nonsense. Usually they will either be found by a humanitarian sea rescue mission like SeaWatch or  SOS Mediterrane (who safely bring them to Italy) or by the local coastguard, who bring them back to Libya. Recently, the young fascist Identitarian Movement started to try to help the Lybian coastguard, but I don't want to know what happens to the refugees on board of their ship.\nAnyway, the situation in Italian camps is no better that in Greek camps, actually they are more like refugee slums. It's horrible.\n\nA few months back I attended a talk by someone who was volunteering on one of the humanitarian missions, and he said that there were people on the boats who said they were kidnapped and sent to the boats, and there were signs of human trafficking - as soon as people are in the refugee slums, noone knows where they will end up.\n\nAnyway, in Hamburg they have started closing some refugee shelters, because there is \"no need\". Which is not suprising if you let them die at the front door.\n\n---\n\nHuh, I guess this is one of my rants."
+      },
+      "signature": "TmEBXQGF2KKDxiqn6CpArY3fE4FL3/P6Sic9NA91BK9NeENFN7REpZ0HNzwQ4YQ7pLCM9hgTV6wc38sIsy4NAQ==.sig.ed25519"
+    },
+    "timestamp": 1502140869725
+  },
+  {
+    "key": "%mBfSYOjJjqziaoIDyj4nRpH1wcTzXkxExqExwYsgHBQ=.sha256",
+    "value": {
+      "previous": "%5Iin68GYL/ERsanCw5k4u38eSpAfeA8eL5yRsi1UJ4U=.sha256",
+      "author": "@3r4+IyB5NVl2in6QOZHIu9oSrZud+NuVgl2GX3x2WG8=.ed25519",
+      "sequence": 151,
+      "timestamp": 1502127139008,
+      "hash": "sha256",
+      "content": {
+        "type": "post",
+        "root": "%adAdEQ//zWk52YiBZa0G7oFZdNfdG5DemqHCbnEjVHU=.sha256",
+        "branch": "%OpZsoWIcE+o+bOZ0850FGYnAMBMQhc6n2hPEWSEUSK0=.sha256",
+        "channel": "software",
+        "recps": null,
+        "text": "I think the #art~hack folks will dig the ethic behind this ^",
+        "mentions": [
+          {
+            "link": "#art~hack"
+          }
+        ]
+      },
+      "signature": "Jkoe85++jK6zzObg+IgsAcIRcy69Dumoxcq9yG6iNb1Q370EmCMWN6a+e2Ov/n1aR0Flaf+K9uCd1VCDH4NOCQ==.sig.ed25519"
+    },
+    "timestamp": 1502140869702
+  },
+  {
+    "key": "%lRuDyM7eLDx/6Ru6SSRf7nlg36/zJyp4CbTfISABArk=.sha256",
+    "value": {
+      "previous": "%5UXIzwobUwO12lDvJ9MPQAR33HzN1dV1CyIDKw2bNRY=.sha256",
+      "author": "@f/6sQ6d2CMxRUhLpspgGIulDxDCwYD7DzFzPNr7u5AU=.ed25519",
+      "sequence": 6901,
+      "timestamp": 1502136905020,
+      "hash": "sha256",
+      "content": {
+        "type": "vote",
+        "channel": "cooking-channel",
+        "vote": {
+          "link": "%3Bhda4RgikELCFPHhd6QPm+2AlRPRob32cStcj/AKAo=.sha256",
+          "value": 1,
+          "expression": "dig"
+        }
+      },
+      "signature": "e5Oqc5yorACAO79TpNB9JdKBjx7iAnhuF2gDmklHZPwcIwhr+YQUMkpo11Rg91R7lJ5+pXk5XHGOJa529ZbHCQ==.sig.ed25519"
+    },
+    "timestamp": 1502140869681
+  },
+  {
+    "key": "%nnz1hnwf0WQNURG0L8BHpG+7t2pMEotLStl6KCb/mt8=.sha256",
+    "value": {
+      "previous": "%/tb2JvsF60fwtrHj5oy9MhvWpsetW5N1aytddJPE054=.sha256",
+      "author": "@YXkE3TikkY4GFMX3lzXUllRkNTbj5E+604AkaO1xbz8=.ed25519",
+      "sequence": 1912,
+      "timestamp": 1502111233326,
+      "hash": "sha256",
+      "content": {
+        "type": "vote",
+        "channel": "berlin",
+        "vote": {
+          "link": "%uEoUM091WL7dlZFtW49ImM+SYy/xdoPt8tUZUQVIhB8=.sha256",
+          "value": 1,
+          "expression": "Dig"
+        }
+      },
+      "signature": "HOutOB5B2rC/hw/MZOQi6lnkLL8YZ6xqwpAMiIaOoJB4my/oOJCfQbilQHYlvreWVrOkV4O3SWtS/goWAYBmCg==.sig.ed25519"
+    },
+    "timestamp": 1502140869647
+  },
+  {
+    "key": "%5Iin68GYL/ERsanCw5k4u38eSpAfeA8eL5yRsi1UJ4U=.sha256",
+    "value": {
+      "previous": "%T2+ykdnuE2wjkRWAYnppuhyFoVzdCePAVKM2nsLsZuE=.sha256",
+      "author": "@3r4+IyB5NVl2in6QOZHIu9oSrZud+NuVgl2GX3x2WG8=.ed25519",
+      "sequence": 150,
+      "timestamp": 1502126776495,
+      "hash": "sha256",
+      "content": {
+        "type": "post",
+        "root": "%adAdEQ//zWk52YiBZa0G7oFZdNfdG5DemqHCbnEjVHU=.sha256",
+        "branch": "%OpZsoWIcE+o+bOZ0850FGYnAMBMQhc6n2hPEWSEUSK0=.sha256",
+        "channel": "software",
+        "recps": null,
+        "text": "ok so one of my FB friends shared this, which looks pretty sweeeeet \n\nhttp://threejsplaygnd.brangerbriz.net/nfo/",
+        "mentions": []
+      },
+      "signature": "IkdTtUYnH2GaQztkEt7povRSUI6nBGGfHinelAJ4tB33+XO/gUozQrBBDkFOw4WE1u7WNrgZH1K5YK1D1MDvDw==.sig.ed25519"
+    },
+    "timestamp": 1502140869495
+  }
+]

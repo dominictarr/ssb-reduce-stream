@@ -1,0 +1,802 @@
+{
+  "roots": {
+    "%dXbJitCktgFUe27xkKr5dVhxOp4Y196plAwuFSNOx4M=.sha256": {
+      "replies": [
+        {
+          "key": "%QaQ4/va/OFVLfJU1pAUxXPSR0VPWxBgAe99KKvOut8o=.sha256",
+          "value": {
+            "previous": "%dXbJitCktgFUe27xkKr5dVhxOp4Y196plAwuFSNOx4M=.sha256",
+            "author": "@uf3kajfhBC2Sd3OysKB5LnBLJ5pwgBhBpXnGEGzgG6A=.ed25519",
+            "sequence": 143,
+            "timestamp": 1502153832951,
+            "hash": "sha256",
+            "content": {
+              "type": "post",
+              "root": "%dXbJitCktgFUe27xkKr5dVhxOp4Y196plAwuFSNOx4M=.sha256",
+              "branch": "%3YFpxWmOxcO6ScWv3t+v4ty0R36PCWIkUlA7UUHgjZA=.sha256",
+              "channel": "politics",
+              "recps": null,
+              "text": "[@Dominic](@EMovhfIrFk4NihAKnRNhrfRaqIhBv1Wj8pTxJNgvCCY=.ed25519) I'm not suggesting that there shouldn't be any kind of efforts done to level the playing field on various topics such as employment, but rather, that those who advocate for discriminatory practices to do so (i don't consider, nor would I think any sane person consider, removing gendered names from a CV for instance, as being discriminatory).\n\nMy problem is strictly with the discriminatory activities some folks advocate to level the playing field. That is to say, ruling folks out for positions or opportunities based solely on their race, gender, etc. \n\n[@dinosaur](@6ilZq3kN0F+dXFHAPjAwMm87JEb/VdB+LC9eIMW3sa0=.ed25519) I do agree that there are systemic biases that lead to unequal opportunity and distribution of wealth irrespective of other factors. I also agree that we, collectively need to do something to address such imbalances. That said, aims to strive for 50/50 equality generally tend to lead down to discriminatory paths when folks run out of other ideas, which turns more people against doing what they could otherwise be doing to help with this imbalance and serves to further hurt the situation than help it.\n\nRe: You're background, I can relate to some of what you have mentioned, but others I'm a complete and total polar opposite. I come from a broken home, parents twice divorced, was moved around in child custody battles, raised in poverty. I could never afford to go to university, though I did manage to be accepted to one, though couldn't afford to go later on in life. I've worked in startups my entire professional life which to some may be a privilege, but it's not all rainbows, sunshine and money trees. I also wasn't a confident person until I told myself I was just going to fake it. That's what I attribute to actually becoming confident myself. I also identify as male, and I'm in a position to hire people. In fact, of the last 3 people who have joined my team, I've had 1 white male, 1 asian male, and 1 white female. I can't claim that no bias went into any of those hirings on anybody involve's count, but consciously what did was 1) attitude of the people we eventually hired, 2) culture fit, 3) ability to talk about their work history in an authoritative manner. I don't try and stump people with bar-style techno trivia, but I do try and use other signals to help.\n\nAnyway, claiming no moral high ground, I know I'm not without my own personal biases, including my absolute hatred of justifying discrimination (denial of opportunity).",
+              "mentions": [
+                {
+                  "link": "@EMovhfIrFk4NihAKnRNhrfRaqIhBv1Wj8pTxJNgvCCY=.ed25519",
+                  "name": "Dominic"
+                },
+                {
+                  "link": "@6ilZq3kN0F+dXFHAPjAwMm87JEb/VdB+LC9eIMW3sa0=.ed25519",
+                  "name": "dinosaur"
+                }
+              ]
+            },
+            "signature": "RFXTK18eRBL4WJO/Ch3FtBq9eap/HI75x5WOPYVE2OnlTxvdT59cCD4SAdsWN3Z6vmxWiIZy1ertUDWkm2VWBw==.sig.ed25519"
+          },
+          "timestamp": 1502153869396
+        },
+        {
+          "key": "%3YFpxWmOxcO6ScWv3t+v4ty0R36PCWIkUlA7UUHgjZA=.sha256",
+          "value": {
+            "previous": "%SGvIa+79v6PMiYnJe7lcvPdF13r7KtqEf3/MPdA3zes=.sha256",
+            "author": "@6ilZq3kN0F+dXFHAPjAwMm87JEb/VdB+LC9eIMW3sa0=.ed25519",
+            "sequence": 4682,
+            "timestamp": 1502153726345,
+            "hash": "sha256",
+            "content": {
+              "type": "post",
+              "root": "%dXbJitCktgFUe27xkKr5dVhxOp4Y196plAwuFSNOx4M=.sha256",
+              "branch": "%SGvIa+79v6PMiYnJe7lcvPdF13r7KtqEf3/MPdA3zes=.sha256",
+              "channel": "politics",
+              "recps": null,
+              "text": "also, with regards to the use of the word \"equality\" to mean pure egalitarian redistribution, when most people mean \"equity\" to mean redistribution addressing the systemic biases at play, here's another comic!\n\n[Illustrating Equality vs Equity](http://interactioninstitute.org/illustrating-equality-vs-equity/) by [Angus Maguire](madewithangus.com)\n\n![IISC_EqualityEquity.png](&rb4+ku8sAKnze7PAr4RkcdE/9PJ4Wh3sNmlybcmp3lQ=.sha256)\n\n",
+              "mentions": [
+                {
+                  "link": "&rb4+ku8sAKnze7PAr4RkcdE/9PJ4Wh3sNmlybcmp3lQ=.sha256",
+                  "name": "IISC_EqualityEquity.png",
+                  "type": "image/png",
+                  "size": 391101
+                }
+              ]
+            },
+            "signature": "LXubkmZhKylx3Urb87DJ/KJ0kNNq4t7L89mdfvrDvmmyIYKETo+OgfkhyGBt6vyYgLmq6wn7aCmbKMLc70YMBA==.sig.ed25519"
+          },
+          "timestamp": 1502153742771
+        },
+        {
+          "key": "%SGvIa+79v6PMiYnJe7lcvPdF13r7KtqEf3/MPdA3zes=.sha256",
+          "value": {
+            "previous": "%WvgJDKAU2c/K61YxTe5jecqF1Fm2bqbSJdgVLRnKltE=.sha256",
+            "author": "@6ilZq3kN0F+dXFHAPjAwMm87JEb/VdB+LC9eIMW3sa0=.ed25519",
+            "sequence": 4681,
+            "timestamp": 1502153228771,
+            "hash": "sha256",
+            "content": {
+              "type": "post",
+              "root": "%dXbJitCktgFUe27xkKr5dVhxOp4Y196plAwuFSNOx4M=.sha256",
+              "branch": "%WvgJDKAU2c/K61YxTe5jecqF1Fm2bqbSJdgVLRnKltE=.sha256",
+              "channel": "politics",
+              "recps": null,
+              "text": "relevant comic: http://thewireless.co.nz/articles/the-pencilsword-on-a-plate\n\n![on-a-plate-1-.gif](&Au1NQqCIuoG/b2rNIYY15MQLJkePVYnZ2RNxX9s3Wgo=.sha256)\n![on-a-plate-2.gif](&NNxSTfjQWdkwbdCfZNxG/9uCy5uW6nw0iavLNaA7FYI=.sha256)\n![on-a-plate-3.gif](&E3W7wUrdTQrHm6T7pZ+3dkvaQttchzJ4DDWdIuCUpXU=.sha256)\n![on-a-plate-4.gif](&SMpJUI79gqWrj418GEF8U5uHBuW5MWNdAr6MUOG/kM8=.sha256)\n",
+              "mentions": [
+                {
+                  "link": "&Au1NQqCIuoG/b2rNIYY15MQLJkePVYnZ2RNxX9s3Wgo=.sha256",
+                  "name": "on-a-plate-1-.gif",
+                  "type": "image/gif",
+                  "size": 206914
+                },
+                {
+                  "link": "&NNxSTfjQWdkwbdCfZNxG/9uCy5uW6nw0iavLNaA7FYI=.sha256",
+                  "name": "on-a-plate-2.gif",
+                  "type": "image/gif",
+                  "size": 327866
+                },
+                {
+                  "link": "&E3W7wUrdTQrHm6T7pZ+3dkvaQttchzJ4DDWdIuCUpXU=.sha256",
+                  "name": "on-a-plate-3.gif",
+                  "type": "image/gif",
+                  "size": 287071
+                },
+                {
+                  "link": "&SMpJUI79gqWrj418GEF8U5uHBuW5MWNdAr6MUOG/kM8=.sha256",
+                  "name": "on-a-plate-4.gif",
+                  "type": "image/gif",
+                  "size": 295286
+                }
+              ]
+            },
+            "signature": "r5jHg/C+zJg3OI6353gUAp38RXnEdII1t+IzUBPtg4tHwPtWhceDnU0GESsWiinMaCv5+G66sqQmSmtdrrXfDA==.sig.ed25519"
+          },
+          "timestamp": 1502153258241
+        },
+        {
+          "key": "%WvgJDKAU2c/K61YxTe5jecqF1Fm2bqbSJdgVLRnKltE=.sha256",
+          "value": {
+            "previous": "%K+XiR6qySujMAof/aUpcpLITStalV7idoxtZXnprQwA=.sha256",
+            "author": "@6ilZq3kN0F+dXFHAPjAwMm87JEb/VdB+LC9eIMW3sa0=.ed25519",
+            "sequence": 4680,
+            "timestamp": 1502153006731,
+            "hash": "sha256",
+            "content": {
+              "type": "post",
+              "root": "%dXbJitCktgFUe27xkKr5dVhxOp4Y196plAwuFSNOx4M=.sha256",
+              "branch": "%ySoEIaBktqu3Wsf0foSBzYEpWs3o58mSwFBoaCpTJmg=.sha256",
+              "channel": "politics",
+              "recps": null,
+              "text": "hey [@jer](@uf3kajfhBC2Sd3OysKB5LnBLJ5pwgBhBpXnGEGzgG6A=.ed25519), if you don't agree on that solution, do you agree on the problem at hand? namely that there are systemic biases that leads to unequal opportunity (different from unequal outcome, which is much different).\n\nas an example, i'm someone who comes from a **very** privileged background:\n\n- my childhood was stable and nurturing in a friendly neighborhood, while my parents worked most of the time, they earned a good living and were available to raise me together\n- growing up i never had to worry about earning money or be a caretaker for the rest of my family, which means it's easier for me to think in abundance because i've never been forced into scarcity\n- my parents paid my way through most of life, even including university, which means i have never been in debt\n- i was encouraged and supported to pursue any aspiration i wanted, including playing with computers, playing sports, doing extra-curricular activities, etc, which led me to have a more confident, curious, and aspirational attitude\n- many systems in our current default society have biases that favors my personality: confident, curious, aspirational, etc\n- i was given job opportunities unavailable to most, like an internship where my dad worked out of high school which led to more job opportunities during university and beyond\n- i have a white name and face that is relatable for many other privileged people\n- i identify with the male gender assigned to me at birth, which again is relatable for other privileged people\n\ni could go on, but you get the idea. for many other people, they come from a less privileged background, which means they have less opportunity for success, even if they put in more effort and are more skilled.\n\nif we agree that systemic biases lead to unequal opportunity, then the question is how to we address this problem?\n\nwhat do you think we should do [@jer](@uf3kajfhBC2Sd3OysKB5LnBLJ5pwgBhBpXnGEGzgG6A=.ed25519)?",
+              "mentions": [
+                {
+                  "link": "@uf3kajfhBC2Sd3OysKB5LnBLJ5pwgBhBpXnGEGzgG6A=.ed25519",
+                  "name": "jer"
+                },
+                {
+                  "link": "@uf3kajfhBC2Sd3OysKB5LnBLJ5pwgBhBpXnGEGzgG6A=.ed25519",
+                  "name": "jer"
+                }
+              ]
+            },
+            "signature": "GKKsb/1Dv+Zeqwd8MAJRjR5hx+FelNSDjAzyXdDwGnHAY1uUoIwFE1EL3/SuZQeTLGu7S9qhgW6ceQUFGlrACg==.sig.ed25519"
+          },
+          "timestamp": 1502153003236
+        },
+        {
+          "key": "%ySoEIaBktqu3Wsf0foSBzYEpWs3o58mSwFBoaCpTJmg=.sha256",
+          "value": {
+            "previous": "%P1bJZJAol7d0+lq1yqCTM/jOe1AngtjE18nuHMCz1OU=.sha256",
+            "author": "@A5FqepWjS76C4Hw9idZUyW0T6QgJOjsbQHlIP0A4yu8=.ed25519",
+            "sequence": 723,
+            "timestamp": 1502148828330,
+            "hash": "sha256",
+            "content": {
+              "type": "post",
+              "text": "I think it's less about the local error and more about the human situation... it's not just \"inequality and discrimination are bad, what do we do\" in an abstract sense.\n\nAlso why most people don't get mad about \"troll\" censorship on twitter... it's not a big issue in human terms.",
+              "root": "%dXbJitCktgFUe27xkKr5dVhxOp4Y196plAwuFSNOx4M=.sha256",
+              "branch": "%9p1+LqMRlZkAh19KWo75IwvSJlkK5y7C/bkVLxJbkog=.sha256",
+              "channel": "politics"
+            },
+            "signature": "oOpS9YYkdB+VRSTzbeVFnuYtkIDQzxlX8gPSJfAAo8jb63sGkBQFTW650f8Nw3FOlBBeAe+B19flMx+qSca+Bg==.sig.ed25519"
+          },
+          "timestamp": 1502151026458
+        },
+        {
+          "key": "%9p1+LqMRlZkAh19KWo75IwvSJlkK5y7C/bkVLxJbkog=.sha256",
+          "value": {
+            "previous": "%8TyyrchMMOuRg7GikI37msI6zoeUCwUzH07aU+590iA=.sha256",
+            "author": "@EMovhfIrFk4NihAKnRNhrfRaqIhBv1Wj8pTxJNgvCCY=.ed25519",
+            "sequence": 9655,
+            "timestamp": 1502143451039,
+            "hash": "sha256",
+            "content": {
+              "type": "post",
+              "root": "%dXbJitCktgFUe27xkKr5dVhxOp4Y196plAwuFSNOx4M=.sha256",
+              "branch": "%fa0C7OYb5khsi+496DIZT8qobd/B1iJtDgDUfvasaSY=.sha256",
+              "channel": "politics",
+              "text": "[@jer](@uf3kajfhBC2Sd3OysKB5LnBLJ5pwgBhBpXnGEGzgG6A=.ed25519) on the other hand you might like this:\n\nhttps://www.princeton.edu/news/2000/11/28/blind-orchestra-auditions-better-women-study-finds\n\nThey compared orchestras auditioning musicans in full view with behind a screen, and found that they selected more women if they didn't know the gender. Sounds like there was a gender bias? lots of other evidence for that bias, remove gendered names from the CVs and more female applicants are selected, etc.\n\nQuotas are an other way of correcting for a bias.\n\nThough, if you wanted to do this really well, you'd have to be frequently recalabrating your bias adjustments.\n\nMaybe quotas are not as good as the above though, because people are more biased against the people who \"just got through on quota\"",
+              "mentions": [
+                {
+                  "link": "@uf3kajfhBC2Sd3OysKB5LnBLJ5pwgBhBpXnGEGzgG6A=.ed25519",
+                  "name": "jer"
+                }
+              ]
+            },
+            "signature": "/AqnTOZRD4tT3Ga2KF91ckjWrczeVyP0zjNcFjUqnDb8yO6dobcP7E3pHOsQZ+B7efFV3QD3qO12ud+m2Pp/BA==.sig.ed25519"
+          },
+          "timestamp": 1502143451084
+        }
+      ]
+    },
+    "%wyt0Qre0vExwdjjDRvCFEVxHvdaHDTLlVa346KWx4M0=.sha256": {
+      "replies": [
+        {
+          "key": "%0OlLXGgRyzBdeBiGTboVzJZomL8VYedxR/tHGJXg/Nw=.sha256",
+          "value": {
+            "previous": "%oqcpJsasjuE1DKXZyTBwoaPLnQy3fY6Km4xq91JkSro=.sha256",
+            "author": "@TXKFQehlyoSn8UJAIVP/k2BjFINC591MlBC2e2d24mA=.ed25519",
+            "sequence": 1951,
+            "timestamp": 1502152891100,
+            "hash": "sha256",
+            "content": {
+              "type": "post",
+              "root": "%wyt0Qre0vExwdjjDRvCFEVxHvdaHDTLlVa346KWx4M0=.sha256",
+              "branch": "%2vcnLxv7oNT6QlfO3ngLqLWxPWBrkZ+Zz7k4TQavZlk=.sha256",
+              "channel": "games",
+              "recps": null,
+              "text": "MEMEMEMMEME",
+              "mentions": []
+            },
+            "signature": "0tpH6dIXgh75A5Wj1e4iBkqz33PlhtZyB5+5vaSpy6bEVlMmOyRp4Lu9pTfyBwwQ4RiNLitEdUgmPDXitb7fDQ==.sig.ed25519"
+          },
+          "timestamp": 1502152893843
+        },
+        {
+          "key": "%2vcnLxv7oNT6QlfO3ngLqLWxPWBrkZ+Zz7k4TQavZlk=.sha256",
+          "value": {
+            "previous": "%o47FbFuJdDrRDRM78egs4EgB5+zd5/W1zPTaGxVcPGU=.sha256",
+            "author": "@EMovhfIrFk4NihAKnRNhrfRaqIhBv1Wj8pTxJNgvCCY=.ed25519",
+            "sequence": 9661,
+            "timestamp": 1502152512533,
+            "hash": "sha256",
+            "content": {
+              "type": "post",
+              "root": "%wyt0Qre0vExwdjjDRvCFEVxHvdaHDTLlVa346KWx4M0=.sha256",
+              "branch": "%Ko9WTvy1XNIejtC1rYFu7x7I31JtWczJzA01JAfRAEU=.sha256",
+              "channel": "games",
+              "text": "oh, and [@zach!](@ZqH7Mctu/7DNInxuwl12ECjfrAKUX2tBLq1rOldNhg0=.ed25519) that is 7 players. If voting is an element, an uneven number of players is a good thing.",
+              "mentions": [
+                {
+                  "link": "@ZqH7Mctu/7DNInxuwl12ECjfrAKUX2tBLq1rOldNhg0=.ed25519",
+                  "name": "zach!"
+                }
+              ]
+            },
+            "signature": "Rk2P4mVGNrRRWwmLk4l4tpmI9bqxqHU5Sa1wLIG3tZONZpZ4ES836lXwBpk2+j6rW+Uqr0nvj29PtrzBmosrDA==.sig.ed25519"
+          },
+          "timestamp": 1502152512581
+        },
+        {
+          "key": "%Ko9WTvy1XNIejtC1rYFu7x7I31JtWczJzA01JAfRAEU=.sha256",
+          "value": {
+            "previous": "%b+Cjm6kPB4w53aABXqko1Ap8VKQB+I4ofJO83byaJ+A=.sha256",
+            "author": "@EMovhfIrFk4NihAKnRNhrfRaqIhBv1Wj8pTxJNgvCCY=.ed25519",
+            "sequence": 9659,
+            "timestamp": 1502151204668,
+            "hash": "sha256",
+            "content": {
+              "type": "post",
+              "root": "%wyt0Qre0vExwdjjDRvCFEVxHvdaHDTLlVa346KWx4M0=.sha256",
+              "branch": [
+                "%4zcyNtIW0TixMDI3Ulf4gZ9ZIgdtXSw5wOJhuI2dSXA=.sha256",
+                "%s9XQuL5RUaKykFrTXLbI5vQMtUnVPxEwFZZ5O9CBbAk=.sha256"
+              ],
+              "channel": "games",
+              "text": "okay, ammend the above list to include\n\n* [@dinosaur](@6ilZq3kN0F+dXFHAPjAwMm87JEb/VdB+LC9eIMW3sa0=.ed25519) \n* [@nanomonkey](@+D0ku/LReK6kqd3PSrcVCfbLYbDtTmS4Bd21rqhpYNA=.ed25519)\n\nThat is now six players!",
+              "mentions": [
+                {
+                  "link": "@6ilZq3kN0F+dXFHAPjAwMm87JEb/VdB+LC9eIMW3sa0=.ed25519",
+                  "name": "dinosaur"
+                },
+                {
+                  "link": "@+D0ku/LReK6kqd3PSrcVCfbLYbDtTmS4Bd21rqhpYNA=.ed25519",
+                  "name": "nanomonkey"
+                }
+              ]
+            },
+            "signature": "J6a4OPzdYNGJHDkLdtNsTioW5DBylOv8Yc9KpUfuq+FKVjgbDSKXPkCp389mE4/r5Ndlk4/2uv6zduz26bXNCw==.sig.ed25519"
+          },
+          "timestamp": 1502151204714
+        },
+        {
+          "key": "%4zcyNtIW0TixMDI3Ulf4gZ9ZIgdtXSw5wOJhuI2dSXA=.sha256",
+          "value": {
+            "previous": "%ffvnxb2ykUShQLq9DJVAtugAX8gAv+B8hIyJArsWVLM=.sha256",
+            "author": "@+D0ku/LReK6kqd3PSrcVCfbLYbDtTmS4Bd21rqhpYNA=.ed25519",
+            "sequence": 640,
+            "timestamp": 1502149668495,
+            "hash": "sha256",
+            "content": {
+              "type": "post",
+              "root": "%wyt0Qre0vExwdjjDRvCFEVxHvdaHDTLlVa346KWx4M0=.sha256",
+              "branch": "%oWOThnP+ll8bHZGBF5U0lZ6o3s0HKp2rAWTG61O2Ijk=.sha256",
+              "channel": "games",
+              "recps": null,
+              "text": "I'm in too!  I think that scuttlebutt would also be appropriate for playing [1000 blank white cards](https://en.wikipedia.org/wiki/1000_Blank_White_Cards).  Just post pictures of your card to #thousand-blank-white-cards channel.",
+              "mentions": [
+                {
+                  "link": "#thousand-blank-white-cards"
+                }
+              ]
+            },
+            "signature": "/5s1D8YEzCTBPwxqeFJOcBZmLURRFdfoKIwpVP5G2H98e8lfArL7lETG+iG0vailvHxAhqeJ3gttNs6xEIWFCg==.sig.ed25519"
+          },
+          "timestamp": 1502151026188
+        },
+        {
+          "key": "%s9XQuL5RUaKykFrTXLbI5vQMtUnVPxEwFZZ5O9CBbAk=.sha256",
+          "value": {
+            "previous": "%qSmBT2oRoktsMBZjNV9hwf6hTwnxF5jrJ9+Z6twzFwQ=.sha256",
+            "author": "@ZqH7Mctu/7DNInxuwl12ECjfrAKUX2tBLq1rOldNhg0=.ed25519",
+            "sequence": 467,
+            "timestamp": 1502148946144,
+            "hash": "sha256",
+            "content": {
+              "type": "post",
+              "root": "%wyt0Qre0vExwdjjDRvCFEVxHvdaHDTLlVa346KWx4M0=.sha256",
+              "branch": "%anpt1R/I3s+3KtDiRfed2cff2RJtYEoy9sVs8uxNdvY=.sha256",
+              "channel": "games",
+              "recps": null,
+              "text": "I would love to play this game!  It reminds me of a Friedemann Friese game I adore called [3 Commandments](https://boardgamegeek.com/boardgame/38359/3-commandments).  In 3 Commandments, there's a game master who picks the rules and win conditions at random from a deck of cards, and keeps them secret.  The players then have to make a move, not knowing any of the rules, and the game master tells them how many points they scored.  There's an incredible meta-game of superstition that emerges as players will try to copy everything the previous player did to get as many points as them, but they don't know which of the random moves were the ones that actually provided points.  It recreates the experience of walking into a bar and seeing a group of friends deep into a game you've never seen, and so it seems like pure gibberish even though they are taking it sooo seriously. ",
+              "mentions": []
+            },
+            "signature": "k+hL6GBwRnKC7vsdjPYUqR3fufZElrKqVQStdKlO4PzUTarwYDNslxC6UQHrl5Po+lRhz0YVjkslzyuP3GjvCw==.sig.ed25519"
+          },
+          "timestamp": 1502151026146
+        },
+        {
+          "key": "%oWOThnP+ll8bHZGBF5U0lZ6o3s0HKp2rAWTG61O2Ijk=.sha256",
+          "value": {
+            "previous": "%jHMcmLP/knKq1kVwIZFoP4QEHpeS/sh5w256ILSRgAw=.sha256",
+            "author": "@6ilZq3kN0F+dXFHAPjAwMm87JEb/VdB+LC9eIMW3sa0=.ed25519",
+            "sequence": 4673,
+            "timestamp": 1502149022522,
+            "hash": "sha256",
+            "content": {
+              "type": "post",
+              "root": "%wyt0Qre0vExwdjjDRvCFEVxHvdaHDTLlVa346KWx4M0=.sha256",
+              "branch": "%FWDcbanHIHA2aiy9A7Y6O6zPRV8lIzpZYBhin8KSs90=.sha256",
+              "channel": "games",
+              "recps": null,
+              "text": "to be more explicit, i want to play! :blush: ",
+              "mentions": []
+            },
+            "signature": "BkFMCIa8/ychZw0ugaXpgJhSH0sLZypL0TDCfpSE7nQIWXY6rjIuF8l8jkW1ASJHZi96kyka3F3cwdkoe+BvDQ==.sig.ed25519"
+          },
+          "timestamp": 1502151025973
+        },
+        {
+          "key": "%anpt1R/I3s+3KtDiRfed2cff2RJtYEoy9sVs8uxNdvY=.sha256",
+          "value": {
+            "previous": "%ys2qBlZnxOXZJEGhW13vLFfzrk84y6293ixvzRRWsc0=.sha256",
+            "author": "@6CAxOI3f+LUOVrbAl0IemqiS7ATpQvr9Mdw9LC4+Uv0=.ed25519",
+            "sequence": 1157,
+            "timestamp": 1502143070958,
+            "hash": "sha256",
+            "content": {
+              "type": "post",
+              "root": "%wyt0Qre0vExwdjjDRvCFEVxHvdaHDTLlVa346KWx4M0=.sha256",
+              "branch": "%FWDcbanHIHA2aiy9A7Y6O6zPRV8lIzpZYBhin8KSs90=.sha256",
+              "channel": "games",
+              "text": "My son likes to play a simple card game called war where the biggest card always wins. If he thinks he is losing he likes to change to rules so that we switch decks or the cards mean something else. I'll have to try a version where rule changing is a natural part of the game like this, its a very interesting way of exploring mechanics in games."
+            },
+            "signature": "jHfFuZ2T5qWsJv0ZxGY+6lgBsNOF3Ts84YVZbFoHjEfy5Pm46ZvgdN/kahBbGfIZ1BF2+7UsMPtTaySAYvveDw==.sig.ed25519"
+          },
+          "timestamp": 1502143320736,
+          "replies": [
+            {
+              "key": "%12RbmP1J9FFk07lDaM6x0k8MAdMkrXDX0UVYZSunQyM=.sha256",
+              "value": {
+                "previous": "%4rJahsTc7fU+UzoepYHb3TiWh/QIlEszXoWv1izJqXg=.sha256",
+                "author": "@6CAxOI3f+LUOVrbAl0IemqiS7ATpQvr9Mdw9LC4+Uv0=.ed25519",
+                "sequence": 1161,
+                "timestamp": 1502143981220,
+                "hash": "sha256",
+                "content": {
+                  "type": "post",
+                  "root": "%anpt1R/I3s+3KtDiRfed2cff2RJtYEoy9sVs8uxNdvY=.sha256",
+                  "branch": "%anpt1R/I3s+3KtDiRfed2cff2RJtYEoy9sVs8uxNdvY=.sha256",
+                  "channel": "games",
+                  "text": "Not to compare you with kids :smirk: Just one of those things that most people loose somewhere along the way. "
+                },
+                "signature": "TzIvi8z/CjH5v9vK+VHpsLd1F9kX8Bfqx1W4upCwe02Tdsw0LuwWnWIiERf6/aDFtStKgHdFxi85ekF7H93MBw==.sig.ed25519"
+              },
+              "timestamp": 1502144001408
+            }
+          ]
+        },
+        {
+          "key": "%FWDcbanHIHA2aiy9A7Y6O6zPRV8lIzpZYBhin8KSs90=.sha256",
+          "value": {
+            "previous": "%HyMevAMSvV2ELX54+ifBabwUoJgJIBeN5Kv7oCGsA84=.sha256",
+            "author": "@EMovhfIrFk4NihAKnRNhrfRaqIhBv1Wj8pTxJNgvCCY=.ed25519",
+            "sequence": 9653,
+            "timestamp": 1502142368158,
+            "hash": "sha256",
+            "content": {
+              "type": "post",
+              "root": "%wyt0Qre0vExwdjjDRvCFEVxHvdaHDTLlVa346KWx4M0=.sha256",
+              "branch": "%IF4MQu6BA7crzUAWZHBK6ScG2/+0znhSLLJhaZ7PLI4=.sha256",
+              "channel": "games",
+              "text": "so, people who explicitly said they are keen:\n1. [@mixmix](@ye+QM09iPcDJD6YvQYjoQc7sLF/IFhmNbEqgdzQo3lQ=.ed25519)\n2. [@ktorn](@z8aJVHJTc6MM8FwaNE2GIS3AYYt2HYFNWQUO8/iydNw=.ed25519) \n3. [@soggypretzels](@3PGWnoMIY5ebs6sJjkwc7DKjxrgcrOeIUC2YegkMtIY=.ed25519)\n4. [@dominic](@EMovhfIrFk4NihAKnRNhrfRaqIhBv1Wj8pTxJNgvCCY=.ed25519) \n\nAll are welcome of course. I propose that begin the game without the dice or the win condition, because we can easily do voting by posting :+1:  in the thread. The objective of the game can still be to _win_ by gaining 100 points, there is just no way to get points when we start playing.",
+              "mentions": [
+                {
+                  "link": "@ye+QM09iPcDJD6YvQYjoQc7sLF/IFhmNbEqgdzQo3lQ=.ed25519",
+                  "name": "mixmix"
+                },
+                {
+                  "link": "@z8aJVHJTc6MM8FwaNE2GIS3AYYt2HYFNWQUO8/iydNw=.ed25519",
+                  "name": "ktorn"
+                },
+                {
+                  "link": "@3PGWnoMIY5ebs6sJjkwc7DKjxrgcrOeIUC2YegkMtIY=.ed25519",
+                  "name": "soggypretzels"
+                },
+                {
+                  "link": "@EMovhfIrFk4NihAKnRNhrfRaqIhBv1Wj8pTxJNgvCCY=.ed25519",
+                  "name": "dominic"
+                }
+              ]
+            },
+            "signature": "JQSa5yyufZ+4Uv+4HnlBZdnMwk+LhN9mvcWbBijovZRnCnbJmpgMEwCAloQ4lr6sqYDKIEqV8QxyUNBARgpYBA==.sig.ed25519"
+          },
+          "timestamp": 1502142368204
+        }
+      ]
+    },
+    "%QlhnvYJfigcMi+SpWi1nRp5dFJszqV1t9BIUTFwDJ9c=.sha256": {
+      "key": "%QlhnvYJfigcMi+SpWi1nRp5dFJszqV1t9BIUTFwDJ9c=.sha256",
+      "value": {
+        "previous": "%+iRC99YLVhweU1VW2AgSChgpKikx3nkUrFkFa7R7PME=.sha256",
+        "author": "@dcRfPQjPwmrUFbOG2kEoKz8m/9e+VIwYQHmBxMGNbsc=.ed25519",
+        "sequence": 139,
+        "timestamp": 1502148654047,
+        "hash": "sha256",
+        "content": {
+          "type": "about",
+          "about": "%W1OAnh5/Xbv5Foky5RrKCtJUszdy01yabv/QL7QZDgA=.sha256",
+          "attendee": {
+            "link": "@dcRfPQjPwmrUFbOG2kEoKz8m/9e+VIwYQHmBxMGNbsc=.ed25519",
+            "remove": true
+          }
+        },
+        "signature": "VgNyp3i8iB32DvlspXtAcUqQ6fjHSrNa2OJozRX8NZNkHwE+8UIRPqDNxeH0Uihvakj3n3KHc/fruCL4PeoJBg==.sig.ed25519"
+      },
+      "timestamp": 1502151026731,
+      "replies": [
+        {
+          "key": "%o47FbFuJdDrRDRM78egs4EgB5+zd5/W1zPTaGxVcPGU=.sha256",
+          "value": {
+            "previous": "%Ko9WTvy1XNIejtC1rYFu7x7I31JtWczJzA01JAfRAEU=.sha256",
+            "author": "@EMovhfIrFk4NihAKnRNhrfRaqIhBv1Wj8pTxJNgvCCY=.ed25519",
+            "sequence": 9660,
+            "timestamp": 1502151312842,
+            "hash": "sha256",
+            "content": {
+              "type": "post",
+              "root": "%QlhnvYJfigcMi+SpWi1nRp5dFJszqV1t9BIUTFwDJ9c=.sha256",
+              "branch": "%E/qWogkG9yY5L63hoDF+rZWsEXm/CnJPEJbDiuF91jE=.sha256",
+              "channel": null,
+              "text": "it's every thursday!",
+              "mentions": []
+            },
+            "signature": "oooBHsL8dRx9MLSFaTKEblOg5tTIdbzrGKO5sja4yi810VUgYS5Ocab2yhZEKdXMZIbCl2kijET6jz9q+6A0Aw==.sig.ed25519"
+          },
+          "timestamp": 1502151312889
+        },
+        {
+          "key": "%E/qWogkG9yY5L63hoDF+rZWsEXm/CnJPEJbDiuF91jE=.sha256",
+          "value": {
+            "previous": "%QlhnvYJfigcMi+SpWi1nRp5dFJszqV1t9BIUTFwDJ9c=.sha256",
+            "author": "@dcRfPQjPwmrUFbOG2kEoKz8m/9e+VIwYQHmBxMGNbsc=.ed25519",
+            "sequence": 140,
+            "timestamp": 1502148706189,
+            "hash": "sha256",
+            "content": {
+              "type": "post",
+              "root": "%QlhnvYJfigcMi+SpWi1nRp5dFJszqV1t9BIUTFwDJ9c=.sha256",
+              "branch": "%QlhnvYJfigcMi+SpWi1nRp5dFJszqV1t9BIUTFwDJ9c=.sha256",
+              "channel": null,
+              "recps": null,
+              "text": "Hadn't opened patchwork in awhile. Sorry I missed this. Hopefully catch the next one. Got any plans for when it will be?",
+              "mentions": []
+            },
+            "signature": "szAnkgPD+uiPuvfqNhzWUB7SVyPgOX/DslhkruvwNNrwvsPr6E1BOzlmSqkdPx2B1TS9nY6OF8taaLy7OUSmDg==.sig.ed25519"
+          },
+          "timestamp": 1502151026741
+        }
+      ]
+    },
+    "%lqgJ1j1VRrUSXyKPkTSx+1bl+r7RsCN2WRxCPyaVwO0=.sha256": {
+      "replies": [
+        {
+          "key": "%WeoynQMnGFK5a6SZdS7zr/7xFYPkK3XG+SKuhg5vwqs=.sha256",
+          "value": {
+            "previous": "%Bs4K3ElT+ump0HdzrwPNmkLuOOOkmrzGjVxOUKjkiu8=.sha256",
+            "author": "@iOyfRmje5LFAErH7M3faTLNMQUTXCnjECbLtniVJ478=.ed25519",
+            "sequence": 452,
+            "timestamp": 1502146961534,
+            "hash": "sha256",
+            "content": {
+              "type": "post",
+              "text": "Cutting back on meat in industrialized countries would let 9 tenths of farmland go back to the wild (my understanding is that meat production uses 10 times the cropland of equivalent plant products) - and improve health in the bargain.  (Temperate zone peoples need less than 5% of calories from animal products.  Tropical zones less, arctic zones more.  As animal product consumption increases from 5% to 40% of calories for temperate zone peoples, risk of both cancer and heart disease quadruples.)  ",
+              "root": "%lqgJ1j1VRrUSXyKPkTSx+1bl+r7RsCN2WRxCPyaVwO0=.sha256",
+              "branch": "%NRovuk5amDp/+FRBhzPnqr1sVhTidQKMeHMxzPlrcNQ=.sha256",
+              "channel": "growingfood"
+            },
+            "signature": "4GY9R9FTQf8OtKS8pGaVhTqZGPn/pIS5quRSC8Qg4Dtdu5W+rXlC0m7fHRYw52i32zBOCeZFySJaHAVm/Fs3Bw==.sig.ed25519"
+          },
+          "timestamp": 1502147994744
+        }
+      ]
+    },
+    "%0WQSPMefiR6iccntfd4s4xzzJ59mAtkXagTzmmW2cK0=.sha256": {
+      "key": "%0WQSPMefiR6iccntfd4s4xzzJ59mAtkXagTzmmW2cK0=.sha256",
+      "value": {
+        "previous": "%U9WQ84noF7QFt9FpSypQyP02vqv8M+i0j/WevDGRTiQ=.sha256",
+        "author": "@7HHVZNWiNtCOquFNhNYS/DbHI9x3hFWrfxGP9FlJzHY=.ed25519",
+        "sequence": 69,
+        "timestamp": 1502144548419,
+        "hash": "sha256",
+        "content": {
+          "type": "post",
+          "text": "how do get html codes working in my post i wonder",
+          "mentions": []
+        },
+        "signature": "8vr7Sg5FOgZ+8ezHlPw9DMx2tjgnC1jUp6fXJTF0XCmd8Ic0vP3HuTbuuyV7158H29rqH2PQCFwJcDv+br6QBw==.sig.ed25519"
+      },
+      "timestamp": 1502144541291,
+      "replies": [
+        {
+          "key": "%uGnAxbQU6DKOxkCdkr642vDf+Z1Hhb7D1dQrjN/vqNk=.sha256",
+          "value": {
+            "previous": "%OrVbnUn5eT2JpV1uR8wdMDrwSW+DQZMXI4BqlBJSJGI=.sha256",
+            "author": "@f/6sQ6d2CMxRUhLpspgGIulDxDCwYD7DzFzPNr7u5AU=.ed25519",
+            "sequence": 6905,
+            "timestamp": 1502144916005,
+            "hash": "sha256",
+            "content": {
+              "type": "post",
+              "text": "our clients don't allow html in the text. however, you can use markdown: %PjT6UGO7rsm9EdB7fKfLzZ9/4rl9/2+s077bD4OLfEo=.sha256, %AVGHL9o0iC29FjSQ6dLtqNXhGqdNJcAKASfvyn/qY0E=.sha256",
+              "mentions": [
+                {
+                  "link": "%PjT6UGO7rsm9EdB7fKfLzZ9/4rl9/2+s077bD4OLfEo=.sha256"
+                },
+                {
+                  "link": "%AVGHL9o0iC29FjSQ6dLtqNXhGqdNJcAKASfvyn/qY0E=.sha256"
+                }
+              ],
+              "root": "%0WQSPMefiR6iccntfd4s4xzzJ59mAtkXagTzmmW2cK0=.sha256",
+              "branch": "%0WQSPMefiR6iccntfd4s4xzzJ59mAtkXagTzmmW2cK0=.sha256"
+            },
+            "signature": "Wg9eIDVIiuvLH09ljLLU4ZevHcHDkA3tg5XwWowoVT0ClWlOXLBZxhPvLAHc3QfZLms9gshCe8rSQdPtxNOaCw==.sig.ed25519"
+          },
+          "timestamp": 1502144929695
+        }
+      ]
+    },
+    "%anpt1R/I3s+3KtDiRfed2cff2RJtYEoy9sVs8uxNdvY=.sha256": {
+      "key": "%anpt1R/I3s+3KtDiRfed2cff2RJtYEoy9sVs8uxNdvY=.sha256",
+      "value": {
+        "previous": "%ys2qBlZnxOXZJEGhW13vLFfzrk84y6293ixvzRRWsc0=.sha256",
+        "author": "@6CAxOI3f+LUOVrbAl0IemqiS7ATpQvr9Mdw9LC4+Uv0=.ed25519",
+        "sequence": 1157,
+        "timestamp": 1502143070958,
+        "hash": "sha256",
+        "content": {
+          "type": "post",
+          "root": "%wyt0Qre0vExwdjjDRvCFEVxHvdaHDTLlVa346KWx4M0=.sha256",
+          "branch": "%FWDcbanHIHA2aiy9A7Y6O6zPRV8lIzpZYBhin8KSs90=.sha256",
+          "channel": "games",
+          "text": "My son likes to play a simple card game called war where the biggest card always wins. If he thinks he is losing he likes to change to rules so that we switch decks or the cards mean something else. I'll have to try a version where rule changing is a natural part of the game like this, its a very interesting way of exploring mechanics in games."
+        },
+        "signature": "jHfFuZ2T5qWsJv0ZxGY+6lgBsNOF3Ts84YVZbFoHjEfy5Pm46ZvgdN/kahBbGfIZ1BF2+7UsMPtTaySAYvveDw==.sig.ed25519"
+      },
+      "timestamp": 1502143320736,
+      "replies": [
+        {
+          "key": "%12RbmP1J9FFk07lDaM6x0k8MAdMkrXDX0UVYZSunQyM=.sha256",
+          "value": {
+            "previous": "%4rJahsTc7fU+UzoepYHb3TiWh/QIlEszXoWv1izJqXg=.sha256",
+            "author": "@6CAxOI3f+LUOVrbAl0IemqiS7ATpQvr9Mdw9LC4+Uv0=.ed25519",
+            "sequence": 1161,
+            "timestamp": 1502143981220,
+            "hash": "sha256",
+            "content": {
+              "type": "post",
+              "root": "%anpt1R/I3s+3KtDiRfed2cff2RJtYEoy9sVs8uxNdvY=.sha256",
+              "branch": "%anpt1R/I3s+3KtDiRfed2cff2RJtYEoy9sVs8uxNdvY=.sha256",
+              "channel": "games",
+              "text": "Not to compare you with kids :smirk: Just one of those things that most people loose somewhere along the way. "
+            },
+            "signature": "TzIvi8z/CjH5v9vK+VHpsLd1F9kX8Bfqx1W4upCwe02Tdsw0LuwWnWIiERf6/aDFtStKgHdFxi85ekF7H93MBw==.sig.ed25519"
+          },
+          "timestamp": 1502144001408
+        }
+      ]
+    },
+    "%rUCyohL359T7AJRxNBK4IixJVnTvqOobgsWjUl0h1nI=.sha256": {
+      "replies": [
+        {
+          "key": "%PgdX7Lwfz118DZkmL9DJHgG/vnU6YMo9J2USCKN/tdE=.sha256",
+          "value": {
+            "previous": "%QEHqa3G6R0ZTLXn2f1jo6xuANWl8yAhY3h16ui8+vp4=.sha256",
+            "author": "@7HHVZNWiNtCOquFNhNYS/DbHI9x3hFWrfxGP9FlJzHY=.ed25519",
+            "sequence": 65,
+            "timestamp": 1502143668636,
+            "hash": "sha256",
+            "content": {
+              "type": "post",
+              "root": "%rUCyohL359T7AJRxNBK4IixJVnTvqOobgsWjUl0h1nI=.sha256",
+              "branch": "%X7AUfUj2zaYA3RPuNynfSPP4bIbzOScF8nud1h5HvwI=.sha256",
+              "channel": "mesh-networking",
+              "recps": null,
+              "text": "himm i could possibly use some thing like tox or ring how ever there no longer actively developing on tox speak of witch   ",
+              "mentions": []
+            },
+            "signature": "hALR6kW5l6ucqwujXOZLorcGvTggmniocMAW6OULknYDT153Q+SS0D/q+SlroqD9WedwWwcsan2fMhp73vmIAA==.sig.ed25519"
+          },
+          "timestamp": 1502143672523
+        }
+      ]
+    },
+    "%WO0KIe02tchTC7ULWo3Bbc5vlnNHjWITTYqNOv7G31g=.sha256": {
+      "replies": [
+        {
+          "key": "%8TyyrchMMOuRg7GikI37msI6zoeUCwUzH07aU+590iA=.sha256",
+          "value": {
+            "previous": "%FWDcbanHIHA2aiy9A7Y6O6zPRV8lIzpZYBhin8KSs90=.sha256",
+            "author": "@EMovhfIrFk4NihAKnRNhrfRaqIhBv1Wj8pTxJNgvCCY=.ed25519",
+            "sequence": 9654,
+            "timestamp": 1502142524868,
+            "hash": "sha256",
+            "content": {
+              "type": "post",
+              "root": "%WO0KIe02tchTC7ULWo3Bbc5vlnNHjWITTYqNOv7G31g=.sha256",
+              "branch": [
+                "%O3keVFh7zkkjQjB9ZGZR4xhsPhXlH/RYxMMHCBW0Xw0=.sha256",
+                "%hSK/XwvCB0vQGO+5SER99xM/IcrpfXu+nX3GNxXUeL4=.sha256"
+              ],
+              "channel": "p2p",
+              "text": "[@andrestaltz](@QlCTpvY7p9ty2yOFrv1WU1AE88aoQc4Y7wYal7PFc+w=.ed25519) `rsync` was written by another antipodian (an australian) because `scp` was too painful to use over Australian latency! So it's a relative of ssb in a certain way.",
+              "mentions": [
+                {
+                  "link": "@QlCTpvY7p9ty2yOFrv1WU1AE88aoQc4Y7wYal7PFc+w=.ed25519",
+                  "name": "andrestaltz"
+                }
+              ]
+            },
+            "signature": "YvmURh6iRxJNH3moGauakQZ+r5Xva/80MvFhreR9RHzLIRKAU1n+hnDwvMVeqS9IoRQq/yKi9ILlD0Ayy8dtAg==.sig.ed25519"
+          },
+          "timestamp": 1502142524918
+        }
+      ]
+    },
+    "%1qDNhoVLnXfVNLCjanaZPBYBcrf3TsYyRi/BtpolGmU=.sha256": {
+      "replies": [
+        {
+          "key": "%njCE5Ct4uKspeB3MmH2QA7PRtMDuddRtDoaZ8Mi0C1s=.sha256",
+          "value": {
+            "previous": "%NpbJUQVQu6QFg78BUHOaH6jeYpXzCQNGRuL1i7OvNBk=.sha256",
+            "author": "@6CAxOI3f+LUOVrbAl0IemqiS7ATpQvr9Mdw9LC4+Uv0=.ed25519",
+            "sequence": 1154,
+            "timestamp": 1502142159647,
+            "hash": "sha256",
+            "content": {
+              "type": "post",
+              "root": "%1qDNhoVLnXfVNLCjanaZPBYBcrf3TsYyRi/BtpolGmU=.sha256",
+              "branch": "%uxp0dRk18zGDZHBEaU1GE1qWwVoWuGTyU0eS3aM+SGA=.sha256",
+              "recps": null,
+              "text": "This would look stunning if carved in wood I think"
+            },
+            "signature": "DoWvS2AfnuI91X0/O6UmZ8TJuJB+Ekhl2CEts01CeyizvhlIg9+7vTCUU5z0ifbCbr1Dh/E1BzLtSQqVoHZ4AA==.sig.ed25519"
+          },
+          "timestamp": 1502142325825
+        }
+      ]
+    },
+    "%gAWv96urvhs6n/t4yxfhTzyere4m8+7SIIYE80/rIF4=.sha256": {
+      "replies": [
+        {
+          "key": "%XCGo7tppsvK96eaN+fzbyOxDCfLeX/SG9qd0Oqc10NU=.sha256",
+          "value": {
+            "previous": "%/wt/HEKGxbZjhJxuW1VVvDh2ReFPPrMvjSE2XxGVymw=.sha256",
+            "author": "@7HHVZNWiNtCOquFNhNYS/DbHI9x3hFWrfxGP9FlJzHY=.ed25519",
+            "sequence": 61,
+            "timestamp": 1502141167779,
+            "hash": "sha256",
+            "content": {
+              "type": "post",
+              "root": "%gAWv96urvhs6n/t4yxfhTzyere4m8+7SIIYE80/rIF4=.sha256",
+              "branch": "%wShbGL2hJuzbdhnWuNPxo01wVnPsqrlXPV3v/cUjlBE=.sha256",
+              "channel": "new-people",
+              "recps": null,
+              "text": "and my real name is james",
+              "mentions": []
+            },
+            "signature": "MBySx4ni4gm+4FlqZk3kV7ROrNQdAxABp7TwC3JuBVo/A9BXUMpAIxeg1Msuv7Jj1keuAjBYANoCV9aL8VsZCA==.sig.ed25519"
+          },
+          "timestamp": 1502141164597
+        }
+      ]
+    },
+    "%vt6olvLlS2R4kvyoH0iwvsQEvHWmF0sOPUB+kdoJtVc=.sha256": {
+      "replies": [
+        {
+          "key": "%VtQrWD2UxsLD5W5owbBtj4+ElfV2VkUiU4UNQPihQPc=.sha256",
+          "value": {
+            "previous": "%Vyy72RHTZl3wJPjxS8VfZIrjDbjVsnH6OckzLtIEboI=.sha256",
+            "author": "@tPsLqFD721qvWkZqNTvXFnUAmiLDq1FtdzjQP7xuRl8=.ed25519",
+            "sequence": 6,
+            "timestamp": 1502125331253,
+            "hash": "sha256",
+            "content": {
+              "type": "post",
+              "root": "%vt6olvLlS2R4kvyoH0iwvsQEvHWmF0sOPUB+kdoJtVc=.sha256",
+              "branch": "%/ziVjg6DWL5u6xDE2W5SNFTUmrBZOCOkImvZXECEYEo=.sha256",
+              "channel": "home-ownership",
+              "recps": null,
+              "text": "I make kefir from organic but store-bought homogenized milk. If you were me, would you switch to non-homogenized store-bought milk, or to raw milk, for making kefir?",
+              "mentions": []
+            },
+            "signature": "Hkq+q4D/doq9qpmSDKOvJz0jeeDACpvK6tSB1HUuKro7DRlOdS8FiS/dmx5TUK/vrZkhVnQBguaJj13GMtF5DQ==.sig.ed25519"
+          },
+          "timestamp": 1502140870368
+        }
+      ]
+    },
+    "%TQKZiOp0+fAA8FTHmo8G/uINZmvdEUSxnb4wwqVXogk=.sha256": {
+      "replies": [
+        {
+          "key": "%7YIqh+Ta+N//NcQcrxWQG3VjPfl706SIiZXo/hDnt5Y=.sha256",
+          "value": {
+            "previous": "%nnz1hnwf0WQNURG0L8BHpG+7t2pMEotLStl6KCb/mt8=.sha256",
+            "author": "@YXkE3TikkY4GFMX3lzXUllRkNTbj5E+604AkaO1xbz8=.ed25519",
+            "sequence": 1913,
+            "timestamp": 1502116473670,
+            "hash": "sha256",
+            "content": {
+              "type": "post",
+              "root": "%TQKZiOp0+fAA8FTHmo8G/uINZmvdEUSxnb4wwqVXogk=.sha256",
+              "branch": "%TQKZiOp0+fAA8FTHmo8G/uINZmvdEUSxnb4wwqVXogk=.sha256",
+              "channel": "berlin",
+              "text": "I can not talk about Berlin, but the route that was used by a lot of refugees in the big summer of migration (2015, right? I think it was 2015) was blocked by an agreement with Turkish prime minister Erdoğan (pushed by Merkel), where EU paid Turkey 6Mio EUR to keep refugees out of the EU. Since then refugees from Middle East just don't arrive in the EU anymore.\nThe ones that still come have a much harder path ahead of them. They flee by rubber boat from the Turkis coast to reach a Greek island. I don't know how many make it and how many die, but I the situation in Greek camps is terrible.\n\nThere are also refugees from North africa, they often leave from Libya using either large rubber or wooden boats. They are told to just go north for a few miles and they will find an Italian island - which is nonsense. Usually they will either be found by a humanitarian sea rescue mission like SeaWatch or  SOS Mediterrane (who safely bring them to Italy) or by the local coastguard, who bring them back to Libya. Recently, the young fascist Identitarian Movement started to try to help the Lybian coastguard, but I don't want to know what happens to the refugees on board of their ship.\nAnyway, the situation in Italian camps is no better that in Greek camps, actually they are more like refugee slums. It's horrible.\n\nA few months back I attended a talk by someone who was volunteering on one of the humanitarian missions, and he said that there were people on the boats who said they were kidnapped and sent to the boats, and there were signs of human trafficking - as soon as people are in the refugee slums, noone knows where they will end up.\n\nAnyway, in Hamburg they have started closing some refugee shelters, because there is \"no need\". Which is not suprising if you let them die at the front door.\n\n---\n\nHuh, I guess this is one of my rants."
+            },
+            "signature": "TmEBXQGF2KKDxiqn6CpArY3fE4FL3/P6Sic9NA91BK9NeENFN7REpZ0HNzwQ4YQ7pLCM9hgTV6wc38sIsy4NAQ==.sig.ed25519"
+          },
+          "timestamp": 1502140869725
+        }
+      ]
+    },
+    "%adAdEQ//zWk52YiBZa0G7oFZdNfdG5DemqHCbnEjVHU=.sha256": {
+      "replies": [
+        {
+          "key": "%mBfSYOjJjqziaoIDyj4nRpH1wcTzXkxExqExwYsgHBQ=.sha256",
+          "value": {
+            "previous": "%5Iin68GYL/ERsanCw5k4u38eSpAfeA8eL5yRsi1UJ4U=.sha256",
+            "author": "@3r4+IyB5NVl2in6QOZHIu9oSrZud+NuVgl2GX3x2WG8=.ed25519",
+            "sequence": 151,
+            "timestamp": 1502127139008,
+            "hash": "sha256",
+            "content": {
+              "type": "post",
+              "root": "%adAdEQ//zWk52YiBZa0G7oFZdNfdG5DemqHCbnEjVHU=.sha256",
+              "branch": "%OpZsoWIcE+o+bOZ0850FGYnAMBMQhc6n2hPEWSEUSK0=.sha256",
+              "channel": "software",
+              "recps": null,
+              "text": "I think the #art~hack folks will dig the ethic behind this ^",
+              "mentions": [
+                {
+                  "link": "#art~hack"
+                }
+              ]
+            },
+            "signature": "Jkoe85++jK6zzObg+IgsAcIRcy69Dumoxcq9yG6iNb1Q370EmCMWN6a+e2Ov/n1aR0Flaf+K9uCd1VCDH4NOCQ==.sig.ed25519"
+          },
+          "timestamp": 1502140869702
+        },
+        {
+          "key": "%5Iin68GYL/ERsanCw5k4u38eSpAfeA8eL5yRsi1UJ4U=.sha256",
+          "value": {
+            "previous": "%T2+ykdnuE2wjkRWAYnppuhyFoVzdCePAVKM2nsLsZuE=.sha256",
+            "author": "@3r4+IyB5NVl2in6QOZHIu9oSrZud+NuVgl2GX3x2WG8=.ed25519",
+            "sequence": 150,
+            "timestamp": 1502126776495,
+            "hash": "sha256",
+            "content": {
+              "type": "post",
+              "root": "%adAdEQ//zWk52YiBZa0G7oFZdNfdG5DemqHCbnEjVHU=.sha256",
+              "branch": "%OpZsoWIcE+o+bOZ0850FGYnAMBMQhc6n2hPEWSEUSK0=.sha256",
+              "channel": "software",
+              "recps": null,
+              "text": "ok so one of my FB friends shared this, which looks pretty sweeeeet \n\nhttp://threejsplaygnd.brangerbriz.net/nfo/",
+              "mentions": []
+            },
+            "signature": "IkdTtUYnH2GaQztkEt7povRSUI6nBGGfHinelAJ4tB33+XO/gUozQrBBDkFOw4WE1u7WNrgZH1K5YK1D1MDvDw==.sig.ed25519"
+          },
+          "timestamp": 1502140869495
+        }
+      ]
+    }
+  },
+  "stats": {
+    "messages": 93,
+    "threads": 13
+  },
+  "effect": null,
+  "channels": {
+    "politics": "%dXbJitCktgFUe27xkKr5dVhxOp4Y196plAwuFSNOx4M=.sha256",
+    "games": "%wyt0Qre0vExwdjjDRvCFEVxHvdaHDTLlVa346KWx4M0=.sha256",
+    "growingfood": "%lqgJ1j1VRrUSXyKPkTSx+1bl+r7RsCN2WRxCPyaVwO0=.sha256",
+    "mesh-networking": "%rUCyohL359T7AJRxNBK4IixJVnTvqOobgsWjUl0h1nI=.sha256",
+    "p2p": "%WO0KIe02tchTC7ULWo3Bbc5vlnNHjWITTYqNOv7G31g=.sha256",
+    "new-people": "%gAWv96urvhs6n/t4yxfhTzyere4m8+7SIIYE80/rIF4=.sha256",
+    "home-ownership": "%vt6olvLlS2R4kvyoH0iwvsQEvHWmF0sOPUB+kdoJtVc=.sha256",
+    "berlin": "%TQKZiOp0+fAA8FTHmo8G/uINZmvdEUSxnb4wwqVXogk=.sha256",
+    "software": "%adAdEQ//zWk52YiBZa0G7oFZdNfdG5DemqHCbnEjVHU=.sha256"
+  }
+}

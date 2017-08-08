@@ -1,0 +1,20 @@
+{
+  "name": "ssb-reduce-stream",
+  "description": "",
+  "version": "0.0.0",
+  "homepage": "https://github.com/dominictarr/ssb-reduce-stream",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dominictarr/ssb-reduce-stream.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "ssb-client": "^4.5.0",
+    "tape": "^4.7.0"
+  },
+  "scripts": {
+    "test": "set -e; for t in test/*.js; do node $t; done"
+  },
+  "author": "'Dominic Tarr' <dominic.tarr@gmail.com> (dominictarr.com)",
+  "license": "MIT"
+}
