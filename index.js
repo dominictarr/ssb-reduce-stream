@@ -22,6 +22,10 @@ module.exports = function (get, reduce, done) {
   }
 }
 
+function isString (s) {
+  return 'string' === typeof s
+}
+
 function isObject (o) {
   return 'object' === typeof o
 }
@@ -58,6 +62,8 @@ function threadReduce (state, msg) {
     msg.replies = replies
   }
 
+  //aha, missing a thing for when a message is first in the thread.
+
   //not "else if" because a message can be both a reply and
   //a root, SADFACE
   var id = msg.value.content.root
@@ -79,20 +85,51 @@ function threadReduce (state, msg) {
       state.stats.threads ++
     }
   }
+  else if(!msg.value.content.root && msg.value.content.type == 'post') {
+    if(!state.roots[msg.key])
+      state.roots[msg.key] = msg
+  }
 
+  function update (state, thread1, thread2) {
+
+    if(!thread1 || !state.roots[thread1]) return thread2
+    else if(!thread2 || !state.roots[thread2]) return thread1
+    else
+      return (
+      threadTimestamp(state.roots[thread1])
+      < threadTimestamp(state.roots[thread2])
+    ) ? thread1 : thread2
+
+  }
+
+  state.channels = state.channels || {}
   var channel = msg.value.content.channel
   //check type so likes etc don't bump channels
   if(channel && msg.value.content.type === 'post') {
-    state.channels = state.channels || {}
-    var key = msg.value.content.root || msg.key
-    if(
-      //we don't havn't noticed this channel yet
-      !state.channels[channel] ||
-      //this is a newer message in this channel
-      threadTimestamp(state.roots[state.channels[channel]])
-      < threadTimestamp(state.roots[key])
+    state.channels[channel] = update(
+      state,
+      state.channels[channel],
+      msg.value.content.root || msg.key
     )
-      state.channels[channel] = key
+  }
+
+  state.private = state.private || {}
+  if(msg.value.content.recps && msg.value.private) {
+
+    //cannocialize
+    var group = msg.value.content.recps.map(function (e) {
+      return (isString(e) ? e : e.link)
+    }).filter(function (id) {
+      return id !== state.self
+    }).map(function (id) {
+      return id.substring(0, 10)
+    }).join(',')
+
+    state.private[group] = update(
+      state,
+      state.private[group],
+      msg.value.content.root || msg.key
+    )
   }
 
   state.stats.messages ++
@@ -101,6 +138,7 @@ function threadReduce (state, msg) {
 }
 
 module.exports.threadReduce = threadReduce
+
 
 
 

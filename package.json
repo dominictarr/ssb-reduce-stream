@@ -10,6 +10,8 @@
   "dependencies": {},
   "devDependencies": {
     "ssb-client": "^4.5.0",
+    "ssb-keys": "^7.0.10",
+    "ssb-validate": "^1.1.1",
     "tape": "^4.7.0"
   },
   "scripts": {
