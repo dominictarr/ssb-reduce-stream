@@ -119,8 +119,8 @@ function threadReduce (state, msg) {
     //cannocialize
     var group = msg.value.content.recps.map(function (e) {
       return (isString(e) ? e : e.link)
-    }).filter(function (id) {
-      return id !== state.self
+//    }).filter(function (id) {
+//      return id !== state.self
     }).map(function (id) {
       return id.substring(0, 10)
     }).join(',')
@@ -132,12 +132,25 @@ function threadReduce (state, msg) {
     )
   }
 
+
+  state.groups = state.groups || {}
+  var group = msg.value.content.group
+  //check type so likes etc don't bump channels
+  if(group && msg.value.content.type === 'post') {
+    state.groups[group] = update(
+      state,
+      state.groups[group],
+      msg.value.content.root || msg.key
+    )
+  }
+
   state.stats.messages ++
 
   return state
 }
 
 module.exports.threadReduce = threadReduce
+
 
 
 
