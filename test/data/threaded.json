@@ -787,10 +787,9 @@
     "messages": 93,
     "threads": 13
   },
-  "effect": null,
   "channels": {
     "politics": "%dXbJitCktgFUe27xkKr5dVhxOp4Y196plAwuFSNOx4M=.sha256",
-    "games": "%wyt0Qre0vExwdjjDRvCFEVxHvdaHDTLlVa346KWx4M0=.sha256",
+    "games": "%anpt1R/I3s+3KtDiRfed2cff2RJtYEoy9sVs8uxNdvY=.sha256",
     "growingfood": "%lqgJ1j1VRrUSXyKPkTSx+1bl+r7RsCN2WRxCPyaVwO0=.sha256",
     "mesh-networking": "%rUCyohL359T7AJRxNBK4IixJVnTvqOobgsWjUl0h1nI=.sha256",
     "p2p": "%WO0KIe02tchTC7ULWo3Bbc5vlnNHjWITTYqNOv7G31g=.sha256",
@@ -798,5 +797,9 @@
     "home-ownership": "%vt6olvLlS2R4kvyoH0iwvsQEvHWmF0sOPUB+kdoJtVc=.sha256",
     "berlin": "%TQKZiOp0+fAA8FTHmo8G/uINZmvdEUSxnb4wwqVXogk=.sha256",
     "software": "%adAdEQ//zWk52YiBZa0G7oFZdNfdG5DemqHCbnEjVHU=.sha256"
-  }
+  },
+  "private": {},
+  "effect": null
 }
+
+

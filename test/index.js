@@ -18,6 +18,7 @@ tape('reduce', function (t) {
     state.effect = null
   })
 //  console.log(JSON.stringify(state, null, 2))
+
   retrive = retrive.filter(function (key) {
     return !state.roots[key]
   })
@@ -26,6 +27,15 @@ tape('reduce', function (t) {
   t.equal(state.stats.messages, 93)
   t.equal(state.stats.threads, 13)
   t.deepEqual(state, threaded)
+  t.deepEqual(state.stats, threaded.stats)
+  t.deepEqual(Object.keys(state.roots), Object.keys(threaded.roots))
+  t.deepEqual(state.channels, threaded.channels)
+  t.deepEqual(state.private, threaded.private)
 
   t.end()
 })
+
+
+
+
+
