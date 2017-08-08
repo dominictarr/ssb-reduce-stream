@@ -6,7 +6,6 @@ require('ssb-client')(function (err, sbot) {
     pull.through(console.log),
     require('../')(sbot.get, null, function (err, state) {
       console.log(state)
-      sbot.close()
     })
   )
 
