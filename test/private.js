@@ -78,12 +78,38 @@ function toKeyValue (msg) {
   }
 }
 
+var tape = require('tape')
 
-var threads =
-  state.queue.slice().reverse()
-    .map(toKeyValue)
-    .map(unbox.bind(null, alice))
-    .reduce(require('../').threadReduce, {self: alice.id})
+tape("alice's threads", function (t) {
+  var threads =
+    state.queue.slice().reverse()
+      .map(toKeyValue)
+      .map(unbox.bind(null, alice))
+      .reduce(require('../').threadReduce, {self: alice.id})
 
-console.log(threads)
+  console.log(threads)
+
+  //3 messages that alice can read.
+  t.deepEqual(
+    threads.stats,
+    {threads: 1, messages: 3}
+  )
+
+  t.ok(threads.private[
+    alice.id.substring(0,10)+','+
+    bob.id.substring(0,10)
+  ])
+
+  t.ok(threads.private[
+    alice.id.substring(0,10)+','+
+    bob.id.substring(0,10)+','+
+    charles.id.substring(0, 10)
+  ])
+
+  t.end()
+})
+
+
+
+
 
