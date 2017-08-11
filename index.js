@@ -1,4 +1,3 @@
-
 module.exports = function (get, reduce, done) {
   reduce = reduce || threadReduce
   var state
@@ -22,136 +21,49 @@ module.exports = function (get, reduce, done) {
   }
 }
 
-function isString (s) {
-  return 'string' === typeof s
-}
-
-function isObject (o) {
-  return 'object' === typeof o
-}
-
-function find (list, test) {
-  for(var i = 0; i < list.length; i++)
-    if(test(list[i], i, list)) return i
-  return -1
-}
-
-function threadTimestamp (thread) {
-  if(!thread) throw new Error('thread must be provided')
-  if(!thread.replies || !thread.replies.length) return thread.value.timestamp
-  else
-    return thread.replies.reduce(function (max, msg) {
-      return Math.max(max, msg.value.timestamp)
-    }, 0)
-}
-
-function threadReduce (state, msg) {
-  if(!state) state = {}
-
-  state.roots = state.roots || {}
-  state.stats = state.stats || {messages: 0, threads: 0}
-
-  //ignore private messages (for now)
-  if(!msg.key) throw new Error('invalid message:'+JSON.stringify(msg))
-  if(!isObject(msg.value.content)) return state
-
-  if(state.roots[msg.key] && !state.roots[msg.key].value) {
-    //we must have retrived this message out of order
-    var replies = state.roots[msg.key].replies
-    state.roots[msg.key] = msg
-    msg.replies = replies
+function initial () {
+  return {
+    messages:{},
+    request: {older: true, newer: true},
+    newer: [],
+    older: [],
+    log: []
   }
+}
 
-  //aha, missing a thing for when a message is first in the thread.
+function More (reduce, get) {
 
-  //not "else if" because a message can be both a reply and
-  //a root, SADFACE
-  var id = msg.value.content.root
-  if(id) {
-    if(state.roots[id]) {
-      //check we havn't already added this msg
-      var root = state.roots[id]
-      if(~find(root.replies, function (e) { return e.key == msg.key }))
-        return state
-      root.replies = root.replies || []
-      root.replies.push(msg)
-    }
-    else {
-      //need to retrive the root for this one
-      state.roots[id] = {
-        replies: [msg]
-      }
-      state.effect = {type:'get', key: id}
-      state.stats.threads ++
+  var state = reduce(null)
+
+  var fn
+  function obv (_fn, immediate) {
+    fn = _fn
+    if(immediate !== false && _fn(state) === true) obv.more()
+    return function () {
+      fn = null
     }
   }
-  else if(!msg.value.content.root && msg.value.content.type == 'post') {
-    if(!state.roots[msg.key])
-      state.roots[msg.key] = msg
+
+  obv.more = function () {
+    if(state.reading) return //only allow one request at a time
+    state.reading = true
+    get(null, function (err, data) {
+      state.reading = false
+      if(err) state.ended = err
+      else obv.value = state = reduce(state, data)
+
+      if(fn && (state.more || fn(state) === true) && !state.ended)
+        obv.more()
+    })
   }
 
-  function update (state, thread1, thread2) {
+  obv.more()
 
-    if(!thread1 || !state.roots[thread1]) return thread2
-    else if(!thread2 || !state.roots[thread2]) return thread1
-    else
-      return (
-      threadTimestamp(state.roots[thread1])
-      < threadTimestamp(state.roots[thread2])
-    ) ? thread1 : thread2
-
-  }
-
-  state.channels = state.channels || {}
-  var channel = msg.value.content.channel
-  //check type so likes etc don't bump channels
-  if(channel && msg.value.content.type === 'post') {
-    state.channels[channel] = update(
-      state,
-      state.channels[channel],
-      msg.value.content.root || msg.key
-    )
-  }
-
-  state.private = state.private || {}
-  if(msg.value.content.recps && msg.value.private) {
-
-    //cannocialize
-    var group = msg.value.content.recps.map(function (e) {
-      return (isString(e) ? e : e.link)
-//    }).filter(function (id) {
-//      return id !== state.self
-    }).map(function (id) {
-      return id.substring(0, 10)
-    }).join(',')
-
-    state.private[group] = update(
-      state,
-      state.private[group],
-      msg.value.content.root || msg.key
-    )
-  }
-
-
-  state.groups = state.groups || {}
-  var group = msg.value.content.group
-  //check type so likes etc don't bump channels
-  if(group && msg.value.content.type === 'post') {
-    state.groups[group] = update(
-      state,
-      state.groups[group],
-      msg.value.content.root || msg.key
-    )
-  }
-
-  state.stats.messages ++
-
-  return state
+  return obv
 }
 
-module.exports.threadReduce = threadReduce
-
-
+module.exports.more = More
+module.exports.threadReduce = require('./reduce')
 
 
 
