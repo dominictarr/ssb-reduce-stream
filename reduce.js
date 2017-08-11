@@ -27,7 +27,6 @@ function threadReduce (state, msg) {
 
   state.roots = state.roots || {}
   state.stats = state.stats || {messages: 0, threads: 0}
-
   if(!msg) return state
   //ignore private messages (for now)
   if(!msg.key) throw new Error('invalid message:'+JSON.stringify(msg))
@@ -49,7 +48,7 @@ function threadReduce (state, msg) {
     if(state.roots[id]) {
       //check we havn't already added this msg
       var root = state.roots[id]
-      if(~find(root.replies, function (e) { return e.key == msg.key }))
+      if(root.replies && ~find(root.replies || [], function (e) { return e.key == msg.key }))
         return state
       root.replies = root.replies || []
       root.replies.push(msg)
@@ -97,8 +96,6 @@ function threadReduce (state, msg) {
     //cannocialize
     var group = msg.value.content.recps.map(function (e) {
       return (isString(e) ? e : e.link)
-//    }).filter(function (id) {
-//      return id !== state.self
     }).map(function (id) {
       return id.substring(0, 10)
     }).join(',')
@@ -128,5 +125,7 @@ function threadReduce (state, msg) {
 }
 
 module.exports = threadReduce
+
+
 
 
