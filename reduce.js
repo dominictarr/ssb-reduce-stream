@@ -48,8 +48,10 @@ function threadReduce (state, msg) {
     if(state.roots[id]) {
       //check we havn't already added this msg
       var root = state.roots[id]
-      if(root.replies && ~find(root.replies || [], function (e) { return e.key == msg.key }))
+      if(root.replies && ~find(root.replies, function (e) { return e.key == msg.key })) {
+        var r = root.replies.map(function (e) { return e.key })
         return state
+      }
       root.replies = root.replies || []
       root.replies.push(msg)
     }
@@ -125,6 +127,8 @@ function threadReduce (state, msg) {
 }
 
 module.exports = threadReduce
+
+
 
 
 
