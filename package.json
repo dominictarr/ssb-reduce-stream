@@ -1,7 +1,7 @@
 {
   "name": "ssb-reduce-stream",
   "description": "",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/dominictarr/ssb-reduce-stream",
   "repository": {
     "type": "git",
