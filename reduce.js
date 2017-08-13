@@ -22,6 +22,15 @@ function threadTimestamp (thread) {
     }, 0)
 }
 
+function toRecpGroup(msg) {
+  //cannocialize
+  return msg.value.content.recps.map(function (e) {
+    return (isString(e) ? e : e.link)
+  }).sort().map(function (id) {
+    return id.substring(0, 10)
+  }).join(',')
+}
+
 function threadReduce (state, msg) {
   if(!state) state = {}
 
@@ -95,12 +104,7 @@ function threadReduce (state, msg) {
   state.private = state.private || {}
   if(msg.value.content.recps && msg.value.private) {
 
-    //cannocialize
-    var group = msg.value.content.recps.map(function (e) {
-      return (isString(e) ? e : e.link)
-    }).map(function (id) {
-      return id.substring(0, 10)
-    }).join(',')
+    var group = toRecpGroup(msg)
 
     state.private[group] = update(
       state,
@@ -127,9 +131,4 @@ function threadReduce (state, msg) {
 }
 
 module.exports = threadReduce
-
-
-
-
-
 
