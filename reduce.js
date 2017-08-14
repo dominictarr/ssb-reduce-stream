@@ -86,7 +86,7 @@ function threadReduce (state, msg) {
       return (
       threadTimestamp(state.roots[thread1])
       < threadTimestamp(state.roots[thread2])
-    ) ? thread1 : thread2
+    ) ? thread2 : thread1
 
   }
 
