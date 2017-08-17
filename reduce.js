@@ -18,7 +18,7 @@ function threadTimestamp (thread) {
   if(!thread.replies || !thread.replies.length) return thread.value.timestamp
   else
     return thread.replies.reduce(function (max, msg) {
-      return Math.max(max, msg.value.timestamp)
+      return Math.max(max, msg.value.timestamp || null)
     }, 0)
 }
 
